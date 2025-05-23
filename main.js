@@ -17641,4 +17641,61 @@
     props: {},
   });
 })();
+// Create a button element
+const button = document.createElement('button');
+button.innerText = 'Import Data';
 
+// Style the button for the bottom-left corner
+button.style.position = 'fixed';
+button.style.bottom = '50px'; // Slightly above the download button
+button.style.left = '10px';
+button.style.zIndex = '1000';
+button.style.padding = '10px 15px';
+button.style.backgroundColor = '#28A745';
+button.style.color = 'white';
+button.style.border = 'none';
+button.style.borderRadius = '5px';
+button.style.cursor = 'pointer';
+
+// Append the button to the body
+document.body.appendChild(button);
+
+// Add click event listener to the button
+button.addEventListener('click', () => {
+  // Create an input element for file selection
+  const input = document.createElement('input');
+  input.type = 'file';
+  input.accept = '.json';
+
+  // Add an event listener to handle file selection
+  input.addEventListener('change', () => {
+    const file = input.files[0];
+
+    if (!file) {
+      alert('No file selected.');
+      return;
+    }
+
+    const reader = new FileReader();
+
+    reader.onload = (event) => {
+      try {
+        // Parse the imported JSON
+        const importedData = JSON.parse(event.target.result);
+
+        // Replace "userStats" in localStorage with imported data
+        localStorage.setItem('userStats', JSON.stringify(importedData));
+        alert('Data imported successfully and replaced "userStats" in localStorage!');
+      } catch (error) {
+        console.error('Error parsing JSON:', error);
+        alert('Failed to import data. Ensure the file is a valid JSON.');
+      }
+    };
+
+    // Read the file as a text
+    reader.readAsText(file);
+  });
+
+  // Programmatically trigger the file input click
+  input.click();
+});
