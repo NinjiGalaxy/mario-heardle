@@ -203,7 +203,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       .. Wario Land: Super Mario Land 3 (1994, Game Boy)
       
-      //"Main Theme - Wario Land: Super Mario Land 3",
+      //"Rice Beach (Main Theme) - Wario Land: Super Mario Land 3",
       //"Kitchen Island (World Map) - Wario Land: Super Mario Land 3",
       //D//"Underwater Course - Wario Land: Super Mario Land 3",
       //"Train Course - Wario Land: Super Mario Land 3",
@@ -476,7 +476,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //D//"Alpina Blue - Yoshi's Story",
       //"Baby Bowser's Lullaby - Yoshi's Story",
       //"Song Of Happiness - Yoshi's Story",
-      //D//"Ending Story - Yoshi's Story",
+      //D//"Yoshi's Tale (Ending) - Yoshi's Story",
       
       .. Wrecking Crew '98 (1998, SNES)
       
@@ -2440,7 +2440,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Choose Your Adventure - Bowser's Fury",
       "Lake Lapcat - Bowser's Fury",
       "Scamper Shores - Bowser's Fury",
-      "Bowser's Fury - Bowser's Fury",
+      "Attack! Fury Bowser - Bowser's Fury",
       "Pounce Bounce Isle - Bowser's Fury",
       "Crisp Climb Castle - Bowser's Fury",
       "Fort Flaptrap - Bowser's Fury",
