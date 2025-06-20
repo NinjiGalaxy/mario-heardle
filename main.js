@@ -172,7 +172,7 @@
 "Attack The Enemy (Battle) - Mario & Luigi: Partners In Time",//10-02-22
 "Sky [Super Mario Bros.] - Super Mario Maker 2",//10-03-22
 "Mario Paint Medley - Super Smash Bros. For 3DS/Wii U",//10-04-22
-"Main Theme - Super Mario Party",//10-05-22
+"Title Screen - Super Mario Party",//10-05-22
 "GCN Luigi's Mansion - Mario Kart 8 Deluxe",//10-06-22
 "Persistant Joy (Have A Nice Talk) - Mario & Luigi: Bowser's Inside Story (DS)",//10-07-22
 "Conkdor Canyon - Super Mario 3D World",//10-08-22
@@ -840,7 +840,7 @@
 "Rainbow Road - Mario Kart 8",//07-31-24
 "Staff Roll (Super Mario 64) - Mario & Sonic at the Sochi 2014 Olympic Winter Games",//08-01-24
 "World 1 (Simian Segue) - DK: King Of Swing",//08-02-24
-"Main Theme - Wario Land: Super Mario Land 3",//08-03-24
+"Rice Beach (Main Theme) - Wario Land: Super Mario Land 3",//08-03-24
 "Hammer Bros. - Super Mario Bros. 3",//08-04-24
 "GBA Peach Circuit - Mario Kart Tour",//08-05-24
 "Isle Delfino - Super Mario Sunshine",//08-06-24
@@ -1307,7 +1307,7 @@
 "T.T.'s Theme - Diddy Kong Racing",
 "Title Screen - Yoshi's Story",
 "Alpina Blue - Yoshi's Story",
-"Ending Story - Yoshi's Story",
+"Yoshi's Tale (Ending) - Yoshi's Story",
 "Battling Someone - Wrecking Crew '98",
 "Underwater Tunnels - Wario Land II",
 "Up On The Rooftop - Wario Land II",
@@ -1996,7 +1996,7 @@
 "The Final Battle - Paper Mario: The Origami King",//02-18
 "Main Theme - Mario Kart Live: Home Circuit",//05-24
 "Scamper Shores - Bowser's Fury",//08-29
-"Bowser's Fury - Bowser's Fury",//01-05
+"Attack! Fury Bowser - Bowser's Fury",//01-05
 "Pounce Bounce Isle - Bowser's Fury",//12-24
 "Mount Magmeow - Bowser's Fury",//02-12
 "Staff Roll - Bowser's Fury",
@@ -2788,7 +2788,7 @@
           },
           {
             url: "https://soundcloud.com/user-910172339/super-mario-party-ost-title",
-            answer: "Main Theme - Super Mario Party",
+            answer: "Title Screen - Super Mario Party",
           },
           {
             url: "https://soundcloud.com/vgmc/gcn-luigis-mansion-mario-kart",
@@ -5460,7 +5460,7 @@
           },
           {
             url: "https://soundcloud.com/vgmplanet/04-stage-theme-i",
-            answer: "Main Theme - Wario Land: Super Mario Land 3",
+            answer: "Rice Beach (Main Theme) - Wario Land: Super Mario Land 3",
           },
           {
             url: "https://soundcloud.com/vgmplanet/19-track-19-30891404",
@@ -5783,7 +5783,7 @@
             answer: "The Violet Isles - Paper Mario: Color Splash",
           },
           {
-            url: "https://soundcloud.com/user-675036643/title-screen-bowsers-fury",
+            url: "https://soundcloud.com/tens-570808409/02-title-screen-bowsers-fury",
             answer: "Title Screen - Bowser's Fury",
           },
           {
@@ -6371,7 +6371,7 @@
             answer: "King Boo Battle - Luigi's Mansion (GameCube)",
           },
           {
-            url: "https://soundcloud.com/megawoofy/final-showdown-with-fury",
+            url: "https://soundcloud.com/tens-570808409/final-showdown-with-fury",
             answer: "Final Showdown With Fury Bowser - Bowser's Fury",
           },
           {
