@@ -438,7 +438,7 @@
 "Chilly Waters - Mario Party 3",//06-25-23
 "Peach's Castle (Super Mario RPG) - Fortune Street",//06-26-23
 "Ground Theme (New Super Mario Bros. Wii) - Mario & Sonic at the Rio 2016 Olympic Games",//06-27-23
-"Baby Bowser's Lullaby - Yoshi's Story",//06-28-23
+"Baby Bowser's Castle - Yoshi's Story",//06-28-23
 "Simian Segue (World Map) - Donkey Kong Country (SNES)",//06-29-23
 "Out Of The Woods (Day) - Wario Land 3",//06-30-23
 "Underground - Super Mario World 2: Yoshi's Island",//07-01-23
@@ -453,7 +453,7 @@
 "Mt. Rugged - Paper Mario (N64)",//07-10-23
 "Water World - Donkey Kong Country 3 (GBA)",//07-11-23
 "World 5 - Super Mario 3D Land",//07-12-23
-"Song Of Happiness - Yoshi's Story",//07-13-23
+"The Yoshis Grew Happier - Yoshi's Story",//07-13-23
 "Stop That Train! - Wario Land II",//07-14-23
 "Bonus Room Blitz - Donkey Kong Country (SNES)",//07-15-23
 "Relaxed (Rocky Road, Snow Whirled, etc) - Mario Party 6",//07-16-23
@@ -596,7 +596,7 @@
 "Crazy Cap - Super Mario Odyssey",//11-30-23
 "GBA Snow Land (Wave 2) - MK8DX Booster Course Pass Waves 1-3",//12-01-23
 "Grassland Groove - Donkey Kong Country: Tropical Freeze",//12-02-23
-"Love Is In The Air - Yoshi's Story",//12-03-23
+"Yoshis And The Wind - Yoshi's Story",//12-03-23
 "Starship Mario - Super Mario Galaxy 2",//12-04-23
 "Peach's Birthday Cake - Mario Party (N64)",//12-05-23
 "N64 Toad's Turnpike - Mario Kart 8",//12-06-23
@@ -982,7 +982,7 @@
 "Title Screen - Wario Land: Shake It!",//12-20-24
 "Beach - New Super Mario Bros. Wii",//12-21-24
 "Bowser's Bullet Bill Brigade - Super Mario 3D World",//12-22-24
-"Yo Yo Yoshi - Yoshi's Story",//12-23-24
+"Yo Yo Yoshi! - Yoshi's Story",//12-23-24
 "Player Select - Super Mario Bros. 2",//12-24-24
 "Snow Village - Princess Peach: Showtime!",//12-25-24
 "Dream Snowball Fight: (Cool Cool Mountain ~ Super Mario 64) - Mario & Sonic At The Olympic Winter Games (Wii)",//12-26-24
@@ -1306,7 +1306,7 @@
 "Crescent Island / Staff Roll - Diddy Kong Racing",
 "T.T.'s Theme - Diddy Kong Racing",
 "Title Screen - Yoshi's Story",
-"Alpina Blue - Yoshi's Story",
+"Alpine Yoshi Music - Yoshi's Story",
 "Yoshi's Tale (Ending) - Yoshi's Story",
 "Battling Someone - Wrecking Crew '98",
 "Underwater Tunnels - Wario Land II",
@@ -6028,7 +6028,7 @@
           },
           {
             url: "https://soundcloud.com/yoshiheardle/yo-yo-yoshi-yoshis-story",
-            answer: "Yo Yo Yoshi - Yoshi's Story",
+            answer: "Yo Yo Yoshi! - Yoshi's Story",
           },
           {
             url: "https://soundcloud.com/vgmc/select-your-character-super",
