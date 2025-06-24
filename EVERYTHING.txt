@@ -471,11 +471,11 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       //6//"Title Screen - Yoshi's Story",
       //"Yoshi's Song - Yoshi's Story",
-      //"Yo Yo Yoshi - Yoshi's Story",
-      //"Love Is In The Air - Yoshi's Story",
-      //D//"Alpina Blue - Yoshi's Story",
-      //"Baby Bowser's Lullaby - Yoshi's Story",
-      //"Song Of Happiness - Yoshi's Story",
+      //"Yo Yo Yoshi! - Yoshi's Story",
+      //"Yoshis And The Wind - Yoshi's Story",
+      //D//"Alpine Yoshi Music - Yoshi's Story",
+      //"Baby Bowser's Castle - Yoshi's Story",
+      //"The Yoshis Grew Happier - Yoshi's Story",
       //D//"Yoshi's Tale (Ending) - Yoshi's Story",
       
       .. Wrecking Crew '98 (1998, SNES)
