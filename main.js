@@ -40,7 +40,7 @@
 "Funky Stadium - Mario Kart Wii",//05-23-22
 "Ground - Super Mario Advance (Super Mario Bros. 2)",//05-24-22
 "Pipe Land (World 7) - Super Mario Bros. 3",//05-25-22
-"Volcano Underground - New Super Mario Bros. Wii",//05-26-22
+"Lava Cave - New Super Mario Bros. Wii",//05-26-22
 "Sudden Death - Mario Strikers Charged",//05-27-22
 "Mario Cup - Mario Kart Arcade GP",//05-28-22
 "Don't Look Down (Buzzstormer, Fun Run, etc) - Mario Party 7",//05-29-22
@@ -549,7 +549,7 @@
 "Glittertown/Neon City (Wario World ~ Greenhorn Ruins) - Wario Land: Shake It!",//10-14-23
 "Ground - Super Mario World",//10-15-23
 "Desert - New Super Mario Bros. (DS)",//10-16-23
-"Main Menu - New Super Mario Bros. U",//10-17-23
+"File Select - New Super Mario Bros. U",//10-17-23
 "Ghost House (Coin Rush) - Super Mario Run",//10-18-23
 "Athletic - Super Mario Bros. 3",//10-19-23
 "Castle - New Super Mario Bros. (DS)",//10-20-23
@@ -990,7 +990,7 @@
 "Shivering Mountains - Wario World",//12-28-24
 "A Little Light Snowfall - Yoshi's Woolly World",//12-29-24
 "Slippenglide Island - Mario & Luigi: Brothership",//12-30-24
-"Snow - New Super Mario Bros. U",//12-31-24
+"Snowfield - New Super Mario Bros. U",//12-31-24
 "Title Screen - Mario no Photopi",//01-01-25
 "Battle - Mario & Luigi: Brothership",//01-02-25
 "Bonus - Super Mario World",//01-03-25
@@ -1542,11 +1542,11 @@
 "Dance With Babies (Staff Roll) - Mario & Luigi: Partners In Time",
 "Title Screen - New Super Mario Bros. (DS)",//02-02
 "Ground - New Super Mario Bros. (DS)",//08-18
-"Bonus - New Super Mario Bros. (DS)",
+"Bonus Area - New Super Mario Bros. (DS)",
 "Athletic - New Super Mario Bros. (DS)",
 "Underwater - New Super Mario Bros. (DS)",//01-22
 "World 7 (Sky) - New Super Mario Bros. (DS)",
-"Volcano - New Super Mario Bros. (DS)",//11-20
+"Lava - New Super Mario Bros. (DS)",//11-20
 "Staff Roll - New Super Mario Bros. (DS)",
 "The Plains (Mario vs. Luigi) - New Super Mario Bros. (DS)",
 "Title Screen - Mario Hoops 3-On-3",//11-14
@@ -1662,16 +1662,16 @@
 "Adventure Tours: Boss - Mario & Sonic At The Olympic Winter Games (DS)",
 "World 1 (Grass) - New Super Mario Bros. Wii",//11-30
 "Underground - New Super Mario Bros. Wii",//02-05
-"Bonus - New Super Mario Bros. Wii",
+"Bonus Area - New Super Mario Bros. Wii",
 "Underwater - New Super Mario Bros. Wii",
 "Athletic - New Super Mario Bros. Wii",//04-26
 "Castle - New Super Mario Bros. Wii",//08-27
 "Desert - New Super Mario Bros. Wii",//12-14
-"Snow - New Super Mario Bros. Wii",//11-05
+"Snowfield - New Super Mario Bros. Wii",//11-05
 "Airship - New Super Mario Bros. Wii",//03-24
 "World 6 (Mountain) - New Super Mario Bros. Wii",//11-15
 "World 8 (Lava) - New Super Mario Bros. Wii",//04-07
-"Volcano - New Super Mario Bros. Wii",//10-02
+"Lava - New Super Mario Bros. Wii",//10-02
 "Staff Roll - New Super Mario Bros. Wii",
 "Sky Station Galaxy - Super Mario Galaxy 2",//10-13
 "Spin-Dig Galaxy/Boulder Bowl Galaxy - Super Mario Galaxy 2",//03-04
@@ -1755,7 +1755,7 @@
 "Acorn Plains (World 1) - New Super Mario Bros. U",//01-24
 "Ground - New Super Mario Bros. U",
 "Athletic - New Super Mario Bros. U",//08-11
-"Soda Jungle ~ Deep Jungle (World 5) - New Super Mario Bros. U",
+"Soda Jungle ~ Ghost House (World 5) - New Super Mario Bros. U",
 "Rock Candy Mines (World 6) - New Super Mario Bros. U",
 "Staff Roll - New Super Mario Bros. U",
 "Title Screen - Luigi's Mansion: Dark Moon",
@@ -2260,7 +2260,7 @@
           },
           {
             url: "https://soundcloud.com/vgmplanet/lava-underground",
-            answer: "Volcano Underground - New Super Mario Bros. Wii",
+            answer: "Lava Cave - New Super Mario Bros. Wii",
           },
           {
             url: "https://soundcloud.com/vgmplanet/sudden-death",
@@ -4296,7 +4296,7 @@
           },
           {
             url: "https://soundcloud.com/user-107491243-28699163/menu",
-            answer: "Main Menu - New Super Mario Bros. U",
+            answer: "File Select - New Super Mario Bros. U",
           },
           {
             url: "https://soundcloud.com/minimarioamiibo/ghost-house-coin-rush",
@@ -6060,7 +6060,7 @@
           },
           {
             url: "https://soundcloud.com/user-107491243-28699163/frosted-glacier-overworld",
-            answer: "Snow - New Super Mario Bros. U",
+            answer: "Snowfield - New Super Mario Bros. U",
           },
           {
             url: "https://soundcloud.com/superninjigalaxy-2/title-screen",
