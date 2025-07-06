@@ -1997,7 +1997,7 @@ let _metadata = createMetadata({
 "Toad Town (Purple Streamer Removal) - Paper Mario: The Origami King": [2020, "Switch", "Paper Mario", "Paper Mario: The Origami King", "RPG"],
 "Bowser's Castle - Paper Mario: The Origami King": [2020, "Switch", "Paper Mario", "Paper Mario: The Origami King", "RPG"],
 "The Final Battle - Paper Mario: The Origami King": [2020, "Switch", "Paper Mario", "Paper Mario: The Origami King", "RPG"],
-"Main Theme - Mario Kart Live: Home Circuit": [2029, "Switch", "Mario Kart", "Mario Kart Live: Home Circuit", "Racing"],
+"Main Theme - Mario Kart Live: Home Circuit": [2020, "Switch", "Mario Kart", "Mario Kart Live: Home Circuit", "Racing"],
 "Scamper Shores - Bowser's Fury": [2021, "Switch", "Super Mario", "Bowser's Fury", "3D Platformer"],
 "Attack! Fury Bowser - Bowser's Fury": [2021, "Switch", "Super Mario", "Bowser's Fury", "3D Platformer"],
 "Pounce Bounce Isle - Bowser's Fury": [2021, "Switch", "Super Mario", "Bowser's Fury", "3D Platformer"],
