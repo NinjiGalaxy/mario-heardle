@@ -462,8 +462,8 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"Hot Top Volcano - Diddy Kong Racing",
       //D//"Walrus Cove - Diddy Kong Racing",
       //"Frosty Village - Diddy Kong Racing",
-      //D//"Crescent Island / Staff Roll - Diddy Kong Racing",
-      //"Darkmoon Caverns - Diddy Kong Racing",
+      //D//"Crescent Island / Staff Roll 2 - Diddy Kong Racing",
+      //"Darkmoon Caverns / Staff Roll - Diddy Kong Racing",
       //D//"Spaceport Alpha - Diddy Kong Racing",
       //D//"T.T.'s Theme - Diddy Kong Racing",
       
