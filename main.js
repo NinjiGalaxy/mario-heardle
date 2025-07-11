@@ -382,7 +382,7 @@
 "Welcome To The Mushroom Kingdom - The Super Mario Bros. Movie",//04-30-23
 "Penguin Iceberg - Mario Tennis Open",//05-01-23
 "Golden Hammer - Wrecking Crew",//05-02-23
-"Darkmoon Caverns - Diddy Kong Racing",//05-03-23
+"Darkmoon Caverns / Staff Roll - Diddy Kong Racing",//05-03-23
 "Main Menu - WarioWare, Inc.: Mega Microgame$!",//05-04-23
 "Flower Field - Super Mario Advance 3: Yoshi's Island",//05-05-23
 "Chain Chomp Roulette - Mario Kart Wii",//05-06-23
@@ -1326,7 +1326,7 @@
 "Treetop Tumble - Donkey Kong Land III",
 "Jungle Falls - Diddy Kong Racing",
 "Walrus Cove - Diddy Kong Racing",
-"Crescent Island / Staff Roll - Diddy Kong Racing",
+"Crescent Island / Staff Roll 2 - Diddy Kong Racing",
 "T.T.'s Theme - Diddy Kong Racing",
 "Alpine Yoshi Music - Yoshi's Story",
 "Yoshi's Tale (Ending) - Yoshi's Story",
@@ -3628,7 +3628,7 @@
           },
           {
             url: "https://soundcloud.com/vgmc/darkmoon-caverns-diddy-kong-racing-1997",
-            answer: "Darkmoon Caverns - Diddy Kong Racing",
+            answer: "Darkmoon Caverns / Staff Roll - Diddy Kong Racing",
           },
           {
             url: "https://soundcloud.com/vgmplanet/a07-main-menu",
