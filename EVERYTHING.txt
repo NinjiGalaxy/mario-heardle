@@ -414,7 +414,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       Mario Kart 64 (1996, N64)
       
       "Title Screen - Mario Kart 64",
-      //D//"Main Menu - Mario Kart 64",
+      //D//"Selection Screens - Mario Kart 64",
       "Luigi/Mario/Royal Raceway/Wario Stadium - Mario Kart 64",
       "Moo Moo Farm/Yoshi Valley - Mario Kart 64",
       "Koopa Troopa Beach - Mario Kart 64",
@@ -428,7 +428,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Rainbow Road - Mario Kart 64",
       //"Battle Arenas - Mario Kart 64",
       //D//"Winning Results - Mario Kart 64",
-      //"Trophy Presentation - Mario Kart 64",
+      //"Awards Ceremony - Mario Kart 64",
       "Staff Roll - Mario Kart 64",
       
       Game & Watch Gallery (1997, Game Boy)
@@ -2739,6 +2739,12 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //C//"Slippenglide Island - Mario & Luigi: Brothership",
       //C//"Jellyfish Island - Mario & Luigi: Brothership",
       //C//"Wayaway Island (Super Mario Bros. 3 ~ Fortress) - Mario & Luigi: Brothership",
+
+      .E. Mario Kart World (2025, Switch 2)
+      //E//"TBA - Mario Kart World",
+
+      .E. Donkey Kong Bananza (2025, Switch 2)
+      //E//"TBA - Donkey Kong Bananza",
 
       .A. April Fools
       
