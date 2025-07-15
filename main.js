@@ -1312,13 +1312,13 @@
 "Jangle Bells - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
 "Water World - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
 "Brothers Bear - Donkey Kong Country 3: Dixie Kong's Double Trouble!",
-"Main Menu - Mario Kart 64",
+"Selection Screens - Mario Kart 64",
 "Frappe Snowland/Sherbet Land - Mario Kart 64",//11-09
 "Choco Mountain - Mario Kart 64",//02-09
 "DK's Jungle Parkway - Mario Kart 64",
 "Bowser's Castle - Mario Kart 64",
 "Rainbow Road - Mario Kart 64",//06-15
-"Trophy Presentation - Mario Kart 64",
+"Awards Ceremony - Mario Kart 64",
 "Staff Roll - Mario Kart 64",
 "Manhole - Game & Watch Gallery",//02-01
 "Fire - Game & Watch Gallery",
@@ -17645,48 +17645,79 @@
   });
 })();
 
-const button = document.createElement('button');
-button.innerText = 'Import Data';
+(() => {
+  const downloadButton = document.createElement('button');
+  downloadButton.innerText = 'Download User Stats File';
+  Object.assign(downloadButton.style, {
+    position: 'fixed',
+    bottom: '50px',
+    left: '10px',
+    zIndex: '1000',
+    padding: '10px 15px',
+    backgroundColor: '#007BFF',
+    color: 'white',
+    border: 'none',
+    borderRadius: '5px',
+    cursor: 'pointer',
+  });
+  document.body.appendChild(downloadButton);
 
-button.style.position = 'fixed';
-button.style.bottom = '50px';
-button.style.left = '10px';
-button.style.zIndex = '1000';
-button.style.padding = '10px 15px';
-button.style.backgroundColor = '#28A745';
-button.style.color = 'white';
-button.style.border = 'none';
-button.style.borderRadius = '5px';
-button.style.cursor = 'pointer';
-
-document.body.appendChild(button);
-
-button.addEventListener('click', () => {
-  const input = document.createElement('input');
-  input.type = 'file';
-  input.accept = '.json';
-
-  input.addEventListener('change', () => {
-    const file = input.files[0];
-
-    if (!file) {
-      alert('No file selected.');
+  downloadButton.addEventListener('click', () => {
+    const data = localStorage.getItem('userStats');
+    if (!data) {
+      alert('No data found in localStorage under "userStats"!');
       return;
     }
-
-    const reader = new FileReader();
-
-    reader.onload = (event) => {
-      try {
-        const importedData = JSON.parse(event.target.result);
-        localStorage.setItem('userStats', JSON.stringify(importedData));
-        alert('Data imported successfully and replaced "userStats" in localStorage!');
-      } catch (error) {
-        console.error('Error parsing JSON:', error);
-        alert('Failed to import data. Ensure the file is a valid JSON.');
-      }
-    };
-    reader.readAsText(file);
+    const blob = new Blob([data], { type: 'application/json' });
+    const link = document.createElement('a');
+    link.download = 'userStats.json';
+    link.href = URL.createObjectURL(blob);
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
   });
-  input.click();
-});
+
+  const importButton = document.createElement('button');
+  importButton.innerText = 'Import User Stats File';
+  Object.assign(importButton.style, {
+    position: 'fixed',
+    bottom: '10px',
+    left: '10px',
+    zIndex: '1000',
+    padding: '10px 15px',
+    backgroundColor: '#28A745',
+    color: 'white',
+    border: 'none',
+    borderRadius: '5px',
+    cursor: 'pointer',
+  });
+  document.body.appendChild(importButton);
+
+  importButton.addEventListener('click', () => {
+    const input = document.createElement('input');
+    input.type = 'file';
+    input.accept = '.json';
+
+    input.addEventListener('change', () => {
+      const file = input.files[0];
+      if (!file) {
+        alert('No file selected.');
+        return;
+      }
+      const reader = new FileReader();
+      reader.onload = (event) => {
+        try {
+          const importedData = JSON.parse(event.target.result);
+          localStorage.setItem('userStats', JSON.stringify(importedData));
+          alert('Data imported successfully!');
+        } catch (error) {
+          console.error('JSON parse error:', error);
+          alert('Failed to import data. Invalid JSON file.');
+        }
+      };
+      reader.readAsText(file);
+    });
+
+    input.click();
+  });
+})();
