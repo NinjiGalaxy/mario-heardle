@@ -17656,25 +17656,30 @@
     }
   `;
   document.head.appendChild(style);
-  
-  const downloadButton = document.createElement('button');
-  downloadButton.innerText = 'Download User Stats File';
-  downloadButton.classList.add('custom-btn');
-  Object.assign(downloadButton.style, {
-    position: 'fixed',
-    bottom: '50px',
-    left: '10px',
-    zIndex: '1000',
-    padding: '10px 15px',
-    backgroundColor: '#007BFF',
-    color: 'white',
-    border: 'none',
-    borderRadius: '5px',
-    cursor: 'pointer',
-  });
-  document.body.appendChild(downloadButton);
 
-  downloadButton.addEventListener('click', () => {
+  function createButton(text, bottom, backgroundColor, onClick) {
+    const btn = document.createElement('button');
+    btn.innerText = text;
+    btn.classList.add('custom-btn');
+    Object.assign(btn.style, {
+      position: 'fixed',
+      bottom: `${bottom}px`,
+      left: '10px',
+      zIndex: '1000',
+      padding: '10px 15px',
+      backgroundColor: backgroundColor,
+      color: 'white',
+      border: 'none',
+      borderRadius: '5px',
+      cursor: 'pointer',
+      fontSize: '14px'
+    });
+    btn.addEventListener('click', onClick);
+    document.body.appendChild(btn);
+    return btn;
+  }
+
+  createButton('Download User Stats', 50, '#007BFF', () => {
     const data = localStorage.getItem('userStats');
     if (!data) {
       alert('No data found in localStorage under "userStats"!');
@@ -17689,27 +17694,10 @@
     document.body.removeChild(link);
   });
 
-  const importButton = document.createElement('button');
-  importButton.innerText = 'Import User Stats File';
-  Object.assign(importButton.style, {
-    position: 'fixed',
-    bottom: '10px',
-    left: '10px',
-    zIndex: '1000',
-    padding: '10px 15px',
-    backgroundColor: '#28A745',
-    color: 'white',
-    border: 'none',
-    borderRadius: '5px',
-    cursor: 'pointer',
-  });
-  document.body.appendChild(importButton);
-
-  importButton.addEventListener('click', () => {
+  createButton('Import User Stats', 10, '#28A745', () => {
     const input = document.createElement('input');
     input.type = 'file';
     input.accept = '.json';
-
     input.addEventListener('change', () => {
       const file = input.files[0];
       if (!file) {
@@ -17729,7 +17717,6 @@
       };
       reader.readAsText(file);
     });
-
     input.click();
   });
 })();
