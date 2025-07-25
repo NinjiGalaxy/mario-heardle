@@ -17646,8 +17646,20 @@
 })();
 
 (() => {
+  const style = document.createElement('style');
+  style.textContent = `
+    @media (max-width: 768px) {
+      .custom-btn {
+        padding: 6px 10px !important;
+        font-size: 12px !important;
+      }
+    }
+  `;
+  document.head.appendChild(style);
+  
   const downloadButton = document.createElement('button');
   downloadButton.innerText = 'Download User Stats File';
+  downloadButton.classList.add('custom-btn');
   Object.assign(downloadButton.style, {
     position: 'fixed',
     bottom: '50px',
