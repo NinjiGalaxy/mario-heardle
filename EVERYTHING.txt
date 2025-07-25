@@ -792,7 +792,6 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       .. Donkey Kong Country (2003, GBA)
       
-      //6//"DK Island Swing - Donkey Kong Country (GBA)",
       //"Aquatic Ambiance - Donkey Kong Country (GBA)",
       
       .. Wario World (2003, GameCube)
