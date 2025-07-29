@@ -117,11 +117,11 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       Mario Paint (1992, SNES)
       
       "Title Screen - Mario Paint",
-      "Creative Exercise - Mario Paint",
-      "Monkey Song - Mario Paint",
-      "Mysterious - Mario Paint",
-      //7//"Data Robot - Mario Paint",
-      //"Gnat Attack - Mario Paint",
+      "Drawing Board 1 (Creative Exercise) - Mario Paint",
+      "Drawing Board 2 (Monkey Song) - Mario Paint",
+      "Drawing Board 3 (Mysterious) - Mario Paint",
+      //7//"Save & Load - Mario Paint",
+      //"Gnat Attack: Level 1 - Mario Paint",
       
       Super Mario Kart (1992, SNES)
       
