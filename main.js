@@ -467,7 +467,7 @@
 "Twilight Trail - Paper Mario: The Thousand-Year Door (GameCube)",//07-24-23
 "Cool, Cool Mountain/Snowman's Land - Super Mario 64",//07-25-23
 "Creep Blue Sea - Wario Land: Shake It!",//07-26-23
-"Gnat Attack - Mario Paint",//07-27-23
+"Gnat Attack: Level 1 - Mario Paint",//07-27-23
 "Underwater [Super Mario Bros. 3] - Super Mario All-Stars",//07-28-23
 "Mountain Mania - Donkey Kong Country: Tropical Freeze",//07-29-23
 "GBA Boo Lake - Mario Kart Tour",//07-30-23
@@ -861,7 +861,7 @@
 "Heavy Metal Mecha-Bowser - Super Mario Galaxy",//08-21-24
 "Title Screen - Mario vs. Donkey Kong (Switch)",//08-22-24
 "Thwomp Caverns - Mario & Luigi: Partners In Time",//08-23-24
-"Data Robot - Mario Paint",//08-24-24
+"Save & Load - Mario Paint",//08-24-24
 "Metal Mario - Super Mario 64",//08-25-24
 "Rocket Road - Mario Party: Island Tour",//08-26-24
 "Peaches - The Super Mario Bros. Movie",//08-27-24
@@ -1167,7 +1167,7 @@
 "The Real Final Battle - Mario vs. Donkey Kong (Switch)",//06-23-25
 "Drowsy - Dr. Luigi",//06-24-25
 "Faire Square - Mario Party 6",//06-25-25
-"Mysterious - Mario Paint",//06-26-25
+"Drawing Board 3 (Mysterious) - Mario Paint",//06-26-25
 "Chucklehuck Woods - Mario & Luigi: Superstar Saga (GBA)",//06-27-25
 "Indigo Underground - Paper Mario: Color Splash",//06-28-25
 "Bandit Valley - Yoshi's New Island",//06-29-25
@@ -1294,8 +1294,8 @@
 "The Evil King Bowser (Final Battle) - Super Mario World",
 "Special World - Super Mario World",
 "Music C (Starman) - Yoshi (NES)",
-"Creative Exercise - Mario Paint",//08-23 
-"Monkey Song - Mario Paint",//06-21
+"Drawing Board 1 (Creative Exercise) - Mario Paint",//08-23 
+"Drawing Board 2 (Monkey Song) - Mario Paint",//06-21
 "Title Screen - Super Mario Kart",//06-11
 "Choco Island - Super Mario Kart",
 "Rainbow Road - Super Mario Kart",
