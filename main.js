@@ -26,7 +26,7 @@
 "Koopa's Tycoon Town - Mario Party 8",//05-09-22
 "Vanilla Lake - Super Mario Kart",//05-10-22
 "Staff Roll - Super Mario Bros. Deluxe",//05-11-22
-"Peach's Castle - Super Mario Odyssey (Mushroom Kingdom)",//05-12-22
+"Peach's Castle (Mushroom Kingdom) - Super Mario Odyssey",//05-12-22
 "Waltz Of The Boos (Ghostly Galaxy) - Super Mario Galaxy",//05-13-22
 "Tranquil Pipes Teahouse - Paper Mario: The Origami King",//05-14-22
 "Toy Dream - Mario Party 5",//05-15-22
