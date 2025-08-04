@@ -1668,7 +1668,7 @@ let _metadata = createMetadata({
 "Galaxy Colosseum/Galaxy Arena - Mario Kart Wii": [2008, "Wii", "Mario Kart", "Mario Kart Wii", "Racing"],
 "Main Menu - Mario Super Sluggers": [2008, "Wii", "Mario Baseball", "Mario Super Sluggers", "Sports"],
 "Mario Stadium - Mario Super Sluggers": [2008, "Wii", "Mario Baseball", "Mario Super Sluggers", "Sports"],
-"Staff Roll - Mario Super Sluggers": [2008, "Wii", "Mario Misc", "Mario Super Sluggers", "Sports"],
+"Staff Roll - Mario Super Sluggers": [2008, "Wii", "Mario Baseball", "Mario Super Sluggers", "Sports"],
 "Just Plains - Wario Land: Shake It!": [2008, "Wii", "Wario Land", "Wario Land: Shake It!", "2D Platformer"],
 "Mt. Lava Lava/Sneak Peak - Wario Land: Shake It!": [2008, "Wii", "Wario Land", "Wario Land: Shake It!", "2D Platformer"],
 "Airytale Castle/Prism Prison - Wario Land: Shake It!": [2008, "Wii", "Wario Land", "Wario Land: Shake It!", "2D Platformer"],
