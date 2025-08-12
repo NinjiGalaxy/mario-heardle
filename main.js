@@ -476,7 +476,7 @@
 "Bayou Boogie - Donkey Kong Country 2: Diddy's Kong Quest",//08-02-23
 "Yold Ruins - Super Paper Mario",//08-03-23
 "Game Point ~ Break Point - Mario Tennis (N64)",//08-04-23
-"Underground - Captain Toad: Treasure Tracker",//08-05-23
+"Mine Cart Tunnel Throwdown (Underground) - Captain Toad: Treasure Tracker",//08-05-23
 "Haunted Towers - Luigi's Mansion: Dark Moon",//08-06-23
 "DS Mario Circuit (Wave 4) - MK8DX Booster Course Pass Waves 4-6",//08-07-23
 "Resting In Toad Town - Mario & Luigi: Bowser's Inside Story (DS)",//08-08-23
@@ -606,7 +606,7 @@
 "Night At Excess Express - Paper Mario: The Thousand-Year Door (GameCube)",//12-10-23
 "Level Goal - Wario Land II",//12-11-23
 "The Galaxy Awaits (Main Menu) - Mario + Rabbids: Sparks Of Hope",//12-12-23
-"Universal Unary Unison (Space) - Captain Toad: Treasure Tracker",//12-13-23
+"Touchstone Trouble (Space) - Captain Toad: Treasure Tracker",//12-13-23
 "Oil Panic - Game & Watch Gallery",//12-14-23
 "Starborn Valley Trail - Paper Mario (N64)",//12-15-23
 "GBA Boo Lake (Wave 3) - MK8DX Booster Course Pass Waves 1-3",//12-16-23
@@ -1092,7 +1092,7 @@
 "Title Screen - DK: King Of Swing",//04-09-25
 "Underwater - Super Mario Bros. Wonder",//04-10-25
 "Giant Land (World 4) [Super Mario Bros. 3] - Super Mario All-Stars",//04-11-25
-"Piranha Creeper Dash - Captain Toad: Treasure Tracker",//04-12-25
+"Piranha Creeper Cove - Captain Toad: Treasure Tracker",//04-12-25
 "Bowser's Factory - Mario Kart Arcade GP DX",//04-13-25
 "Battle ~ Chapter 1 - Paper Mario: The Thousand-Year Door (Switch)",//04-14-25
 "Bowser's Stolen Castle - Mario & Luigi: Bowser's Inside Story (DS)",//04-15-25
@@ -1868,9 +1868,9 @@
 "Circuit (Mario Kart 7) - Super Smash Bros. For 3DS/Wii U",
 "DK Island Swing (Donkey Kong Country) - Super Smash Bros. For 3DS/Wii U",
 "Main Theme (Yoshi's Woolly World) - Super Smash Bros. For 3DS/Wii U",
-"Plucky Path Beginnings - Captain Toad: Treasure Tracker",//09-11
-"Ruins - Captain Toad: Treasure Tracker",//05-21
-"Spinwheel Library - Captain Toad: Treasure Tracker",//02-06
+"Plucky Pass Beginnings - Captain Toad: Treasure Tracker",//09-11
+"Walleye Tumble Temple (Ruins) - Captain Toad: Treasure Tracker",//05-21
+"Bizarre Doors Of Boo Mansion - Captain Toad: Treasure Tracker",//02-06
 "Trick Track Hall - Captain Toad: Treasure Tracker",
 "Rolling Hills A (Ground ~ Super Mario Bros. 2) - Mario vs. Donkey Kong: Tipping Stars",
 "Orbiting Observatory A - Mario vs. Donkey Kong: Tipping Stars",
