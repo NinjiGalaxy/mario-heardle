@@ -2043,13 +2043,13 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       Captain Toad: Treasure Tracker (2014, Wii U)
       
       //6//"Title Screen - Captain Toad: Treasure Tracker",
-      "Plucky Path Beginnings - Captain Toad: Treasure Tracker",
-      //6//"Underground - Captain Toad: Treasure Tracker",
-      "Ruins - Captain Toad: Treasure Tracker",
-      //6//"Piranha Creeper Dash - Captain Toad: Treasure Tracker",
-      "Spinwheel Library - Captain Toad: Treasure Tracker",
+      !"Plucky Pass Beginnings - Captain Toad: Treasure Tracker",
+      !"Walleye Tumble Temple (Ruins) - Captain Toad: Treasure Tracker",
+      !//6//"Touchstone Trouble (Space) - Captain Toad: Treasure Tracker",
+      !//6//"Mine Cart Tunnel Throwdown (Underground) - Captain Toad: Treasure Tracker",
+      !//6//"Piranha Creeper Cove - Captain Toad: Treasure Tracker",
+      !"Bizarre Doors Of Boo Mansion - Captain Toad: Treasure Tracker",
       //D//"Trick Track Hall - Captain Toad: Treasure Tracker",
-      //6//"Universal Unary Unison (Space) - Captain Toad: Treasure Tracker",
       
       .C. Mario vs. Donkey Kong: Tipping Stars (2015, Wii U)
       
