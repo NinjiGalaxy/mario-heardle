@@ -505,7 +505,7 @@
 "Ground - Super Mario Run",//08-31-23
 "Sirena Beach - Super Mario Sunshine",//09-01-23
 "Bowser's Theme - Mario Strikers Charged",//09-02-23
-"Sweet Surfin' (Gwarhar Lagoon) - Mario & Luigi: Superstar Saga + Bowser's Minions",//09-03-23
+"Sweet Surfin' (Oho Oasis / Gwarhar Lagoon) - Mario & Luigi: Superstar Saga + Bowser's Minions",//09-03-23
 "Mario Brothers Rap - The Super Mario Bros. Movie",//09-04-23
 "Four Seasons - WarioWare, Inc.: Mega Microgame$!",//09-05-23
 "Cloudtop Cruise - Mario Kart 8",//09-06-23
@@ -1220,7 +1220,7 @@
 "Blooper Beach - Mario Party 9",//08-15-25
 "Beach Overworld (Simian Segue) - Donkey Kong Country Returns",//08-16-25
 "Up On The Rooftop - Wario Land II",//08-17-25
-"Sweet Surfin' (Gwarhar Lagoon) - Mario & Luigi: Superstar Saga (GBA)",//08-18-25
+"Sweet Surfin' (Oho Oasis / Gwarhar Lagoon) - Mario & Luigi: Superstar Saga (GBA)",//08-18-25
 "Water World - Donkey Kong Country 3: Dixie Kong's Double Trouble!",//08-19-25
 "Challenges In Another World - Super Mario Odyssey",//08-20-25
 "Midboss Melee - Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",//08-21-25
@@ -1494,7 +1494,7 @@
 "Prince Peasley's Theme - Mario & Luigi: Superstar Saga (GBA)",//11-10
 "Hoohoo Mountaintop - Mario & Luigi: Superstar Saga (GBA)",
 "Woohoo Hooniversity - Mario & Luigi: Superstar Saga (GBA)",//01-29
-"Sea... Sea... Sea... (Oho Ocean) - Mario & Luigi: Superstar Saga (GBA)",
+"Sea... Sea... Sea... (Oho Ocean Seabed) - Mario & Luigi: Superstar Saga (GBA)",
 "Don't Dwell On Danger (Tee Hee Valley) - Mario & Luigi: Superstar Saga (GBA)",//09-15
 "Decisive Battleground (Bowser's Castle) - Mario & Luigi: Superstar Saga (GBA)",
 "Going Home (Staff Roll) - Mario & Luigi: Superstar Saga (GBA)",
@@ -4119,7 +4119,7 @@
           },
           {
             url: "https://soundcloud.com/user-675036643/mario-luigi-505321516",
-            answer: "Sweet Surfin' (Gwarhar Lagoon) - Mario & Luigi: Superstar Saga + Bowser's Minions",
+            answer: "Sweet Surfin' (Oho Oasis / Gwarhar Lagoon) - Mario & Luigi: Superstar Saga + Bowser's Minions",
           },
           {
             url: "https://soundcloud.com/alidee-music/mario-brothers-rap",
@@ -6979,7 +6979,7 @@
           },
           {
             url: "https://soundcloud.com/silly-person-52110284/29-sweet-surfin",
-            answer: "Sweet Surfin' (Gwarhar Lagoon) - Mario & Luigi: Superstar Saga (GBA)",
+            answer: "Sweet Surfin' (Oho Oasis / Gwarhar Lagoon) - Mario & Luigi: Superstar Saga (GBA)",
           },
           {
             url: "https://soundcloud.com/superninjigalaxy/water-world-donkey-kong",
