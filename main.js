@@ -137,7 +137,7 @@
 "Shroobs! (Prologue) - Mario & Luigi: Partners In Time",//08-28-22
 "Peach's Castle - Super Smash Bros. (N64)",//08-29-22
 "Petey Piranha's Theme - Mario Strikers Charged",//08-30-22
-"World 1 & 2 - Super Mario Galaxy 2",//08-31-22
+"Worlds 1 & 2 - Super Mario Galaxy 2",//08-31-22
 "Title Screen - Mario Kart: Double Dash!!",//09-01-22
 "Star Lift - Mario Party 3",//09-02-22
 //"NULL",//09-03-22
@@ -284,7 +284,7 @@
 "How To Play - Mario's Picross",//01-22-23
 "World 7 (Sky) - New Super Mario Bros. Wii",//01-23-23
 "Jazzy (Catch You Letter, Dust 'Til Dawn, etc) - Mario Party 6",//01-24-23
-"The Starship Sails - Super Mario Galaxy 2",//01-25-23
+"The Starship's Journey - Super Mario Galaxy 2",//01-25-23
 "Fever - Dr. Mario 64",//01-26-23
 "X-Naut Fortress - Paper Mario: The Thousand-Year Door (GameCube)",//01-27-23
 "Break At Pi'illo Castle - Mario & Luigi: Dream Team",//01-28-23
@@ -449,7 +449,7 @@
 "Title Screen - Wrecking Crew '98",//07-06-23
 "Toad Cafe - Paper Mario: Color Splash",//07-07-23
 "Underground - Super Mario 3D World",//07-08-23
-"Flipsville Galaxy - Super Mario Galaxy 2",//07-09-23
+"Flipsville Galaxy/Chompworks Galaxy - Super Mario Galaxy 2",//07-09-23
 "Mt. Rugged - Paper Mario (N64)",//07-10-23
 "Water World - Donkey Kong Country 3 (GBA)",//07-11-23
 "World 5 - Super Mario 3D Land",//07-12-23
@@ -748,7 +748,7 @@
 "Flippy Float Wonder - Super Mario Bros. Wonder",//04-30-24
 "King Boo's Haunted Hideaway - Mario Party 8",//05-01-24
 "Boss Battle - Super Mario Bros. 3",//05-02-24
-"Tall Trunk Galaxy - Super Mario Galaxy 2",//05-03-24
+"Forest Friends (Tall Trunk Galaxy) - Super Mario Galaxy 2",//05-03-24
 "Another Crazy Match (Fast Food Frenzy, Track Star, etc) - Mario Party DS",//05-04-24
 "K. Rool Duel - Donkey Kong 64",//05-05-24
 "The Palace Intro - Super Mario Strikers",//05-06-24
@@ -1708,7 +1708,7 @@
 "Gobblegut - Super Mario Galaxy 2",
 "Tip Network - Super Mario Galaxy 2",//05-10
 "Hightail Falls Galaxy (Super Mario World ~ Athletic) - Super Mario Galaxy 2",//03-20
-"Honeybloom Galaxy/Honey Hop Galaxy - Super Mario Galaxy 2",
+"Honeybloom Galaxy/Honeyhop Galaxy - Super Mario Galaxy 2",
 "World 3 - Super Mario Galaxy 2",//11-24
 "Freezy Flake Galaxy - Super Mario Galaxy 2",//01-17   
 "Glamdozer - Super Mario Galaxy 2",
@@ -1724,7 +1724,7 @@
 "Fleet Glide Galaxy - Super Mario Galaxy 2",//07-11
 "Speed Run (Speedy Comet) - Super Mario Galaxy 2",
 "Bowser's Galaxy Generator - Super Mario Galaxy 2",
-"Bowser Battle - Super Mario Galaxy 2",
+"King Bowser's Might (Bowser Battle) - Super Mario Galaxy 2",
 "Boss Blitz Galaxy - Super Mario Galaxy 2",
 "Staff Roll - Super Mario Galaxy 2",
 "Coaster Hills C (Super Mario Bros. 2 ~ Ground) - Mario vs. Donkey Kong: Mini-Land Mayhem!",
