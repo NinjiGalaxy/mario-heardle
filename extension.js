@@ -1081,7 +1081,7 @@ let _metadata = createMetadata({
 "Title Screen - Yoshi's Safari": [1993, "SNES", "Yoshi (Puzzle/Misc)", "Yoshi's Safari", "Other"],
 "Vivian's Theme - Paper Mario: The Thousand-Year Door (Switch)": [2024, "Switch", "Paper Mario", "Paper Mario: The Thousand-Year Door (Switch)", "RPG"],
 "Baby Bowser Battle - Super Mario World 2: Yoshi's Island": [1995, "SNES", "Yoshi's Island", "Super Mario World 2: Yoshi's Island", "2D Platformer"],
-"Proof Of Existance - Super Paper Mario": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer"],
+"Proof Of Existence - Super Paper Mario": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer"],
 "Athletic - Super Mario World: Super Mario Advance 2": [2001, "GBA", "Super Mario", "Super Mario World: Super Mario Advance 2", "2D Platformer"],
 "Surfing - Mario & Sonic at the Olympic Games Tokyo 2020": [2019, "Switch", "Mario & Sonic At The Olympic Games", "Mario & Sonic At The Olympic Games Tokyo 2020", "Sports"],
 "Action Type C - Yoshi's Cookie (Nintendo Puzzle Collection)": [2003, "GameCube", "Yoshi (Puzzle/Misc)", "Yoshi's Cookie (Nintendo Puzzle Collection)", "Puzzle"],
