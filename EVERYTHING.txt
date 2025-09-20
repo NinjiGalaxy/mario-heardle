@@ -1287,7 +1287,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Memory 4 - Super Paper Mario",
       "Castle Bleck - Super Paper Mario",
       "The Ultimate Show (Final Battle) - Super Paper Mario",
-      "Proof Of Existance - Super Paper Mario",
+      "Proof Of Existence - Super Paper Mario",
       "Staff Roll - Super Paper Mario",
       //"Pit Of 100 Trials - Super Paper Mario",
       
