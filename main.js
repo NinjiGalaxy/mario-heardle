@@ -1082,7 +1082,7 @@
 "Title Screen - Yoshi's Safari",//03-30-25
 "Vivian's Theme - Paper Mario: The Thousand-Year Door (Switch)",//03-31-25
 "Baby Bowser Battle - Super Mario World 2: Yoshi's Island",//04-01-25
-"Proof Of Existance - Super Paper Mario",//04-02-25
+"Proof Of Existence - Super Paper Mario",//04-02-25
 "Athletic - Super Mario World: Super Mario Advance 2",//04-03-25
 "Surfing - Mario & Sonic at the Olympic Games Tokyo 2020",//04-04-25
 "Action Type C - Yoshi's Cookie (Nintendo Puzzle Collection)",//04-05-25
@@ -6427,7 +6427,7 @@
           },
           {
             url: "https://soundcloud.com/super-paper-camek/proof-of-existence",
-            answer: "Proof Of Existance - Super Paper Mario",
+            answer: "Proof Of Existence - Super Paper Mario",
           },
           {
             url: "https://soundcloud.com/mario-heardle/athletic-super-mario-world-super-mario-advance-2",
