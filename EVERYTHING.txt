@@ -158,6 +158,10 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       //6//"Title Screen - Yoshi's Cookie (NES)",
       //6//"Music Type C - Yoshi's Cookie (NES)",
+
+      .E. Yoshi's Cookie (1992, Game Boy)
+
+      //E//"Stage 10 Clear (Staff Roll) - Yoshi's Cookie (Game Boy)",
       
       Yoshi's Cookie (1993, SNES)
       
@@ -168,6 +172,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       //"Main Title - Super Mario Bros. (1993)",
       //"Drive To Work On Instinct - Super Mario Bros. (1993)",
+      //E//"Almost Unreal (Performed By Roxette) - Super Mario Bros. (1993)",
       
       Super Mario All-Stars (1993, SNES)
       
@@ -569,7 +574,6 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
 
       //E//"Drawing Board 1 (Jellyfish) - Mario Artist: Paint Studio",
       //E//"Sea World (BGM 2) - Mario Artist: Paint Studio",
-      //E//"Gallery - Mario Artist: Paint Studio",
       
       Mario Party 2 (1999, N64)
       
@@ -648,6 +652,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
 
       .E. Mario Artist: Polygon Studio (2000, N64)
 
+      //E//"Title Screen / Staff Roll - Mario Artist: Polygon Studio",
       //E//"Modeler Rocket (Digital Diamonds) - Mario Artist: Polygon Studio",
 
       .7. Mario Tennis (2000, GBC)
@@ -670,6 +675,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //9//"Fighting Spirit (Snowball Summit, Vine With Me, etc) - Mario Party 3",
       "Let's Get A Move On (Aces High, Ridiculous Relay, etc) - Mario Party 3",
       //C//"Mustn't Panic (Eatsa Pizza, Pipe Cleaners, etc) - Mario Party 3",
+      //E//"Staff Roll - Mario Party 3",
       
       .9. Mario Bros. (2001, GBA)
       
@@ -1727,6 +1733,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"Peach's Castle (Super Mario RPG) - Fortune Street",
       //6//"Super Mario Bros. Theme - Fortune Street",
       //"Bowser's Castle (New Super Mario Bros.) - Fortune Street",
+      //E//"The Evil King Bowser (Super Mario World) - Fortune Street",
       
       Mario Kart 7 (2011, 3DS)
       
@@ -2778,10 +2785,14 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //C//"Boss Battle - Mario & Luigi: Brothership",
       //C//"Florall Island - Mario & Luigi: Brothership",
       //C//"Desolatt Island - Mario & Luigi: Brothership",
+      //E//"Allsand Island - Mario & Luigi: Brothership",
       //C//"Heatfreeze Island - Mario & Luigi: Brothership",
       //C//"Slippenglide Island - Mario & Luigi: Brothership",
-      //C//"Jellyfish Island - Mario & Luigi: Brothership",
       //C//"Wayaway Island (Super Mario Bros. 3 ~ Fortress) - Mario & Luigi: Brothership",
+      //C//"Jellyfish Island - Mario & Luigi: Brothership",
+      //E//"Glohmen Concordia - Mario & Luigi: Brothership",
+      //E//"Final Battle ~ Phase 3 - Mario & Luigi: Brothership",
+      //E//"Staff Roll - Mario & Luigi: Brothership",
 
       .E. Mario Kart World (2025, Switch 2)
       
@@ -2872,6 +2883,11 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //E//"2D Challenge Course #2 (Stickerbush Symphony) - Donkey Kong Bananza",
       //E//"2D Challenge Course #3 (Mine Cart Madness) - Donkey Kong Bananza",
       //E//"Breaking Through (Heart Of Gold) [Staff Roll] - Donkey Kong Bananza",
+
+      .E. Super Mario Galaxy + Super Mario Galaxy 2 For The Nintendo Switch Family Of Systems (2025, Switch)
+
+      //E//"New Song (Galaxy 1) - Super Mario Galaxy + Super Mario Galaxy 2 For The Nintendo Switch Family Of Systems (2025)",
+      //E//"New Song (Gakaxy 2) - Super Mario Galaxy + Super Mario Galaxy 2 For The Nintendo Switch Family Of Systems (2025)",
 
       .A. April Fools
       
