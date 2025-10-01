@@ -1,4 +1,4 @@
-This is a text document for internal use. It lists all the songs in Mario Heardle in order, in the format Mario Heardle uses them in. Some songs are tagged to indicate which update they were added in. If you want to spoil yourself on what's being added in future updates, this is the text file for you! (Hint: look out for when songs start popping up with the tag "//E//")
+This is a text document for internal use. It lists all the songs in Mario Heardle in order, in the format Mario Heardle uses them in. Some songs are tagged to indicate which update they were added in. If you want to spoil yourself on what's being added in future updates, this is the text file for you! (Hint: look out for when songs start popping up with the tag "//F//")
 
       Super Mario Bros. (1985, NES)
       
@@ -2884,10 +2884,10 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //E//"2D Challenge Course #3 (Mine Cart Madness) - Donkey Kong Bananza",
       //E//"Breaking Through (Heart Of Gold) [Staff Roll] - Donkey Kong Bananza",
 
-      .E. Super Mario Galaxy + Super Mario Galaxy 2 For The Nintendo Switch Family Of Systems (2025, Switch)
+      .E. Super Mario Galaxy + Super Mario Galaxy 2 For Nintendo Switch (2025, Switch)
 
-      //E//"New Song (Galaxy 1) - Super Mario Galaxy + Super Mario Galaxy 2 For The Nintendo Switch Family Of Systems (2025)",
-      //E//"New Song (Gakaxy 2) - Super Mario Galaxy + Super Mario Galaxy 2 For The Nintendo Switch Family Of Systems (2025)",
+      //E//"Good Night (Galaxy 1) - Super Mario Galaxy + Super Mario Galaxy 2 For Nintendo Switch (2025)",
+      //E//"Special Someone (Galaxy 2) - Super Mario Galaxy + Super Mario Galaxy 2 For Nintendo Switch (2025)",
 
       .A. April Fools
       
