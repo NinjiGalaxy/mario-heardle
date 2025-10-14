@@ -7323,7 +7323,7 @@
           },
           {
             url: "https://soundcloud.com/randomlongmonster/mario-artist-talent-studio-so-kawaii",
-            answer: "BGM 1 (So Kawaii!)  - Mario Artist: Talent Studio",
+            answer: "BGM 1 (So Kawaii!) - Mario Artist: Talent Studio",
           },
           {
             url: "https://soundcloud.com/115s4cio/big-top-bop-boss-pompy-the",
