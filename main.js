@@ -1277,7 +1277,7 @@
 "Try Hard, Folks (Three Throw, Beach Volley Folly, etc) - Mario Party 4",//10-11-25
 "Map Screen Medley (Super Mario Bros. 3) - Mario Kart World",//10-12-25
 "Buoy Base Galaxy - Super Mario Galaxy",//10-13-25
-"BGM 1 (So Kawaii!)  - Mario Artist: Talent Studio",//10-14-25
+"BGM 1 (So Kawaii!) - Mario Artist: Talent Studio",//10-14-25
 "Big Top Bop (World 1 Boss) - Donkey Kong Country: Tropical Freeze",//10-15-25
 "Exciting And Exciting (Foo Me Once, Goombrat Combat) - Mario Party 10",//10-16-25
 "Drawing Board 1 (Mario Paint) - Mario Kart World",//10-17-25
@@ -1665,7 +1665,7 @@
 "Enter Bowser Jr.! - Super Mario Galaxy",
 "Blue Sky Athletic (Sweet Sweet Galaxy) - Super Mario Galaxy",//02-04
 "Super Mario 2007 (Toy Time Galaxy) - Super Mario Galaxy",//03-11
-"Space Fantasy (Bubble Breeze Galaxy/Bubble Blast Galaxy)  - Super Mario Galaxy",
+"Space Fantasy (Bubble Breeze Galaxy/Bubble Blast Galaxy) - Super Mario Galaxy",
 "Airship Armada (Super Mario Bros. 3 ~ Airship) - Super Mario Galaxy",
 "Cosmic Clone - Super Mario Galaxy",
 "Lava Path (Freezeflame Galaxy) - Super Mario Galaxy",//10-01
@@ -1745,7 +1745,7 @@
 "Hightail Falls Galaxy (Super Mario World ~ Athletic) - Super Mario Galaxy 2",//03-20
 "Honeybloom Galaxy/Honeyhop Galaxy - Super Mario Galaxy 2",
 "World 3 - Super Mario Galaxy 2",//11-24
-"Freezy Flake Galaxy - Super Mario Galaxy 2",//01-17   
+"Freezy Flake Galaxy - Super Mario Galaxy 2",//01-17
 "Glamdozer - Super Mario Galaxy 2",
 "Fluffy Bluff Galaxy/Cloudy Court Galaxy - Super Mario Galaxy 2",//06-13
 "Beat Block Galaxy/Flash Black Galaxy - Super Mario Galaxy 2",
