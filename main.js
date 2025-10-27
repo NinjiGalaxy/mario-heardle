@@ -1295,7 +1295,6 @@
 "Ghost (Level 13) - Mario Clash",//10-29-25
 "Chatting With A Ghost - Luigi's Mansion (GameCube)",//10-30-25
 "Boo Cinema - Mario Kart World",//10-31-25
-
 "Peach's Birthday Cake [Mario Party 1] - Mario Party Superstars",//11-01-25
 "Noki Depths - Super Mario Sunshine",//11-02-25
 "Ground - Super Mario 3D Land",//11-03-25
@@ -1326,7 +1325,6 @@
 "A Bittersweet Music Box - Paper Mario: The Thousand-Year Door (Switch)",//11-28-25
 "Alpine Yoshi Music - Yoshi's Story",//11-29-25
 "Shy Guy Falls - Mario Kart 8",//11-30-25
-
 "Ultimate Bowser (Final Battle) - Super Mario 64",//12-01-25
 "Coconut Mall - Mario Kart Wii",//12-02-25
 "Run, Jump, Throw! 1 - Super Mario Odyssey",//12-03-25
@@ -1688,7 +1686,7 @@
 "Title Screen - Mario Party 8",//10-16
 "Goomba's Booty Boardwalk - Mario Party 8",
 "Happy Go Lucky (At The Chomp Wash, Crank To Rank, etc) - Mario Party 8",
-"Friendly Competition (Paint Misbehavin', Suger Rush, etc) - Mario Party 8",
+"Friendly Competition (Paint Misbehavin', Sugar Rush, etc) - Mario Party 8",
 "DK Jungle - Donkey Kong Barrel Blast",
 "Sun Sun Beach - DK: Jungle Climber",
 "Wistful Lake - DK: Jungle Climber",
