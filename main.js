@@ -1,6 +1,6 @@
   var app = (function () {
   var artist = 'Mario';
-  var twitter = 'NinjiGalaxy';
+  var twitter = 'amity-galaxy';
   var startDate = "2022-04-19";
   const Cn = ue([
 "Title Screen - Mario Paint",//04-19-22
@@ -7507,7 +7507,7 @@
           },
           {
             url: "https://soundcloud.com/user-980511460/yoshis-story-ost-alpina-blue",
-            answer: "Alpina Blue - Yoshi's Story",
+            answer: "Alpine Yoshi Music - Yoshi's Story",
           },
           {
             url: "https://soundcloud.com/infiniteshadowx766/shy-guy-falls",
@@ -14158,7 +14158,7 @@
             (n.textContent =
               "Have questions/run into bugs? Tweet/DM me @" +
               twitter +
-              " on Discord or Bluesky."),
+              " on Bluesky or comment on the song list Google Sheet (link available through the top left button)."),
             (r = x()),
             (s = w("p")),
             (i = x()),
