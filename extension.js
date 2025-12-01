@@ -1324,7 +1324,7 @@ let _metadata = createMetadata({
 "A Bittersweet Music Box - Paper Mario: The Thousand-Year Door (Switch)": [2024, "Switch", "Paper Mario", "Paper Mario: The Thousand-Year Door (Switch)", "RPG"],
 "Alpine Yoshi Music - Yoshi's Story": [1997, "N64", "Yoshi's Island", "Yoshi's Story", "2D Platformer"],
 "Shy Guy Falls - Mario Kart 8": [2014, "Wii U", "Mario Kart", "Mario Kart 8", "Racing"],
-"Ultimate Bowser (Final Battle)": [1996, "N64", "Super Mario", "Super Mario 64", "3D Platformer"],
+"Ultimate Bowser (Final Battle) - Super Mario 64": [1996, "N64", "Super Mario", "Super Mario 64", "3D Platformer"],
 "Coconut Mall - Mario Kart Wii": [2008, "Wii", "Mario Kart", "Mario Kart Wii", "Racing"],
 "Run, Jump, Throw! 1 - Super Mario Odyssey": [2017, "Switch", "Super Mario", "Super Mario Odyssey", "3D Platformer"],
 "Poshley Heights - Paper Mario: The Thousand-Year Door (GameCube)": [2004, "GameCube", "Paper Mario", "Paper Mario: The Thousand-Year Door (GameCube)", "RPG"],
