@@ -74,8 +74,8 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Muda Kingdom - Super Mario Land",
       "Chai Kingdom - Super Mario Land",
       "Easton Kingdom - Super Mario Land",
-      "Marine Pop, Sky Pop! - Super Mario Land",
-      "Staff Roll - Super Mario Land",
+      "Shooting Area - Super Mario Land",
+      "Ending & Staff Roll - Super Mario Land",
       
       .C. The Super Mario Bros. Super Show (1989, Film/TV)
       
@@ -2372,8 +2372,8 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       .. Yoshi's Crafted World (2019, Switch)
       
       //"Main Theme - Yoshi's Crafted World",
-      //D//"Water/Space Level - Yoshi's Crafted World",
-      //D//"Hidden Hills - Yoshi's Crafted World",
+      //D//"A Teeny, Tiny Universe (Space) - Yoshi's Crafted World",
+      //D//"Round And Round (Hidden Hills) - Yoshi's Crafted World",
       
       Super Mario Maker 2 (2019, Switch)
       
