@@ -1354,7 +1354,7 @@
 "Fever - Tetris & Dr. Mario (SNES)",//12-27-25
 "Paris Promenade - Mario Kart Tour",//12-28-25
 "Main Menu - Mario Golf (GBC)",//12-29-25
-"Battle With Ludwig - Paper Mario: Color Splash",//12-30-25
+"Lemmy's Grand Finale - Paper Mario: Color Splash",//12-30-25
 "Good Night (Galaxy 1) - Super Mario Galaxy + Super Mario Galaxy 2 For Nintendo Switch (2025)",//12-31-25
 "Tick Tock Clock - Mario Kart DS",//01-01-26
 "Hoohoo Mountaintop - Mario & Luigi: Superstar Saga (GBA)",//01-02-26
@@ -1368,12 +1368,12 @@
 "N64 Yoshi Valley - Mario Kart 8",//01-10-26
 "Hotel Delfino - Super Mario Sunshine",//01-11-26
 "Dark Woods - Super Mario Bros. Wonder",//01-12-26
-"Underground - Super Mario World",//01-13-26
-"S.S. Caviar (Interior) - Wario: Master Of Disguise",//01-14-26
-"Mushroomy Kingdom (Underground) - Super Smash Bros. Brawl",//01-15-26
-"Rose Town - Super Mario RPG: Legend Of The Seven Stars",//01-16-26
-"Battle ~ Prince Mush - Paper Mario: The Thousand-Year Door (Switch)",//01-17-26
-"West Crater, East Crater - Wario Land 3",//01-18-26
+"Mushroomy Kingdom (Underground) - Super Smash Bros. Brawl",//01-13-26
+"Rose Town - Super Mario RPG: Legend Of The Seven Stars",//01-14-26
+"Battle ~ Prince Mush - Paper Mario: The Thousand-Year Door (Switch)",//01-15-26
+"West Crater, East Crater - Wario Land 3",//01-16-26
+"Underground - Super Mario World",//01-17-26
+"S.S. Caviar (Interior) - Wario: Master Of Disguise",//01-18-26
 "The Shifty Sticker - Paper Mario: The Origami King",//01-19-26
 "Main Menu - Mario Power Tennis",//01-20-26
 "Toad Road - Mario Party 9",//01-21-26
@@ -1962,7 +1962,7 @@
 "Cherry Lake - Paper Mario: Color Splash",//10-07
 "Blissful Beach - Paper Mario: Color Splash",
 "Plum Park - Paper Mario: Color Splash",//07-01
-"Lemmy's Grand Finale - Paper Mario: Color Splash",
+"Battle With Ludwig - Paper Mario: Color Splash",
 "SMB3 Battle - Paper Mario: Color Splash",
 "Rainbow Road - Paper Mario: Color Splash",//12-12
 "Staff Roll - Paper Mario: Color Splash",
@@ -7629,7 +7629,7 @@
           },
           {
             url: "https://soundcloud.com/kirb-nep-adventure-rst02/the-circus-ringmaster-lemmy-battle-paper-mario-color-splash-2016",
-            answer: "Battle With Ludwig - Paper Mario: Color Splash",
+            answer: "Lemmy's Grand Finale - Paper Mario: Color Splash",
           },
           {
             url: "https://soundcloud.com/superninjigalaxy/good-night-super-mario-galaxy-for-nintendo-switch",
@@ -7698,6 +7698,14 @@
           {
             url: "https://soundcloud.com/warioland123/west-crater-east-crater",
             answer: "West Crater, East Crater - Wario Land 3",
+          },
+          {
+            url: "https://soundcloud.com/vincent-thompson-763471057/12-underground-bgm",
+            answer: "Underground - Super Mario World",
+          },
+          {
+            url: "https://soundcloud.com/warioheardle/ss-caviar-interior-wario-master-of-disguise",
+            answer: "S.S. Caviar (Interior) - Wario: Master Of Disguise",
           },
           {
             url: "https://soundcloud.com/origami-king-two/the-shifty-sticker-paper-mario-the-origami-king-2020",
