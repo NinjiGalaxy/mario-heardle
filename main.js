@@ -961,7 +961,7 @@
 "Super Luigi - Paper Mario: The Thousand-Year Door (Switch)",//11-29-24
 "Opening/Staff Roll - Super Mario Strikers",//11-30-24
 "Mega Wiggler's Tree Party - Super Mario Party Jamboree",//12-01-24
-"Shipshape Island - Mario & Luigi: Brothership",//12-02-24
+"Connie And Shipshape Island - Mario & Luigi: Brothership",//12-02-24
 "Rockface Rumble - Donkey Kong Country 3: Dixie Kong's Double Trouble!",//12-03-24
 "Ground [Super Mario Bros.] (Edit) - Super Mario Maker",//12-04-24
 "Cannon Cove C - Mario vs. Donkey Kong: Mini-Land Mayhem!",//12-05-24
@@ -989,10 +989,10 @@
 "Icicle Golem Finale - Mario + Rabbids Kingdom Battle",//12-27-24
 "Shivering Mountains - Wario World",//12-28-24
 "A Little Light Snowfall - Yoshi's Woolly World",//12-29-24
-"Slippenglide Island - Mario & Luigi: Brothership",//12-30-24
+"Slippenglide Island, Where Puns Are Colder Than The Weather - Mario & Luigi: Brothership",//12-30-24
 "Snowfield - New Super Mario Bros. U",//12-31-24
 "Title Screen - Mario no Photopi",//01-01-25
-"Battle - Mario & Luigi: Brothership",//01-02-25
+"Attack Combos! (Battle) - Mario & Luigi: Brothership",//01-02-25
 "Bonus - Super Mario World",//01-03-25
 "Bouncy Beanstalk Walk - Yoshi's New Island",//01-04-25
 "Koopa's Lava Castle (Worlds 1 & 5) - Super Mario 3D Land",//01-05-25
@@ -1039,7 +1039,7 @@
 "Jazzy [Mario Party 6] (Catch You Letter) - Mario Party Superstars",//02-15-25
 "Mini Mario Level - Mario vs. Donkey Kong (Switch)",//02-16-25
 "Savanna - Super Mario Bros. Wonder",//02-17-25
-"Florall Island - Mario & Luigi: Brothership",//02-18-25
+"The Gentle Breeze Of Florall Island - Mario & Luigi: Brothership",//02-18-25
 "Battling A Weapon Boss - Super Mario RPG (Switch)",//02-19-25
 "Fuzzy Time Mine - Super Mario 3D World",//02-20-25
 "Ball - Game & Watch Gallery 2",//02-21-25
@@ -1211,7 +1211,7 @@
 "Mount Volbono (Luncheon Kingdom) - Super Mario Odyssey",//08-06-25
 "Paper Plane - WarioWare, Inc.: Mega Microgame$!",//08-07-25
 "Donut Plains - Super Mario Kart",//08-08-25
-"Desolatt Island - Mario & Luigi: Brothership",//08-09-25
+"The Monster Bird Of Desolatt Island - Mario & Luigi: Brothership",//08-09-25
 "Goomba's Greedy Gala - Mario Party 4",//08-10-25
 "In A Snowbound Land - Donkey Kong Land 2",//08-11-25
 "Toad's Factory - Mario Kart Wii",//08-12-25
@@ -1298,7 +1298,7 @@
 "Peach's Birthday Cake [Mario Party 1] - Mario Party Superstars",//11-01-25
 "Noki Depths - Super Mario Sunshine",//11-02-25
 "Ground - Super Mario 3D Land",//11-03-25
-"Boss Battle - Mario & Luigi: Brothership",//11-04-25
+"Full Power Battle Groove! (Boss Battle) - Mario & Luigi: Brothership",//11-04-25
 "Main Theme (Yoshi's Woolly World) - Super Smash Bros. For 3DS/Wii U",//11-05-25
 "Main Menu - Donkey Kong 64",//11-06-25
 "Outer Space - Super Paper Mario",//11-07-25
@@ -1387,14 +1387,71 @@
 "Sweet Mystery Galaxy - Super Mario Galaxy 2",//01-29-26
 "Poochy Dash - Poochy & Yoshi's Woolly World",//01-30-26
 "Mystery House Entrance - Super Mario 3D World",//01-31-26
+"Space Land - Mario Party 2",//02-01-26
+"Aquatic Ambiance Returns - Donkey Kong Country Returns",//02-02-26
+"Here We Go! (Battle As Bros.) - Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",//02-03-26
+"Title Screen - Donkey Kong Land",//02-04-26
+"Main Theme - Mario Kart Live: Home Circuit",//02-05-26
+"Ice Hockey - Mario & Sonic at the Sochi 2014 Olympic Winter Games",//02-06-26
+"Tempest Layer: Hot Shower Cave - Donkey Kong Bananza",//02-07-26
+"Walleye Tumble Temple (Ruins) - Captain Toad: Treasure Tracker",//02-08-26
+"Rec Room - Super Mario 64 DS",//02-09-26
+"Choose A Game! - Super Mario Advance (Super Mario Bros. 2)",//02-10-26
+"Match Point - Mario Tennis: Ultra Smash",//02-11-26
+"File Select (Super Mario 64) - Mario Kart World",//02-12-26
+"ScareScraper - Luigi's Mansion: Dark Moon",//02-13-26
+"Sky High Sundae (Wave 2) - MK8DX Booster Course Pass Waves 1-3",//02-14-26
+"Sad Girl - Super Mario Galaxy",//02-15-26
+"Twistee Island Twist - Mario & Luigi: Brothership",//02-16-26
+"Toad Harbor - Mario Kart 8",//02-17-26
+"Battling The Broodals - Super Mario Odyssey",//02-18-26
+"Rogueport - Paper Mario: The Thousand-Year Door (Switch)",//02-19-26
+"Shroom City - Mario Party Advance",//02-20-26
+"Ground - Super Mario Bros. 2",//02-21-26
+"Merlee's Mansion - Super Paper Mario",//02-22-26
+"Beware Of Forest Mushrooms (Forest Maze) - Super Mario RPG (Switch)",//02-23-26
+"Snow [Super Mario World] - Super Mario Maker 2",//02-24-26
+"Final Bowser (New Super Mario Bros. Wii) - Mario & Sonic at the Rio 2016 Olympic Games",//02-25-26
+"Attack! Fury Bowser - Bowser's Fury",//02-26-26
+"Press Start - The Super Mario Bros. Movie",//02-27-26
+"Wario Stadium / Waluigi Pinball ~ Night (Mario Kart DS) - Mario Kart World",//02-28-26
+"Phase BGM - Wrecking Crew",//03-01-26
+"Toad Town - Paper Mario (N64)",//03-02-26
+"Fury Volcano 2 - Super Princess Peach",//03-03-26
+"Epic Story (Twinsy Tropics) - Mario & Luigi: Paper Jam",//03-04-26
+"Wistful Lake - DK: Jungle Climber",//03-05-26
+"Faster Than All [Mario Party 1] - Mario Party Superstars",//03-06-26
+"Tough Guy Alert! (Boss Battle) - Mario & Luigi: Bowser's Inside Story (DS)",//03-07-26
+"N64 Choco Mountain - Mario Kart World",//03-08-26
+"The Great Tower - Super Mario 3D World",//03-09-26
+"Music C (Starman) - Yoshi (NES)",//03-10-26
+"Mega Rocky Wrench Wreckers - Super Mario Party Jamboree",//03-11-26
+"Eddy River - Paper Mario: The Origami King",//03-12-26
+"Title Screen - Super Mario Strikers",//03-13-26
+"Toadette's Music Room - Mario Party DS",//03-14-26
+"Paranormal Productions - Luigi's Mansion 3",//03-15-26
+"Bowser's Castle - Mario Kart: Double Dash!!",//03-16-26
+"Underground - Super Mario Run",//03-17-26
+"Fruit - Game & Wario",//03-18-26
+"Shy Guy Bazaar - Mario Kart 7",//03-19-26
+"SMB3 Battle - Paper Mario: Color Splash",//03-20-26
+"Jungle Falls - Diddy Kong Racing DS",//03-21-26
+"Fleet Glide Galaxy - Super Mario Galaxy 2",//03-22-26
+"Tour Athens Dash (Wave 5) - MK8DX Booster Course Pass Waves 4-6",//03-23-26
+"Title Screen - WarioWare: Move It!",//03-24-26
+"Grumble Volcano - Mario Kart Wii",//03-25-26
+"K. Rool Returns (Title Screen) - Donkey Kong Country 2: Diddy's Kong Quest",//03-26-26
+"Title Screen - Mario Kart: Super Circuit",//03-27-26
+"Drawing Board 1 (Jellyfish) - Mario Artist: Paint Studio",//03-28-26
+"Fossil Falls (Super Mario Odyssey) - Mario Kart World",//03-29-26
+"Rock Candy Mines (World 6) - New Super Mario Bros. U",//03-30-26
+"Battle ~ Shadow Sirens - Paper Mario: The Thousand-Year Door (GameCube)",//03-31-26
 
 "Super Star (Invincible) - Super Mario Bros",
-"Phase BGM - Wrecking Crew",
 "Name Registration - Vs. Super Mario Bros.",//02-10
 "Ending - Super Mario Bros. The Lost Levels",
 "The Light Blue Waltz (Underwater Theme) - Super Mario Bros: The Great Mission To Rescue Princess Peach",
 "Wind Commander (BGM 2) - Famicom Grand Prix II: 3D Hot Rally",
-"Ground - Super Mario Bros. 2",//07-10
 "Ending - Super Mario Bros. 2",//05-11
 "Subspace - Super Mario Bros. 2",
 "Grass Land (World 1) - Super Mario Bros. 3",//09-18
@@ -1412,7 +1469,6 @@
 "Valley Of Bowser - Super Mario World",
 "The Evil King Bowser (Final Battle) - Super Mario World",
 "Special World - Super Mario World",
-"Music C (Starman) - Yoshi (NES)",
 "Drawing Board 1 (Creative Exercise) - Mario Paint",//08-23 
 "Drawing Board 2 (Monkey Song) - Mario Paint",//06-21
 "Title Screen - Super Mario Kart",//06-11
@@ -1442,7 +1498,6 @@
 "Fear Factory - Donkey Kong Country (SNES)",
 "The Credits Concerto (Staff Roll) - Donkey Kong Country (SNES)",
 "Star Picross - Mario's Picross",
-"Title Screen - Donkey Kong Land",
 "Aquatic Ambiance - Donkey Kong Land",
 "Results - Mario's Tennis (Virtual Boy)",
 "Flower Field - Super Mario World 2: Yoshi's Island",
@@ -1453,7 +1508,6 @@
 "Staff Roll - Mario's Super Picross",
 "Pipes (Level 1) - Mario Clash",
 "Level Theme 1 - Virtual Boy Wario Land",
-"K. Rool Returns (Title Screen) - Donkey Kong Country 2: Diddy's Kong Quest",
 "Stickerbush Symphony - Donkey Kong Country 2: Diddy's Kong Quest",
 "Crocodile Cacophony - Donkey Kong Country 2: Diddy's Kong Quest",
 "Donkey Kong Rescued (Staff Roll) - Donkey Kong Country 2: Diddy's Kong Quest",
@@ -1504,11 +1558,9 @@
 "Donkey Kong Jr. - Game & Watch Gallery 3",
 "Angry Aztec - Donkey Kong 64",
 "Frantic Factory - Donkey Kong 64",
-"Drawing Board 1 (Jellyfish) - Mario Artist: Paint Studio",
 "Sea World (BGM 2) - Mario Artist: Paint Studio",
 "Title Screen - Mario Party 2",//07-03
 "Pirate Land - Mario Party 2",//12-17
-"Space Land - Mario Party 2",//05-05
 "Mystery Land - Mario Party 2",
 "That's All Of It (Archerival, Bowser's Big Blast, etc) - Mario Party 2",//02-27
 "The Blue Skies Yonder (Slot Car Derby, Handcar Havoc, etc) - Mario Party 2",//06-27
@@ -1520,7 +1572,6 @@
 "Staff Roll - Wario Land 3",
 "Main Menu - Mario Tennis (N64)",
 "Wario & Waluigi Court - Mario Tennis (N64)",
-"Toad Town - Paper Mario (N64)",//09-27
 "Koopa Village - Paper Mario (N64)",
 "Princess In Distress - Paper Mario (N64)",
 "Crystal Palace Crawl - Paper Mario (N64)",//12-22
@@ -1534,10 +1585,8 @@
 "Let's Get A Move On (Aces High, Ridiculous Relay, etc) - Mario Party 3",//01-23
 "Staff Roll - Mario Party 3",
 "Stage Theme 1 - Mario Bros. (GBA)",
-"Choose A Game! - Super Mario Advance (Super Mario Bros. 2)",
 "Jar - Super Mario Advance (Super Mario Bros. 2)",
 "Chill - Dr. Mario 64",
-"Title Screen - Mario Kart: Super Circuit",
 "Peach/Mario/Luigi Circuit - Mario Kart: Super Circuit",//10-14
 "Riverside Park - Mario Kart: Super Circuit",
 "Sky Garden - Mario Kart: Super Circuit",//05-26
@@ -1580,7 +1629,6 @@
 "Mushroom Bridge/Mushroom City - Mario Kart: Double Dash!!",//07-12
 "Waluigi Stadium/Wario Colosseum - Mario Kart: Double Dash!!",
 "DK Mountain/Dino Dino Jungle - Mario Kart: Double Dash!!",//02-25
-"Bowser's Castle - Mario Kart: Double Dash!!",//03-18
 "Winning Results - Mario Kart: Double Dash!!",
 "Staff Roll - Mario Kart: Double Dash!!",
 "Undersea Dream - Mario Party 5",//08-04
@@ -1603,7 +1651,6 @@
 "Rogueport Underground - Paper Mario: The Thousand-Year Door (GameCube)",//07-28
 "Hooktail Castle - Paper Mario: The Thousand-Year Door (GameCube)",//05-07
 "Pit Of 100 Trials - Paper Mario: The Thousand-Year Door (GameCube)",//04-17
-"Battle ~ Shadow Sirens - Paper Mario: The Thousand-Year Door (GameCube)",
 "A Bittersweet Music Box - Paper Mario: The Thousand-Year Door (GameCube)",//07-27
 "Excess Express (Day) - Paper Mario: The Thousand-Year Door (GameCube)",
 "Super Bowser Bros. ~ Castle - Paper Mario: The Thousand-Year Door (GameCube)",
@@ -1620,13 +1667,11 @@
 "Delfino Plaza Court - Mario Power Tennis",
 "Towering Treetop - Mario Party 6",
 "Frantic (Daft Rafts, Snow Brawl, etc) - Mario Party 6",
-"Rec Room - Super Mario 64 DS",//08-15
 "Title Screen - WarioWare: Touched!",
 "Pyoro T - WarioWare: Touched!",
 "Farewell, Friends! (Staff Roll) - Yoshi Topsy-Turvy",
 "Title Screen - Donkey Kong Jungle Beat",
 "Sky Garden - Donkey Kong Jungle Beat",
-"Shroom City - Mario Party Advance",
 "Twist & Shake [Mario Party 4] - Mario Party Advance",
 "Title Screen - Yoshi Touch & Go",
 "Banana Bungalow - DK: King Of Swing",
@@ -1638,7 +1683,6 @@
 "Mario Stadium - Mario Superstar Baseball",
 "Bowser Castle - Mario Superstar Baseball",
 "Shriek Mansion 2 - Super Princess Peach",
-"Fury Volcano 2 - Super Princess Peach",//03-22
 "Wavy Beach 2 - Super Princess Peach",
 "Gleam Glacier 1 - Super Princess Peach",//05-18
 "Bowser's Villa 2 - Super Princess Peach",
@@ -1654,7 +1698,6 @@
 "DK Pass - Mario Kart DS",//06-14
 "Boss Battle - Mario Kart DS",
 "Records - Mario Kart DS",
-"Title Screen - Super Mario Strikers",
 "Pipeline Central Intro - Super Mario Strikers",
 "Peach's Castle - Mario & Luigi: Partners In Time",
 "The Time Machine - Mario & Luigi: Partners In Time",
@@ -1681,12 +1724,10 @@
 "Pyoro S - WarioWare: Smooth Moves",
 "Head Honcho, Carpaccio (Carpaccio Battle) - Wario: Master Of Disguise",
 "Allergia Gardens - Wario: Master Of Disguise",
-"Jungle Falls - Diddy Kong Racing DS",
 "Waluigi Cup - Mario Kart Arcade GP 2",//06-08
 "The Evil Count Bleck - Super Paper Mario",
 "Flipside - Super Paper Mario",
 "Gloam Valley - Super Paper Mario",//06-04
-"Merlee's Mansion - Super Paper Mario",//09-28
 "Floro Sapien Caverns - Super Paper Mario",//11-22
 "Sammer's Kingdom - Super Paper Mario",//07-20
 "The Overthere - Super Paper Mario",//06-28
@@ -1704,7 +1745,6 @@
 "Friendly Competition (Paint Misbehavin', Sugar Rush, etc) - Mario Party 8",
 "DK Jungle - Donkey Kong Barrel Blast",
 "Sun Sun Beach - DK: Jungle Climber",
-"Wistful Lake - DK: Jungle Climber",
 "Gateway Galaxy - Super Mario Galaxy",//12-04
 "Dino Piranha - Super Mario Galaxy",
 "Honeyhive Galaxy/Gold Leaf Galaxy - Super Mario Galaxy",//08-16
@@ -1714,10 +1754,8 @@
 "Space Fantasy (Bubble Breeze Galaxy/Bubble Blast Galaxy) - Super Mario Galaxy",
 "Cosmic Clone - Super Mario Galaxy",
 "Lava Path (Freezeflame Galaxy) - Super Mario Galaxy",//10-01
-"Sad Girl - Super Mario Galaxy",
 "The Galaxy Reactor - Super Mario Galaxy",
 "Grand Opening (Title Screen) - Mario Party DS",//01-16
-"Toadette's Music Room - Mario Party DS",
 "Kamek's Library - Mario Party DS",
 "Staff Roll - Mario Party DS",
 "Main Menu - Mario & Sonic At The Olympic Games (2007)",
@@ -1734,7 +1772,6 @@
 "Luigi Circuit/Mario Circuit - Mario Kart Wii",//01-14
 "Moo Moo Meadows - Mario Kart Wii",//04-20
 "Maple Treeway - Mario Kart Wii",//11-02
-"Grumble Volcano - Mario Kart Wii",
 "Moonview Highway - Mario Kart Wii",//03-21
 "Bowser's Castle - Mario Kart Wii",//10-04
 "Rainbow Road - Mario Kart Wii",
@@ -1755,7 +1792,6 @@
 "It's Fawful! - Mario & Luigi: Bowser's Inside Story (DS)",//12-13
 "A Bit Of Peace And Quiet (Peach's Castle) - Mario & Luigi: Bowser's Inside Story (DS)",//11-01
 "Here We Go! (Battle As Bros.) - Mario & Luigi: Bowser's Inside Story (DS)",//06-29
-"Tough Guy Alert! (Boss Battle) - Mario & Luigi: Bowser's Inside Story (DS)",//05-30
 "The Path Of Secrets - Mario & Luigi: Bowser's Inside Story (DS)",
 "A Gentle Breeze At Cavi Cape - Mario & Luigi: Bowser's Inside Story (DS)",//03-08
 "Waltz In The Lake (Blubble Lake) - Mario & Luigi: Bowser's Inside Story (DS)",//09-02
@@ -1794,7 +1830,6 @@
 "Bowser Jr's Fiery Flotilla - Super Mario Galaxy 2",//12-11
 "World 6 - Super Mario Galaxy 2",//12-20
 "Throwback Galaxy (Super Mario 64 ~ Bob Omb Battlefield) - Super Mario Galaxy 2",//08-02
-"Fleet Glide Galaxy - Super Mario Galaxy 2",//07-11
 "Speed Run (Speedy Comet) - Super Mario Galaxy 2",
 "Bowser's Galaxy Generator - Super Mario Galaxy 2",
 "King Bowser's Might (Bowser Battle) - Super Mario Galaxy 2",
@@ -1804,7 +1839,6 @@
 "Teatime Twirl Boss - Mario vs. Donkey Kong: Mini-Land Mayhem!",
 "Jungle Hijinx (DK Island Swing) - Donkey Kong Country Returns",
 "Lift Off Launch - Donkey Kong Country Returns",
-"Aquatic Ambiance Returns - Donkey Kong Country Returns",
 "Staff Roll - Donkey Kong Country Returns",
 "Luigi's Mansion - Mario Sports Mix",
 "Western Junction - Mario Sports Mix",
@@ -1826,11 +1860,10 @@
 "Dream Long Jump: (Yoshi's Picture Book ~ Yoshi's Story) - Mario & Sonic at the London 2012 Olympic Games",
 "Dream Spacewalk: Sky Station Galaxy (Super Mario Galaxy 2) - Mario & Sonic at the London 2012 Olympic Games",
 "Chance Card (Yoshi's Island ~ Athletic) - Fortune Street",
-"The Evil King Bowser (Super Mario World) - Fortune Street",
+"The Evil King Bowser (Super Mario World) - Fortune Street", // bailey's birthday
 "Title Screen - Mario Kart 7",
 "Main Menu - Mario Kart 7",
 "Toad Circuit/Mario Circuit - Mario Kart 7",//05-06
-"Shy Guy Bazaar - Mario Kart 7",//02-20
 "Neo Bowser City/Koopa City - Mario Kart 7",
 "Bowser's Castle - Mario Kart 7",
 "Rainbow Road - Mario Kart 7",//12-07
@@ -1839,7 +1872,7 @@
 "Magma Mine - Mario Party 9",//08-31 -- Use May 10th
 "Bowser Jr's Mad! - Mario Party 9",
 "Wario Dunes - Mario Tennis Open",
-"Galaxy Arena - Mario Tennis Open",
+"Galaxy Arena - Mario Tennis Open", // -- Use April 12th or whatever day the movie is
 "Ground - New Super Mario Bros. 2",
 "World Flower - New Super Mario Bros. 2",
 "Staff Roll - New Super Mario Bros. 2",
@@ -1851,15 +1884,12 @@
 "Acorn Plains (World 1) - New Super Mario Bros. U",//01-24
 "Ground - New Super Mario Bros. U",
 "Soda Jungle ~ Ghost House (World 5) - New Super Mario Bros. U",
-"Rock Candy Mines (World 6) - New Super Mario Bros. U",
 "Staff Roll - New Super Mario Bros. U",
 "Title Screen - Luigi's Mansion: Dark Moon",
 "Old Clockworks - Luigi's Mansion: Dark Moon",
-"ScareScraper - Luigi's Mansion: Dark Moon",//01-07
 "Staff Roll - Luigi's Mansion: Dark Moon",
 "Patchwork - Game & Wario",
 "Mom Appears! (Gamer) - Game & Wario",
-"Fruit - Game & Wario",
 "Travel Journal (File Select) - Mario & Luigi: Dream Team",//03-27
 "Comedic Curtains - Mario & Luigi: Dream Team",//01-20
 "Nightmare Lullaby - Mario & Luigi: Dream Team",
@@ -1871,7 +1901,6 @@
 "Omatsuri Circuit - Mario Kart Arcade GP DX",//11-18
 "Staff Roll - Mario Kart Arcade GP DX",
 "Snowboard Cross - Mario & Sonic at the Sochi 2014 Olympic Winter Games",
-"Ice Hockey - Mario & Sonic at the Sochi 2014 Olympic Winter Games",
 "Underwater Theme (Super Mario Bros.) - Mario & Sonic at the Sochi 2014 Olympic Winter Games",
 "Rainbow Road (Mario Kart Wii) - Mario & Sonic at the Sochi 2014 Olympic Winter Games",
 "Bowser's Galaxy Generator (Super Mario Galaxy 2) - Mario & Sonic at the Sochi 2014 Olympic Winter Games",//09-22
@@ -1881,7 +1910,6 @@
 "Chain Link Charge (Athletic) - Super Mario 3D World",//07-22
 "World 4 (Canyon) - Super Mario 3D World",
 "The Bullet Bill Express - Super Mario 3D World",//09-26
-"The Great Tower - Super Mario 3D World",//05-01
 "The Great Tower Showdown - Super Mario 3D World",
 "The Credits Roll (Staff Roll) - Super Mario 3D World",//05-14
 "Captain Toad Plays Peek-A-Boo - Super Mario 3D World",
@@ -1906,7 +1934,6 @@
 "Selection Screen - Mario Kart 8",//04-15
 "Mario Kart Stadium - Mario Kart 8",//03-15
 "Water Park - Mario Kart 8",
-"Toad Harbor - Mario Kart 8",//01-12
 "Dolphin Shoals (Underwater) - Mario Kart 8",
 "GBA Mario Circuit - Mario Kart 8",//08-24
 "DS Cheep Cheep Beach - Mario Kart 8",//04-29
@@ -1929,7 +1956,6 @@
 "Circuit (Mario Kart 7) - Super Smash Bros. For 3DS/Wii U",
 "DK Island Swing (Donkey Kong Country) - Super Smash Bros. For 3DS/Wii U",
 "Plucky Pass Beginnings - Captain Toad: Treasure Tracker",//09-11
-"Walleye Tumble Temple (Ruins) - Captain Toad: Treasure Tracker",//05-21
 "Bizarre Doors Of Boo Mansion - Captain Toad: Treasure Tracker",//02-06
 "Trick Track Hall - Captain Toad: Treasure Tracker",
 "Rolling Hills A (Ground ~ Super Mario Bros. 2) - Mario vs. Donkey Kong: Tipping Stars",
@@ -1944,10 +1970,8 @@
 "Title Screen - Super Mario Maker",//03-31
 "Underground [Super Mario Bros.] (Edit) - Super Mario Maker",//12-16
 "Ghost House [Super Mario Bros. 3] - Super Mario Maker",//01-27
-"Match Point - Mario Tennis: Ultra Smash",
 "Whispered Secrets (Peach's Theme) - Mario & Luigi: Paper Jam",
 "Springtime Breeze - Mario & Luigi: Paper Jam",//12-03
-"Epic Story (Twinsy Tropics) - Mario & Luigi: Paper Jam",
 "Attack And Run! (Papercraft Battle) - Mario & Luigi: Paper Jam",
 "Forest Fairy Melody (Gloomy Woods) - Mario & Luigi: Paper Jam",//08-21
 "Floating Castle Of Doom (Neo Bowser Castle) - Mario & Luigi: Paper Jam",
@@ -1956,19 +1980,16 @@
 "Fútbol - Mario & Sonic at the Rio 2016 Olympic Games",
 "Copacabana Beach - Mario & Sonic at the Rio 2016 Olympic Games",
 "Rosalina In The Observatory (Super Mario Galaxy) - Mario & Sonic At The Rio 2016 Olympic Games",
-"Final Bowser (New Super Mario Bros. Wii) - Mario & Sonic at the Rio 2016 Olympic Games",
 "Title Screen - Paper Mario: Color Splash",//07-07
 "Ruddy Road - Paper Mario: Color Splash",//04-18
 "Cherry Lake - Paper Mario: Color Splash",//10-07
 "Blissful Beach - Paper Mario: Color Splash",
 "Plum Park - Paper Mario: Color Splash",//07-01
 "Battle With Ludwig - Paper Mario: Color Splash",
-"SMB3 Battle - Paper Mario: Color Splash",
 "Rainbow Road - Paper Mario: Color Splash",//12-12
 "Staff Roll - Paper Mario: Color Splash",
 "Balloon Bash - Mario Party: Star Rush",
 "Boo's Block Party - Mario Party: Star Rush",
-"Underground - Super Mario Run",
 "Remix 10 - Super Mario Run",//06-16
 "Selection Screen (Wireless) - Mario Kart 8 Deluxe",//06-19
 "Lunar Colony - Mario Kart 8 Deluxe",//10-30
@@ -1985,7 +2006,6 @@
 "Beanish People (Hoohoo Village) - Mario & Luigi: Superstar Saga + Bowser's Minions",//10-05
 "Going Home (Staff Roll) - Mario & Luigi: Superstar Saga + Bowser's Minions",
 "Jump Up, Super Star! - Super Mario Odyssey",//10-23
-"Battling The Broodals - Super Mario Odyssey",
 "Fossil Falls (Cascade Kingdom) - Super Mario Odyssey",//09-12
 "To The Next Kingdom! (World Map) - Super Mario Odyssey",
 "Inside The Inverted Pyramid - Super Mario Odyssey",
@@ -2017,14 +2037,12 @@
 "Donkey Kong & Donkey Kong Jr. Medley - Super Smash Bros. Ultimate",
 "Gang-Plank Galleon (Donkey Kong Country) - Super Smash Bros. Ultimate",
 "Mario, Luigi, And Bowser Too! (Title Screen) - Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
-"Here We Go! (Battle As Bros.) - Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
 "The Grand Finale - Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",//07-19
 "Bowser Jr.'s Theme (Bowser Jr.'s Journey) - Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
 "Staff Roll - New Super Mario Bros. U Deluxe",
 "A Teeny, Tiny Universe (Space) - Yoshi's Crafted World",
 "Title Screen - Super Mario Maker 2",
 "Desert [Super Mario Bros.] - Super Mario Maker 2",//06-06
-"Snow [Super Mario World] - Super Mario Maker 2",//02-26
 "Peach's Castle - Super Mario Maker 2",
 "Fever - Dr. Mario World",
 "Main Menu - Mario Kart Tour",
@@ -2039,7 +2057,6 @@
 "Madrid Drive - Mario Kart Tour",
 "E. Gadd's Laboratory - Luigi's Mansion 3",
 "Twisted Suites - Luigi's Mansion 3",//04-28
-"Paranormal Productions - Luigi's Mansion 3",
 "Staff Roll - Luigi's Mansion 3",
 "Tokyo Overworld - Mario & Sonic at the Olympic Games Tokyo 2020",
 "Peach's Castle (Super Mario 64) - Mario & Sonic At The Olympic Games Tokyo 2020",//03-25
@@ -2047,7 +2064,6 @@
 "Red Streamer Battle - Paper Mario: The Origami King",
 "Picnic Road - Paper Mario: The Origami King",//02-07
 "Vellumental Battle - Paper Mario: The Origami King",//03-06
-"Eddy River - Paper Mario: The Origami King",//01-02
 "Autumn Mountain - Paper Mario: The Origami King",//05-27
 "Sweetpaper Valley - Paper Mario: The Origami King",//11-03
 "Thrills At Night - Paper Mario: The Origami King",
@@ -2055,9 +2071,7 @@
 "Toad Town (Purple Streamer Removal) - Paper Mario: The Origami King",
 "Bowser's Castle - Paper Mario: The Origami King",
 "The Final Battle - Paper Mario: The Origami King",//02-18
-"Main Theme - Mario Kart Live: Home Circuit",//05-24
 "Scamper Shores - Bowser's Fury",//08-29
-"Attack! Fury Bowser - Bowser's Fury",//01-05
 "Pounce Bounce Isle - Bowser's Fury",//12-24
 "Mount Magmeow - Bowser's Fury",//02-12
 "Staff Roll - Bowser's Fury",
@@ -2066,22 +2080,18 @@
 "Staff Roll - WarioWare: Get It Together!",
 "Title Screen [Mario Party 3] - Mario Party Superstars",
 "Space Land [Mario Party 2] - Mario Party Superstars",//08-22
-"Faster Than All [Mario Party 1] - Mario Party Superstars",
 "Mustn't Panic [Mario Party 3] (Eatsa Pizza) - Mario Party Superstars",
 "You Are The Superstar! - Mario Party Superstars",//03-30
 "Everyone's A Superstar (Staff Roll) - Mario Party Superstars",
 "Tour Paris Promenade (Wave 1) - MK8DX Booster Course Pass Waves 1-3",//04-24
 "Tour Tokyo Blur (Wave 1) - MK8DX Booster Course Pass Waves 1-3",
-"Sky High Sundae (Wave 2) - MK8DX Booster Course Pass Waves 1-3",//11-08
 "Wii Maple Treeway (Wave 3) - MK8DX Booster Course Pass Waves 1-3",
 "3DS Rainbow Road (Wave 3) - MK8DX Booster Course Pass Waves 1-3",
 "Spooky Mansion (Luigi's Mansion ~ Main Theme) - Mario Strikers: Battle League",
 "Battle Of Beacon Beach - Mario + Rabbids: Sparks Of Hope",
 "For The Galaxy! (Final Boss) - Mario + Rabbids: Sparks Of Hope",
 "Tour Singapore Speedway (Wave 4) - MK8DX Booster Course Pass Waves 4-6",
-"Press Start - The Super Mario Bros. Movie",
 "Level Complete (Credits) - The Super Mario Bros. Movie",
-"Tour Athens Dash (Wave 5) - MK8DX Booster Course Pass Waves 4-6",
 "Wii Moonview Highway (Straightaway) (Wave 5) - MK8DX Booster Course Pass Waves 4-6",
 "The Rayman Show - Mario + Rabbids: Sparks Of Hope Post-Launch Compilation",
 "Pipe Rock Plateau (World 1) - Super Mario Bros. Wonder",
@@ -2097,7 +2107,6 @@
 "Special World - Super Mario Bros. Wonder",
 "A Very Special March - Super Mario Bros. Wonder",
 "Starry Staff Wonder (Staff Roll) - Super Mario Bros. Wonder",
-"Title Screen - WarioWare: Move It!",
 "Super Wario Dance Company - WarioWare: Move It!",
 "Pyoro W - WarioWare: Move It!",
 "Tour Rome Avanti (Wave 6) - MK8DX Booster Course Pass Waves 4-6",
@@ -2107,7 +2116,6 @@
 "Danger Aplenty On The Journey (Bandit's Way) - Super Mario RPG (Switch)",
 "Battling Strongish Monsters (Boss Battle) - Super Mario RPG (Switch)",
 "Grandpa And The Upbeat Tadpoles (Tadpole Pond) - Super Mario RPG (Switch)",
-"Beware Of Forest Mushrooms (Forest Maze) - Super Mario RPG (Switch)",
 "Battling Culex - Super Mario RPG (Switch)",
 "Farewell Geno - Super Mario RPG (Switch)",
 "Spooky House A - Mario vs. Donkey Kong (Switch)",
@@ -2119,7 +2127,6 @@
 "Enchanting Echo Of The Deep (Mermaid Peach) - Princess Peach: Showtime!", 
 "Staff Roll - Princess Peach: Showtime!",
 "Greetings From The Mushroom Kingdom - Paper Mario: The Thousand-Year Door (Switch)",
-"Rogueport - Paper Mario: The Thousand-Year Door (Switch)",
 "Rogueport (Shops) - Paper Mario: The Thousand-Year Door (Switch)",
 "Rogueport Underground - Paper Mario: The Thousand-Year Door (Switch)",
 "Hooktail Castle - Paper Mario: The Thousand-Year Door (Switch)",
@@ -2133,20 +2140,18 @@
 "Title Screen - Super Mario Party Jamboree",
 "Rainbow Galleria - Super Mario Party Jamboree",
 "Bowser Busts In - Super Mario Party Jamboree",
-"Mega Rocky Wrench Wreckers - Super Mario Party Jamboree",
 "Slowly Yet Surely [Mario Party 4] (Stamp Out!) - Super Mario Party Jamboree",
 "Rosalina's Radical Race - Super Mario Party Jamboree",
 "Keep Your Cool (Hammer It Home, Prime Cut, etc) - Super Mario Party Jamboree",
-"Title Screen - Mario & Luigi: Brothership",
-"Mid Boss Battle - Mario & Luigi: Brothership",
-"Twistee Island - Mario & Luigi: Brothership",
-"Allsand Island - Mario & Luigi: Brothership",
-"Heatfreeze Island - Mario & Luigi: Brothership",
-"Wayaway Island (Super Mario Bros. 3 ~ Fortress) - Mario & Luigi: Brothership",
-"Jellyfish Island - Mario & Luigi: Brothership",
-"Glohmen Concordia - Mario & Luigi: Brothership",
-"Final Battle ~ Phase 3 - Mario & Luigi: Brothership",
-"Staff Roll - Mario & Luigi: Brothership",
+"Brothership (Title Screen) - Mario & Luigi: Brothership",
+"A Battle Of Logic (Mid Boss) - Mario & Luigi: Brothership",
+"The Sharkbones Of Allsand Island - Mario & Luigi: Brothership",
+"Heatfreeze Island's Fire And Ice - Mario & Luigi: Brothership",
+"Bowser's Castle On Wayaway Island (Super Mario Bros. 3 ~ Fortress) - Mario & Luigi: Brothership",
+"Jellyfish Island Vibes - Mario & Luigi: Brothership",
+"Reclusa World - Mario & Luigi: Brothership",
+"The Final Phase - Mario & Luigi: Brothership",
+"The World Is Connected! (Staff Roll) - Mario & Luigi: Brothership",
 "Main Menu - Mario Kart World",
 "Mario Bros. Circuit - Mario Kart World",
 "Crown City - Mario Kart World",
@@ -2156,7 +2161,6 @@
 "Faraway Oasis - Mario Kart World",
 "Dry Bones Burnout - Mario Kart World",
 "Wii Moo Moo Meadows - Mario Kart World",
-"N64 Choco Mountain - Mario Kart World",
 "Wii Toad's Factory - Mario Kart World",
 "Bowser's Castle - Mario Kart World",
 "Rainbow Road - Mario Kart World",
@@ -2167,7 +2171,6 @@
 "Sherbet Land (Mario Kart: Double Dash!!) - Mario Kart World",
 "Rainbow Road (Mario Kart: Double Dash!!) - Mario Kart World",
 "Delfino Square (Mario Kart DS) - Mario Kart World",
-"Wario Stadium / Waluigi Pinball ~ Night (Mario Kart DS) - Mario Kart World",
 "Rainbow Road (Mario Kart DS) - Mario Kart World",
 "Maple Treeway (Mario Kart Wii) - Mario Kart World",
 "Rainbow Road (Mario Kart Wii) - Mario Kart World",
@@ -2185,7 +2188,6 @@
 "Rice Beach (Wario Land: Super Mario Land 3) - Mario Kart World",
 "Opening Melody (Super Mario World 2: Yoshi's Island) - Mario Kart World",
 "Baby Bowser Battle (Super Mario World 2: Yoshi's Island) - Mario Kart World",
-"File Select (Super Mario 64) - Mario Kart World",
 "Dire, Dire Docks (Super Mario 64) - Mario Kart World",
 "Bowser's Road (Super Mario 64) - Mario Kart World",
 "Staff Roll (Super Mario 64) - Mario Kart World",
@@ -2198,13 +2200,11 @@
 "Space Junk Road (Super Mario Galaxy) - Mario Kart World",
 "Puzzle Plank Galaxy (Super Mario Galaxy 2) - Mario Kart World",
 "Title Screen (Super Mario Maker) - Mario Kart World",
-"Fossil Falls (Super Mario Odyssey) - Mario Kart World",
 "Plessie Ride! (Bowser's Fury) - Mario Kart World",
 "DK Artist (Simian Segue / Bonus Room Blitz) - Donkey Kong Bananza",
 "Ingot Isle Cave In - Donkey Kong Bananza",
 "Canyon Layer: Banandium Refinery - Donkey Kong Bananza",
 "Forest Layer: Mossplume Marsh - Donkey Kong Bananza",
-"Tempest Layer: Hot Shower Cave - Donkey Kong Bananza",
 "Radiance Layer: Darkness - Donkey Kong Bananza",
 "Radiance Layer: Hiss Hiss Oasis - Donkey Kong Bananza",
 "Planet Core: Second Half - Donkey Kong Bananza",
@@ -6057,7 +6057,7 @@
           },
           {
             url: "https://soundcloud.com/anime404/mario-luigi-brothership-music-shipshape-island",
-            answer: "Shipshape Island - Mario & Luigi: Brothership",
+            answer: "Connie And Shipshape Island- Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/user-229883391/rockface-rumble",
@@ -6169,7 +6169,7 @@
           },
           {
             url: "https://soundcloud.com/superninjigalaxy/slippenglide-island-mario-luigi-brothership",
-            answer: "Slippenglide Island - Mario & Luigi: Brothership",
+            answer: "Slippenglide Island, Where Puns Are Colder Than The Weather - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/user-107491243-28699163/frosted-glacier-overworld",
@@ -6181,7 +6181,7 @@
           },
           {
             url: "https://soundcloud.com/anime404/mario-luigi-brothership-battle-theme",
-            answer: "Battle - Mario & Luigi: Brothership",
+            answer: "Attack Combos! (Battle) - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/vincent-thompson-763471057/18-bonus-screen-bgm",
@@ -6369,7 +6369,7 @@
           },
           {
             url: "https://soundcloud.com/anime404/mario-luigi-brothership-florall-island",
-            answer: "Florall Island - Mario & Luigi: Brothership",
+            answer: "The Gentle Breeze Of Florall Island - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/yell0wsuit2/fight-against-an-armed-boss",
@@ -7057,7 +7057,7 @@
           },
           {
             url: "https://soundcloud.com/anime404/mario-luigi-brothership-desolatt-island",
-            answer: "Desolatt Island - Mario & Luigi: Brothership",
+            answer: "The Monster Bird Of Desolatt Island - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/mvpl/35-map-2-goombas-greedy-g",
@@ -7405,7 +7405,7 @@
           },
           {
             url: "https://soundcloud.com/anime404/mario-luigi-brothership-great-lighthouse-boss-battle",
-            answer: "Boss Battle - Mario & Luigi: Brothership",
+            answer: "Full Power Battle Groove! (Boss Battle) - Mario & Luigi: Brothership",
           },
           {
             url: "https://soundcloud.com/super-smash-bros-anthology-342578510/15-main-theme-yoshis-woolly",
