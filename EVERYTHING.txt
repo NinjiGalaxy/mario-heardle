@@ -2777,22 +2777,22 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
 
       .C. Mario & Luigi: Brothership (2024, Switch)
       
-      //C//"Title Screen - Mario & Luigi: Brothership",
-      //C//"Battle - Mario & Luigi: Brothership",
-      //C//"Shipshape Island - Mario & Luigi: Brothership",
-      //C//"Mid Boss Battle - Mario & Luigi: Brothership",
-      //C//"Twistee Island - Mario & Luigi: Brothership",
-      //C//"Boss Battle - Mario & Luigi: Brothership",
-      //C//"Florall Island - Mario & Luigi: Brothership",
-      //C//"Desolatt Island - Mario & Luigi: Brothership",
-      //E//"Allsand Island - Mario & Luigi: Brothership",
-      //C//"Heatfreeze Island - Mario & Luigi: Brothership",
-      //C//"Slippenglide Island - Mario & Luigi: Brothership",
-      //C//"Wayaway Island (Super Mario Bros. 3 ~ Fortress) - Mario & Luigi: Brothership",
-      //C//"Jellyfish Island - Mario & Luigi: Brothership",
-      //E//"Glohmen Concordia - Mario & Luigi: Brothership",
-      //E//"Final Battle ~ Phase 3 - Mario & Luigi: Brothership",
-      //E//"Staff Roll - Mario & Luigi: Brothership",
+      //C//"Brothership (Title Screen) - Mario & Luigi: Brothership",
+      //C//"Attack Combos! (Battle) - Mario & Luigi: Brothership",
+      //C//"Connie And Shipshape Island - Mario & Luigi: Brothership",
+      //C//"A Battle Of Logic (Mid Boss) - Mario & Luigi: Brothership",
+      //C//"Twistee Island Twist - Mario & Luigi: Brothership",
+      //C//"Full Power Battle Groove! (Boss Battle)
+      //C//"The Gentle Breeze Of Florall Island - Mario & Luigi: Brothership",
+      //C//"The Monster Bird Of Desolatt Island - Mario & Luigi: Brothership",
+      //E//"The Sharkbones Of Allsand Island - Mario & Luigi: Brothership",
+      //C//"Heatfreeze Island's Fire And Ice - Mario & Luigi: Brothership",
+      //C//"Slippenglide Island, Where Puns Are Colder Than The Weather - Mario & Luigi: Brothership",
+      //C//"Bowser's Castle On Wayaway Island (Super Mario Bros. 3 ~ Fortress) - Mario & Luigi: Brothership",
+      //C//"Jellyfish Island Vibes - Mario & Luigi: Brothership",
+      //E//"Reclusa World - Mario & Luigi: Brothership",
+      //E//"The Final Phase - Mario & Luigi: Brothership",
+      //E//"The World Is Connected! (Staff Roll) - Mario & Luigi: Brothership",
 
       .E. Mario Kart World (2025, Switch 2)
       
