@@ -2782,7 +2782,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //C//"Connie And Shipshape Island - Mario & Luigi: Brothership",
       //C//"A Battle Of Logic (Mid Boss) - Mario & Luigi: Brothership",
       //C//"Twistee Island Twist - Mario & Luigi: Brothership",
-      //C//"Full Power Battle Groove! (Boss Battle)
+      //C//"Full Power Battle Groove! (Boss Battle) - Mario & Luigi: Brothership",
       //C//"The Gentle Breeze Of Florall Island - Mario & Luigi: Brothership",
       //C//"The Monster Bird Of Desolatt Island - Mario & Luigi: Brothership",
       //E//"The Sharkbones Of Allsand Island - Mario & Luigi: Brothership",
