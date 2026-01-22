@@ -7867,7 +7867,7 @@
             url: "https://soundcloud.com/briantyler/press-start",
             answer: "Press Start - The Super Mario Bros. Movie",
           },
-          {{
+          {
             url: "https://soundcloud.com/loststray2/ds-waluigi-pinball-mario-kart-ds-night-mario-kart-world-ost-46",
             answer: "Wario Stadium / Waluigi Pinball ~ Night (Mario Kart DS) - Mario Kart World",
           },
