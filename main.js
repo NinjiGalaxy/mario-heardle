@@ -1675,7 +1675,7 @@
 "Twist & Shake [Mario Party 4] - Mario Party Advance",
 "Title Screen - Yoshi Touch & Go",
 "Banana Bungalow - DK: King Of Swing",
-"Main Menu - Dance Dance Revolution Mario Mix",
+"Main Menu - Dance Dance Revolution: Mario Mix",
 "Here We Go! (Super Mario Bros. ~ Ground) - Dance Dance Revolution: Mario Mix",//05-23
 "Boo Boogie (Super Mario Bros. 2 ~ Ground) - Dance Dance Revolution: Mario Mix",//09-10
 "Starring Wario! (Wario World ~ Greenhorn Forest) - Dance Dance Revolution: Mario Mix",//10-19
