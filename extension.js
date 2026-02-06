@@ -1677,7 +1677,7 @@ let _metadata = createMetadata({
 "Twist & Shake [Mario Party 4] - Mario Party Advance": [2005, "GBA", "Mario Party", "Mario Party Advance", "Minigame Compilation"],
 "Title Screen - Yoshi Touch & Go": [2005, "DS", "Yoshi (Puzzle/Misc)", "Yoshi Touch & Go", "Other"],
 "Banana Bungalow - DK: King Of Swing": [2005, "GBA", "Donkey Kong (Misc)", "DK: King Of Swing", "Puzzle"],
-"Main Menu - Dance Dance Revolution Mario Mix": [2005, "GameCube", "Mario Misc", "Dance Dance Revolution: Mario Mix", "Other"],
+"Main Menu - Dance Dance Revolution: Mario Mix": [2005, "GameCube", "Mario Misc", "Dance Dance Revolution: Mario Mix", "Other"],
 "Here We Go! (Super Mario Bros. ~ Ground) - Dance Dance Revolution: Mario Mix": [2005, "GameCube", "Mario Misc", "Dance Dance Revolution: Mario Mix", "Other"],
 "Boo Boogie (Super Mario Bros. 2 ~ Ground) - Dance Dance Revolution: Mario Mix": [2005, "GameCube", "Mario Misc", "Dance Dance Revolution: Mario Mix", "Other"],
 "Starring Wario! (Wario World ~ Greenhorn Forest) - Dance Dance Revolution: Mario Mix": [2005, "GameCube", "Mario Misc", "Dance Dance Revolution: Mario Mix", "Other"],
