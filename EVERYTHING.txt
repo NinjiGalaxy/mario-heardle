@@ -1049,7 +1049,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       Dance Dance Revolution: Mario Mix (2005, GameCube)
       
-      //C//"Main Menu - Dance Dance Revolution Mario Mix",
+      //C//"Main Menu - Dance Dance Revolution: Mario Mix",
       "Here We Go! (Super Mario Bros. ~ Ground) - Dance Dance Revolution: Mario Mix",
       //"Destruction Dance (Wrecking Crew ~ Bonus Stage) - Dance Dance Revolution: Mario Mix",
       //"Jump! Jump! Jump! (Super Mario Bros. 3 ~ Athletic) - Dance Dance Revolution: Mario Mix",
