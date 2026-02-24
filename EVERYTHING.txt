@@ -144,13 +144,13 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       Super Mario Land 2: 6 Golden Coins (1992, Game Boy)
       
-      "Choose Your Pipe (File Select) - Super Mario Land 2: 6 Golden Coins",
+      "File Select - Super Mario Land 2: 6 Golden Coins",
       "Athletic - Super Mario Land 2: 6 Golden Coins",
-      "Treetop (Tree Zone) - Super Mario Land 2: 6 Golden Coins",
-      "Seashore (Turtle Zone/Macro Zone) - Super Mario Land 2: 6 Golden Coins",
-      "Machine (Mario Zone) - Super Mario Land 2: 6 Golden Coins",
-      "The Moon (Space Zone) - Super Mario Land 2: 6 Golden Coins",
-      "Star Maze (Space Zone) - Super Mario Land 2: 6 Golden Coins",
+      "Roots Course (Tree Zone) - Super Mario Land 2: 6 Golden Coins",
+      "Manhole Course (Macro Zone) - Super Mario Land 2: 6 Golden Coins",
+      "Crane Course (Mario Zone) - Super Mario Land 2: 6 Golden Coins",
+      "Moon Course (Space Zone) - Super Mario Land 2: 6 Golden Coins",
+      "Star Course (Space Zone) - Super Mario Land 2: 6 Golden Coins",
       "Wario's Castle - Super Mario Land 2: 6 Golden Coins",
       "Staff Roll - Super Mario Land 2: 6 Golden Coins",
       
@@ -813,8 +813,8 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       .. WarioWare, Inc.: Mega Microgame$! (2003, GBA)
       
       //"Main Menu - WarioWare, Inc.: Mega Microgame$!",
-      //"Drifting Away - WarioWare, Inc.: Mega Microgame$!",
-      //"Four Seasons - WarioWare, Inc.: Mega Microgame$!",
+      //"Drifting Away (Dribble & Spitz) - WarioWare, Inc.: Mega Microgame$!",
+      //"Four Seasons (Kat & Ana) - WarioWare, Inc.: Mega Microgame$!",
       //6//"Paper Plane - WarioWare, Inc.: Mega Microgame$!",
       //"Pyoro - WarioWare, Inc.: Mega Microgame$!",
       //6//"Staff Roll - WarioWare, Inc.: Mega Microgame$!",
