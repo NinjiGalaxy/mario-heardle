@@ -35,7 +35,7 @@
 "Cube (Cough) - Dr. Mario 64",//05-18-22
 "Coin Rush DLC Shop - New Super Mario Bros. 2",//05-19-22
 "Flopside - Super Paper Mario",//05-20-22
-"Star Maze (Space Zone) - Super Mario Land 2: 6 Golden Coins",//05-21-22
+"Star Course (Space Zone) - Super Mario Land 2: 6 Golden Coins",//05-21-22
 "Always Smiling - Dance Dance Revolution: Mario Mix",//05-22-22
 "Funky Stadium - Mario Kart Wii",//05-23-22
 "Ground - Super Mario Advance (Super Mario Bros. 2)",//05-24-22
@@ -292,7 +292,7 @@
 "World 1 (Grass) - Super Mario 3D World",//01-30-23
 "Options - Mario Kart Wii",//01-31-23
 "Underground - Super Mario Bros. 2",//02-01-23
-"The Moon (Space Land) - Super Mario Land 2: 6 Golden Coins",//02-02-23
+"Moon Course (Space Land) - Super Mario Land 2: 6 Golden Coins",//02-02-23
 "Casino - Super Mario Sunshine",//02-03-23
 "Hands On Hall - Super Mario 3D World",//02-04-23
 "Aerial Road - Mario Kart Arcade GP DX",//02-05-23
@@ -302,11 +302,11 @@
 "Castle Of Beans - Mario & Luigi: Superstar Saga (GBA)",//02-09-23
 "Dusty Dune Galaxy - Super Mario Galaxy",//02-10-23
 "Showtime! (Battle As Bowser) - Mario & Luigi: Bowser's Inside Story (DS)",//02-11-23
-"Choose Your Pipe (File Select) - Super Mario Land 2: 6 Golden Coins",//02-12-23
+"File Select - Super Mario Land 2: 6 Golden Coins",//02-12-23
 "Ground - Super Mario Advance 4: Super Mario Bros. 3",//02-13-23
 "The Kingdom Called Beanbean (Beanbean Fields) - Mario & Luigi: Superstar Saga (GBA)",//02-14-23
 "Cheese Land - Mario Kart: Super Circuit",//02-15-23
-"Seashore (Turtle Zone/Macro Zone) - Super Mario Land 2: 6 Golden Coins",//02-16-23
+"Manhole Course (Macro Zone) - Super Mario Land 2: 6 Golden Coins",//02-16-23
 "Scanning An e Card - Super Mario Advance 4: Super Mario Bros. 3",//02-17-23
 "Mario Bros. - Game & Watch Gallery 3",//02-18-23
 "Berlin Byways - Mario Kart Tour",//02-19-23
@@ -484,7 +484,7 @@
 "Jelly Jamboree - Donkey Kong Country: Tropical Freeze",//08-10-23
 "Drivin' Me Bananas - The Super Mario Bros. Movie",//08-11-23
 "Egg - Game & Watch Gallery 3",//08-12-23
-"Drifting Away - WarioWare, Inc.: Mega Microgame$!",//08-13-23
+"Drifting Away (Dribble & Spitz) - WarioWare, Inc.: Mega Microgame$!",//08-13-23
 "Ghost Valley - Super Mario Kart",//08-14-23
 "Warmth Amongst The Snow - Mario + Rabbids: Sparks Of Hope",//08-15-23
 "Gang-Plank Galleon - Donkey Kong Country (SNES)",//08-16-23
@@ -507,7 +507,7 @@
 "Bowser's Theme - Mario Strikers Charged",//09-02-23
 "Sweet Surfin' (Oho Oasis / Gwarhar Lagoon) - Mario & Luigi: Superstar Saga + Bowser's Minions",//09-03-23
 "Mario Brothers Rap - The Super Mario Bros. Movie",//09-04-23
-"Four Seasons - WarioWare, Inc.: Mega Microgame$!",//09-05-23
+"Four Seasons (Kat & Ana) - WarioWare, Inc.: Mega Microgame$!",//09-05-23
 "Cloudtop Cruise - Mario Kart 8",//09-06-23
 "GCN Daisy Cruiser (Wave 5) - MK8DX Booster Course Pass Waves 4-6",//09-07-23
 "Foulwater Falls/Gurgle Gurch - Wario Land: Shake It!",//09-08-23
@@ -1190,7 +1190,7 @@
 "Mount Bighill/Bamboozle Village (Escape) - Wario Land: Shake It!",//07-16-25
 "DK Isle - Donkey Kong 64",//07-17-25
 "Title (Famicom Grand Prix II: 3D Hot Rally) - Super Smash Bros. Brawl",//07-18-25
-"Athletic - Super Mario Land 2: 6 Golden Coins",//07-19-25
+"Main Theme (Athletic) - Super Mario Land 2: 6 Golden Coins",//07-19-25
 "World Star - New Super Mario Bros. 2",//07-20-25
 "Battle ~ The Champ (Rawk Hawk) - Paper Mario: The Thousand-Year Door (GameCube)",//07-21-25
 "Piranha Creeper Creek - Super Mario 3D World",//07-22-25
@@ -1475,8 +1475,8 @@
 "Choco Island - Super Mario Kart",
 "Rainbow Road - Super Mario Kart",
 "Battle - Super Mario Kart",//10-18
-"Treetop (Tree Zone) - Super Mario Land 2: 6 Golden Coins",
-"Machine (Mario Zone) - Super Mario Land 2: 6 Golden Coins",//08-08
+"Roots Course (Tree Zone) - Super Mario Land 2: 6 Golden Coins",
+"Crane Course (Mario Zone) - Super Mario Land 2: 6 Golden Coins",//08-08
 "Staff Roll - Super Mario Land 2: 6 Golden Coins",//05-12
 "Title Screen - Yoshi's Cookie (NES)",
 "Stage 10 Clear (Staff Roll) - Yoshi's Cookie (Game Boy)",
@@ -2353,7 +2353,7 @@
           },
           {
             url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-star-maze",
-            answer: "Star Maze (Space Zone) - Super Mario Land 2: 6 Golden Coins",
+            answer: "Star Course (Space Zone) - Super Mario Land 2: 6 Golden Coins",
           },
           {
             url: "https://soundcloud.com/kereta-simit/kitto-egao-ga-ichiban-sa",
@@ -3381,7 +3381,7 @@
           },
           {
             url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-the-moon",
-            answer: "The Moon (Space Zone) - Super Mario Land 2: 6 Golden Coins",
+            answer: "Moon Course (Space Zone) - Super Mario Land 2: 6 Golden Coins",
           },
           {
             url: "https://soundcloud.com/vgmplanet/casino-delfino-medley",
@@ -3421,7 +3421,7 @@
           },
           {
             url: "https://soundcloud.com/vgmplanet/13-saved-game",
-            answer: "Choose Your Pipe (File Select) - Super Mario Land 2: 6 Golden Coins",
+            answer: "File Select - Super Mario Land 2: 6 Golden Coins",
           },
           {
             url: "https://soundcloud.com/vgmplanet/17-normal-level-1",
@@ -3437,7 +3437,7 @@
           },
           {
             url: "https://soundcloud.com/vgmplanet/23-stage-music-4",
-            answer: "Seashore (Turtle Zone/Macro Zone) - Super Mario Land 2: 6 Golden Coins",
+            answer: "Manhole Course (Macro Zone) - Super Mario Land 2: 6 Golden Coins",
           },
           {
             url: "https://soundcloud.com/vgmplanet/49-scaning-an-e-card",
@@ -4149,7 +4149,7 @@
           },
           {
             url: "https://soundcloud.com/vgmplanet/d65-drifting-away-full-version",
-            answer: "Drifting Away - WarioWare, Inc.: Mega Microgame$!",
+            answer: "Drifting Away (Dribble & Spitz) - WarioWare, Inc.: Mega Microgame$!",
           },
           {
             url: "https://soundcloud.com/user-675036643/super-mario-kart-ost-ghost-1",
@@ -4241,7 +4241,7 @@
           },
           {
             url: "https://soundcloud.com/vgmplanet/g46-four-seasons-full-version",
-            answer: "Four Seasons - WarioWare, Inc.: Mega Microgame$!",
+            answer: "Four Seasons (Kat & Ana) - WarioWare, Inc.: Mega Microgame$!",
           },
           {
             url: "https://soundcloud.com/user-675036643/mario-kart-8-deluxe-ost",
@@ -6973,7 +6973,7 @@
           },
           {
             url: "https://soundcloud.com/dmg8bit/game-boy-super-mario-land-2-athletic",
-            answer: "Athletic - Super Mario Land 2: 6 Golden Coins",
+            answer: "Main Theme (Athletic) - Super Mario Land 2: 6 Golden Coins",
           },
           {
             url: "https://soundcloud.com/whatlosermusic/world-star",
