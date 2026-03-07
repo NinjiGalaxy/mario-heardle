@@ -1419,7 +1419,7 @@ let _metadata = createMetadata({
 "Fury Volcano 2 - Super Princess Peach": [2005, "DS", "Princess Peach", "Super Princess Peach", "2D Platformer"],
 "Epic Story (Twinsy Tropics) - Mario & Luigi: Paper Jam": [2015, "3DS", "Mario & Luigi", "Mario & Luigi: Paper Jam", "RPG"],
 "Wistful Lake - DK: Jungle Climber": [2007, "DS", "Donkey Kong (Misc)", "DK: Jungle Climber", "2D Platformer"],
-"Faster Than All [Mario Party 1] - Mario Party Superstars": [2021, "Switch", "Mario Party", "Mario Party Superstars", "Minigame Compilation"],
+"Faster Than All [Mario Party 1] (Handcar Havoc) - Mario Party Superstars": [2021, "Switch", "Mario Party", "Mario Party Superstars", "Minigame Compilation"],
 "Tough Guy Alert! (Boss Battle) - Mario & Luigi: Bowser's Inside Story (DS)": [2009, "DS", "Mario & Luigi", "Mario & Luigi: Bowser's Inside Story", "RPG"],
 "N64 Choco Mountain - Mario Kart World": [2025, "Switch 2", "Mario Kart", "Mario Kart World", "Racing"],
 "The Great Tower - Super Mario 3D World": [2013, "Wii U", "Super Mario", "Super Mario 3D World", "3D Platformer"],
