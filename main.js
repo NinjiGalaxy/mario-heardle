@@ -1420,7 +1420,7 @@
 "Fury Volcano 2 - Super Princess Peach",//03-03-26
 "Epic Story (Twinsy Tropics) - Mario & Luigi: Paper Jam",//03-04-26
 "Wistful Lake - DK: Jungle Climber",//03-05-26
-"Faster Than All [Mario Party 1] - Mario Party Superstars",//03-06-26
+"Faster Than All [Mario Party 1] (Handcar Havoc) - Mario Party Superstars",//03-06-26
 "Tough Guy Alert! (Boss Battle) - Mario & Luigi: Bowser's Inside Story (DS)",//03-07-26
 "N64 Choco Mountain - Mario Kart World",//03-08-26
 "The Great Tower - Super Mario 3D World",//03-09-26
