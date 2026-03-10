@@ -756,7 +756,7 @@ let _metadata = createMetadata({
 "Main Menu - Mario Party: Island Tour": [2013, "3DS", "Mario Party", "Mario Party: Island Tour", "Minigame Compilation"],
 "Forest Stage (Poochy) - Tetris Attack": [1996, "SNES", "Yoshi (Puzzle/Misc)", "Tetris Attack", "Puzzle"],
 "Bowser's Lava Lake Keep - Super Mario 3D World": [2013, "Wii U", "Super Mario", "Super Mario 3D World", "3D Platformer"],
-"Title Screen - Yoshi (NES)": [1991, "NES", "Yoshi (Puzzle/Misc)", "Yoshi' (NES)", "Puzzle"],
+"Title Screen - Yoshi (NES)": [1991, "NES", "Yoshi (Puzzle/Misc)", "Yoshi (NES)", "Puzzle"],
 "Aquatic Ambiance - Donkey Kong Country (SNES)": [1994, "SNES", "Donkey Kong Country", "Donkey Kong Country", "2D Platformer"],
 "Escape From The Woods - Wario Land II": [1998, "GBC", "Wario Land", "Wario Land II", "2D Platformer"],
 "Secret Course (Super Mario Bros. Theme) - Super Mario Sunshine": [2002, "GameCube", "Super Mario", "Super Mario Sunshine", "3D Platformer"],
