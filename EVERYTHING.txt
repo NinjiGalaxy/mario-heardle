@@ -6,7 +6,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Underground - Super Mario Bros. (1985)",
       //9//"Castle - Super Mario Bros. (1985)",
       "Underwater - Super Mario Bros. (1985)",
-      //D//"Super Star (Invincible) - Super Mario Bros",
+      //D//"Super Star (Invincible) - Super Mario Bros. (1985)",
       
       .. Wrecking Crew (1985, NES)
       
@@ -22,7 +22,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       //"Ending - Super Mario Bros. The Lost Levels",
       
-      .D. Super Mario Bros: The Great Mission To Rescue Princess Peach (1986, Film/TV)
+      .D. Super Mario Bros: The Great Mission To Rescue Princess Peach (1986, Film / TV)
       
       //D//"Doki Doki Do It - Super Mario Bros: The Great Mission To Rescue Princess Peach",
       //D//"The Light Blue Waltz (Underwater Theme) - Super Mario Bros: The Great Mission To Rescue Princess Peach",
@@ -38,46 +38,46 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
 
       Super Mario Bros. 2 (US) (1988, NES)
       
-      "Title Screen - Super Mario Bros. 2",
-      //6//"Player Select - Super Mario Bros. 2",
-      "Ground - Super Mario Bros. 2",
-      "Underground - Super Mario Bros. 2",
-      //"Wart - Super Mario Bros. 2",
-      "Ending - Super Mario Bros. 2",
-      "Subspace - Super Mario Bros. 2",
+      "Title Screen - Super Mario Bros. 2 (NES)",
+      //6//"Player Select - Super Mario Bros. 2 (NES)",
+      "Ground - Super Mario Bros. 2 (NES)",
+      "Underground - Super Mario Bros. 2 (NES)",
+      //"Wart - Super Mario Bros. 2 (NES)",
+      "Ending - Super Mario Bros. 2 (NES)",
+      "Subspace - Super Mario Bros. 2 (NES)",
       
       Super Mario Bros. 3 (1988, NES)
       
-      "Ground - Super Mario Bros. 3",
-      "Underground - Super Mario Bros. 3",
-      "Underwater - Super Mario Bros. 3",
-      "Athletic - Super Mario Bros. 3",
-      "Airship - Super Mario Bros. 3",
-      "Fortress - Super Mario Bros. 3",
-      //9//"Boss Battle - Super Mario Bros. 3",
-      "Hammer Bros. - Super Mario Bros. 3",
-      "Ending - Super Mario Bros. 3",
-      "Grass Land (World 1) - Super Mario Bros. 3",
-      //"Desert Land (World 2) - Super Mario Bros. 3",
-      //9//"Water Land (World 3) - Super Mario Bros. 3",
-      //9//"Giant Land (World 4) - Super Mario Bros. 3",
-      //"Sky Land (World 5) - Super Mario Bros. 3",
-      //9//"Ice Land (World 6) - Super Mario Bros. 3",
-      "Pipe Land (World 7) - Super Mario Bros. 3",
-      //"Dark Land (World 8) - Super Mario Bros. 3",
-      //9//"Warp Zone (World 9) - Super Mario Bros. 3",
-      "Bowser Battle - Super Mario Bros. 3",
+      "Ground - Super Mario Bros. 3 (NES)",
+      "Underground - Super Mario Bros. 3 (NES)",
+      "Underwater - Super Mario Bros. 3 (NES)",
+      "Athletic - Super Mario Bros. 3 (NES)",
+      "Airship - Super Mario Bros. 3 (NES)",
+      "Fortress - Super Mario Bros. 3 (NES)",
+      //9//"Boss Battle - Super Mario Bros. 3 (NES)",
+      "Hammer Bros. - Super Mario Bros. 3 (NES)",
+      "Ending - Super Mario Bros. 3 (NES)",
+      "Grass Land (World 1) - Super Mario Bros. 3 (NES)",
+      //"Desert Land (World 2) - Super Mario Bros. 3 (NES)",
+      //9//"Water Land (World 3) - Super Mario Bros. 3 (NES)",
+      //9//"Giant Land (World 4) - Super Mario Bros. 3 (NES)",
+      //"Sky Land (World 5) - Super Mario Bros. 3 (NES)",
+      //9//"Ice Land (World 6) - Super Mario Bros. 3 (NES)",
+      "Pipe Land (World 7) - Super Mario Bros. 3 (NES)",
+      //"Dark Land (World 8) - Super Mario Bros. 3 (NES)",
+      //9//"Warp Zone (World 9) - Super Mario Bros. 3 (NES)",
+      "Bowser Battle - Super Mario Bros. 3 (NES)",
       
       Super Mario Land (1989, Game Boy)
       
-      "Birabuto Kingdom - Super Mario Land",
-      "Muda Kingdom - Super Mario Land",
-      "Chai Kingdom - Super Mario Land",
-      "Easton Kingdom - Super Mario Land",
-      "Shooting Area - Super Mario Land",
-      "Ending & Staff Roll - Super Mario Land",
+      "Birabuto Kingdom - Super Mario Land (GB)",
+      "Muda Kingdom - Super Mario Land (GB)",
+      "Chai Kingdom - Super Mario Land (GB)",
+      "Easton Kingdom - Super Mario Land (GB)",
+      "Shooting Area - Super Mario Land (GB)",
+      "Ending & Staff Roll - Super Mario Land (GB)",
       
-      .C. The Super Mario Bros. Super Show (1989, Film/TV)
+      .C. The Super Mario Bros. Super Show (1989, Film / TV)
       
       //C//"Mario Brothers Rap - The Super Mario Bros. Super Show",
       //C//"Do The Mario! - The Super Mario Bros. Super Show", (also april fools 2023)
@@ -89,30 +89,30 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Chill - Dr. Mario (NES)",
       //D//"Ending - Dr. Mario (NES)",
       
-      .D. The Adventures Of Super Mario Bros. 3 (1990, Film/TV)
+      .D. The Adventures Of Super Mario Bros. 3 (1990, Film / TV)
       
       //D//"Do The Koopa - The Adventures Of Super Mario Bros. 3",
       
       Super Mario World (1990, SNES)
       
-      "Title Screen - Super Mario World",
-      "Yoshi's Island - Super Mario World",
-      "Donut Plains/Chocolate Island - Super Mario World",
-      "Vanilla Dome - Super Mario World",
-      "Forest Of Illusion - Super Mario World",
-      //"Valley Of Bowser - Super Mario World",
-      "Star Road - Super Mario World",
-      //7//"Special World - Super Mario World",
-      "Ground - Super Mario World",
-      "Athletic - Super Mario World",
-      "Castle - Super Mario World",
-      //7//"Boss Battle - Super Mario World",
-      //6//"Underground - Super Mario World",
-      "Underwater - Super Mario World",
-      "Ghost House - Super Mario World",
-      //7//"Bonus - Super Mario World",
-      //"The Evil King Bowser (Final Battle) - Super Mario World",
-      "Staff Roll - Super Mario World",
+      "Title Screen - Super Mario World (SNES)",
+      "Yoshi's Island - Super Mario World (SNES)",
+      "Donut Plains / Chocolate Island - Super Mario World (SNES)",
+      "Vanilla Dome - Super Mario World (SNES)",
+      "Forest Of Illusion - Super Mario World (SNES)",
+      //"Valley Of Bowser - Super Mario World (SNES)",
+      "Star Road - Super Mario World (SNES)",
+      //7//"Special World - Super Mario World (SNES)",
+      "Ground - Super Mario World (SNES)",
+      "Athletic - Super Mario World (SNES)",
+      "Castle - Super Mario World (SNES)",
+      //7//"Boss Battle - Super Mario World (SNES)",
+      //6//"Underground - Super Mario World (SNES)",
+      "Underwater - Super Mario World (SNES)",
+      "Ghost House - Super Mario World (SNES)",
+      //7//"Bonus - Super Mario World (SNES)",
+      //"The Evil King Bowser (Final Battle) - Super Mario World (SNES)",
+      "Staff Roll - Super Mario World (SNES)",
       
       .9. Yoshi (1991, NES)
       
@@ -147,6 +147,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "File Select - Super Mario Land 2: 6 Golden Coins",
       "Athletic - Super Mario Land 2: 6 Golden Coins",
       "Roots Course (Tree Zone) - Super Mario Land 2: 6 Golden Coins",
+      //F//"Whale Course (Turtle Zone) - Super Mario Land 2: 6 Golden Coins",
       "Manhole Course (Macro Zone) - Super Mario Land 2: 6 Golden Coins",
       "Crane Course (Mario Zone) - Super Mario Land 2: 6 Golden Coins",
       "Moon Course (Space Zone) - Super Mario Land 2: 6 Golden Coins",
@@ -168,7 +169,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //9//"Action Type B - Yoshi's Cookie (SNES)",
       //"Versus Type B - Yoshi's Cookie (SNES)",
       
-      Super Mario Bros. (1993, Film/TV)
+      Super Mario Bros. (1993, Film / TV)
       
       //"Main Title - Super Mario Bros. (1993)",
       //"Drive To Work On Instinct - Super Mario Bros. (1993)",
@@ -209,6 +210,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       //7//"Title Screen - Mario & Wario",
       //"Woods - Mario & Wario",
+      //F//"Sky - Mario & Wario",
       //"Desert - Mario & Wario",
       
       .. Wario Land: Super Mario Land 3 (1994, Game Boy)
@@ -230,15 +232,18 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"Forest - Donkey Kong '94",
       //"Ship - Donkey Kong '94",
       //C//"Showdown At The Tower - Donkey Kong '94",
+      //F//"Staff Roll (Super Game Boy) - Donkey Kong '94",
       
       .. Donkey Kong Country (1994, SNES)
       
       //"Title Screen - Donkey Kong Country (SNES)",
       //"Simian Segue (World Map) - Donkey Kong Country (SNES)",
       //"DK Island Swing - Donkey Kong Country (SNES)",
+      //F//"Cave Dweller Concert - Donkey Kong Country (SNES)",
       //"Aquatic Ambiance - Donkey Kong Country (SNES)",
       //6//"Cranky's Theme - Donkey Kong Country (SNES)",
       //7//"Mine Cart Madness - Donkey Kong Country (SNES)",
+      //F//"Voices Of The Temple - Donkey Kong Country (SNES)",
       //"Life In The Mines - Donkey Kong Country (SNES)",
       //"Forest Frenzy - Donkey Kong Country (SNES)",
       //D//"Treetop Rock - Donkey Kong Country (SNES)",
@@ -248,6 +253,10 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"Fear Factory - Donkey Kong Country (SNES)",
       //"Gang Plank Galleon - Donkey Kong Country (SNES)",
       //"The Credits Concerto - Donkey Kong Country (SNES)",
+      
+      .F. Wario's Woods (1994, SNES)
+      
+      //F//"Round Game - Wario's Woods (SNES)",
       
       .D. Tetris & Dr. Mario (1994, SNES)
       
@@ -268,7 +277,9 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       .D. Mario's Tennis (1995, Virtual Boy)
       
+      //F//"Warning Screen - Mario's Tennis (Virtual Boy)",
       //D//"Singles Match 1 - Mario's Tennis (Virtual Boy)",
+      //F//"Tournament Doubles 1 - Mario's Tennis (Virtual Boy)",
       //D//"Results - Mario's Tennis (Virtual Boy)",
       
       .. Super Mario World 2: Yoshi's Island (1995, SNES)
@@ -279,11 +290,13 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //D//"Score - Super Mario World 2: Yoshi's Island",
       //"Underground - Super Mario World 2: Yoshi's Island",
       //"Castles & Forts - Super Mario World 2: Yoshi's Island",
+      //F//"Kamek's Theme - Super Mario World 2: Yoshi's Island",
       //D//"Stage Boss - Super Mario World 2: Yoshi's Island",
       //"Athletic - Super Mario World 2: Yoshi's Island",
       //"Ground - Super Mario World 2: Yoshi's Island",
       //D//"Big Boss - Super Mario World 2: Yoshi's Island",
       //"World Map - Super Mario World 2: Yoshi's Island",
+      //F//"Bonus Challenge - Super Mario World 2: Yoshi's Island",
       //D//"Powerful Mario - Super Mario World 2: Yoshi's Island",
       //"Baby Bowser Battle - Super Mario World 2: Yoshi's Island",
       //D//"Ending - Super Mario World 2: Yoshi's Island",
@@ -300,12 +313,16 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       "Title Screen - Mario Clash",
       //D//"Pipes (Level 1) - Mario Clash",
+      //F//"Catch The Coins! (Bonus Chance) - Mario Clash",
+      //F//"Ice (Level 8) - Mario Clash",
       //D//"Ghost (Level 13) - Mario Clash",
       
       .. Virtual Boy Wario Land (1995, Virtual Boy)
       
       //"Level Theme 1 - Virtual Boy Wario Land",
       //"Level Theme 3 (Underwater) - Virtual Boy Wario Land",
+      //F//"Level Theme 4 - Virtual Boy Wario Land",
+      //F//"Staff Roll - Virtual Boy Wario Land",
       
       .. Donkey Kong Country 2: Diddy's Kong Quest (1995, SNES)
       
@@ -317,6 +334,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"Kannon's Klanking (Mining Melancholy) - Donkey Kong Country 2: Diddy's Kong Quest",
       //"Bayou Boogie - Donkey Kong Country 2: Diddy's Kong Quest",
       //"Stickerbush Symphony - Donkey Kong Country 2: Diddy's Kong Quest",
+      //F//"Disco Train - Donkey Kong Country 2: Diddy's Kong Quest",
       //6//"Haunted Chase - Donkey Kong Country 2: Diddy's Kong Quest",
       //"Forest Interlude - Donkey Kong Country 2: Diddy's Kong Quest",
       //6//"Token Tango - Donkey Kong Country 2: Diddy's Kong Quest",
@@ -352,9 +370,11 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //6//"The Bell Rings Out At Marrymore - Super Mario RPG: Legend Of The Seven Stars",
       "Shopping At Seaside Town - Super Mario RPG: Legend Of The Seven Stars",
       //6//"Battling Culex - Super Mario RPG: Legend Of The Seven Stars",
+      //F//"Victory Over Culex - Super Mario RPG: Legend Of The Seven Stars",
       "Let's Get Fluffy! (Nimbus Land) - Super Mario RPG: Legend Of The Seven Stars",
       //6//"Barrel Volcano - Super Mario RPG: Legend Of The Seven Stars",
       //6//"The Factory (Weapon World) - Super Mario RPG: Legend Of The Seven Stars",
+      //F//"Battling Smithy's Many Forms - Super Mario RPG: Legend Of The Seven Stars",
       //"Farewell, Geno - Super Mario RPG: Legend Of The Seven Stars",
       "The Wishes From The Stars - Super Mario RPG: Legend Of The Seven Stars",
       //"Fun Parade, Cheerful Parade (Staff Roll) - Super Mario RPG: Legend Of The Seven Stars",
@@ -365,18 +385,18 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "File Select - Super Mario 64",
       //9//"Opening - Super Mario 64",
       "Inside The Castle Walls (Peach's Castle) - Super Mario 64",
-      "Main Theme (Bob Omb Battlefield/Whomp's Fortress) - Super Mario 64",
+      "Main Theme (Bob Omb Battlefield / Whomp's Fortress) - Super Mario 64",
       //9//"Stage Boss - Super Mario 64",
       "Piranha Plant's Lullaby - Super Mario 64",
-      "Slider (Tick Tock Clock/Rainbow Ride) - Super Mario 64",
-      "Cool, Cool Mountain/Snowman's Land - Super Mario 64",
-      "Dire Dire Docks/Jolly Roger Bay - Super Mario 64",
+      "Slider (Tick Tock Clock / Rainbow Ride) - Super Mario 64",
+      "Cool, Cool Mountain / Snowman's Land - Super Mario 64",
+      "Dire Dire Docks / Jolly Roger Bay - Super Mario 64",
       //9//"Powerful Mario - Super Mario 64",
       "Big Boo's Haunt - Super Mario 64",
       //9//"Merry Go Round - Super Mario 64",
-      "Hazy Maze Cave/Wet Dry World - Super Mario 64",
+      "Hazy Maze Cave / Wet Dry World - Super Mario 64",
       //9//"Metal Mario - Super Mario 64",
-      "Lethal Lava Land/Shifting Sand Land - Super Mario 64",
+      "Lethal Lava Land / Shifting Sand Land - Super Mario 64",
       "Bowser's Road - Super Mario 64",
       "Bowser's Theme - Super Mario 64",
       //9//"The Endless Stairs - Super Mario 64",
@@ -386,15 +406,21 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       .. Tetris Attack (1996, SNES)
       
-      //"Title Screen - Tetris Attack",
-      //D//"Tutorial (Lip's Theme) - Tetris Attack",
-      //"Yoshi's Stage - Tetris Attack",
-      //6//"Breeze Stage (Lakitu) - Tetris Attack",
-      //D//"Glacial Stage (Bumpty) - Tetris Attack",
-      //"Forest Stage (Poochy) - Tetris Attack",
-      //"VS Mode Staff Roll - Tetris Attack",
+      //"Title Screen - Tetris Attack (SNES)",
+      //D//"Tutorial (Lip's Theme) - Tetris Attack (SNES)",
+      //"Yoshi's Stage - Tetris Attack (SNES)",
+      //6//"Breeze Stage (Lakitu) - Tetris Attack (SNES)",
+      //D//"Glacial Stage (Bumpty) - Tetris Attack (SNES)",
+      //"Forest Stage (Poochy) - Tetris Attack (SNES)",
+      //F//"Water Stage (Froggy) - Tetris Attack (SNES)",
+      //"VS Mode Staff Roll - Tetris Attack (SNES)",
       
-      .D. Donkey Kong Country (Animated Series) (1996, Film/TV)
+      .F. Tetris Attack (1996, GB)
+      
+      //F//"Mode Select - Tetris Attack (GB)",
+      //F//"Staff Roll - Tetris Attack (GB)",
+      
+      .D. Donkey Kong Country (Animated Series) (1996, Film / TV)
       
       //D//"I'm Nobody's Hero - Donkey Kong Country (Animated Series)",
       //D//"Let Me Go Back To My Home - Donkey Kong Country (Animated Series)",
@@ -425,12 +451,12 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       "Title Screen - Mario Kart 64",
       //D//"Selection Screens - Mario Kart 64",
-      "Luigi/Mario/Royal Raceway/Wario Stadium - Mario Kart 64",
-      "Moo Moo Farm/Yoshi Valley - Mario Kart 64",
+      "Luigi / Mario / Royal Raceway / Wario Stadium - Mario Kart 64",
+      "Moo Moo Farm / Yoshi Valley - Mario Kart 64",
       "Koopa Troopa Beach - Mario Kart 64",
       "Kalimari Desert - Mario Kart 64",
       //"Toad's Turnpike - Mario Kart 64",
-      "Frappe Snowland/Sherbet Land - Mario Kart 64",
+      "Frappe Snowland / Sherbet Land - Mario Kart 64",
       "Choco Mountain - Mario Kart 64",
       "Bowser's Castle - Mario Kart 64",
       //9//"DK's Jungle Parkway - Mario Kart 64",
@@ -495,6 +521,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       .. Wario Land II (1998, GBC)
       
+      //F//"Down In The Cellar - Wario Land II",
       //"Escape From The Woods - Wario Land II",
       //"Underwater Tunnels - Wario Land II",
       //"Stop That Train! - Wario Land II",
@@ -545,6 +572,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"Mini Golf - Mario Golf (N64)",
       //"Toad Highlands - Mario Golf (N64)",
       //6//"Koopa Park - Mario Golf (N64)",
+      //F//"Shy Guy Desert - Mario Golf (N64)",
       //6//"Boo Valley - Mario Golf (N64)",
       
       Game & Watch Gallery 3 (1999, GBC)
@@ -568,8 +596,11 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"Jungle Japes - Donkey Kong 64",
       //D//"Angry Aztec - Donkey Kong 64",
       //"Frantic Factory - Donkey Kong 64",
+      //F//"Gloomy Galleon - Donkey Kong 64",
+      //F//"Fungi Forest Day - Donkey Kong 64",
+      //F//"Crystal Caves - Donkey Kong 64",
       //"K. Rool Duel - Donkey Kong 64",
-
+      
       .E. Mario Artist: Paint Studio (1999, N64)
 
       //E//"Drawing Board 1 (Jellyfish) - Mario Artist: Paint Studio",
@@ -617,6 +648,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //6//"Game Point ~ Break Point - Mario Tennis (N64)",
       //6//"Mario Brothers Court - Mario Tennis (N64)",
       //7//"Wario & Waluigi Court - Mario Tennis (N64)",
+      //F//"Staff Roll - Mario Tennis (N64)",
       
       Paper Mario (2000, N64)
       
@@ -629,8 +661,10 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Battle - Paper Mario (N64)",
       "Fuzzies Stole My Shell - Paper Mario (N64)",
       "Koopa Village - Paper Mario (N64)",
+      //F//"Attack Of The Koopa Bros. - Paper Mario (N64)",
       //"Mt. Rugged - Paper Mario (N64)",
       "Dry Dry Desert Trek - Paper Mario (N64)",
+      //F//"Gusty Gulch Adventure - Paper Mario (N64)",
       "Ghost Gulping - Paper Mario (N64)",
       "Shy Guy's Toy Box - Paper Mario (N64)",
       "Princess In Distress - Paper Mario (N64)",
@@ -645,6 +679,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //E//"Freeze! - Paper Mario (N64)",
       "Shooting Star Summit - Paper Mario (N64)",
       "Cloudy Climb - Paper Mario (N64)",
+      //F//"Bowser's Rage - Paper Mario (N64)",
       //"Wish Of The Princess - Paper Mario (N64)",
       //E//"King Of The Koopas - Paper Mario (N64)",
       //D//"Victory Parade (Staff Roll) - Paper Mario (N64)",
@@ -701,7 +736,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       "Title Screen - Mario Kart: Super Circuit",
       "Main Menu - Mario Kart: Super Circuit",
-      "Peach/Mario/Luigi Circuit - Mario Kart: Super Circuit",
+      "Peach / Mario / Luigi Circuit - Mario Kart: Super Circuit",
       //9//"Shy Guy Beach/Cheep Cheep Island - Mario Kart: Super Circuit",
       //9//"Riverside Park - Mario Kart: Super Circuit",
       //"Bowser Castle - Mario Kart: Super Circuit",
@@ -765,6 +800,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Bianco Hills - Super Mario Sunshine",
       "Ricco Harbor - Super Mario Sunshine",
       "Gelato Beach - Super Mario Sunshine",
+      //F//"Pinna Beach - Super Mario Sunshine",
       "Pinna Park - Super Mario Sunshine",
       "Sirena Beach - Super Mario Sunshine",
       //D//"Hotel Delfino - Super Mario Sunshine",
@@ -776,6 +812,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"Corona Mountain - Super Mario Sunshine",
       "Secret Course (Super Mario Bros. Theme) - Super Mario Sunshine",
       "Secret Course ~ Sky And Sea - Super Mario Sunshine",
+      //F//"Proto Piranha - Super Mario Sunshine",
       //D//"Mid Boss - Super Mario Sunshine",
       //D//"Boss Battle - Super Mario Sunshine",
       //"Staff Roll - Super Mario Sunshine",
@@ -847,6 +884,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       .C. Mario Golf: Toadstool Tour (2003, GameCube)
       
       //C//"Main Menu - Mario Golf: Toadstool Tour",
+      //F//"Training - Mario Golf: Toadstool Tour",
       //C//"Lakitu Valley - Mario Golf: Toadstool Tour",
       //C//"Shifting Sands - Mario Golf: Toadstool Tour",
       //C//"Blooper Bay - Mario Golf: Toadstool Tour",
@@ -859,18 +897,19 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       "Title Screen - Mario Kart: Double Dash!!",
       "Main Menu - Mario Kart: Double Dash!!",
-      "Luigi/Mario/Yoshi Circuit - Mario Kart: Double Dash!!",
-      "Peach Beach/Daisy Cruiser - Mario Kart: Double Dash!!",
+      "Luigi / Mario / Yoshi Circuit - Mario Kart: Double Dash!!",
+      "Peach Beach / Daisy Cruiser - Mario Kart: Double Dash!!",
       "Baby Park - Mario Kart: Double Dash!!",
       //"Dry Dry Desert - Mario Kart: Double Dash!!",
-      "Mushroom Bridge/Mushroom City - Mario Kart: Double Dash!!",
-      "Waluigi Stadium/Wario Colosseum - Mario Kart: Double Dash!!",
+      "Mushroom Bridge / Mushroom City - Mario Kart: Double Dash!!",
+      "Waluigi Stadium / Wario Colosseum - Mario Kart: Double Dash!!",
       "Sherbet Land - Mario Kart: Double Dash!!",
-      "DK Mountain/Dino Dino Jungle - Mario Kart: Double Dash!!",
+      "DK Mountain / Dino Dino Jungle - Mario Kart: Double Dash!!",
       "Bowser's Castle - Mario Kart: Double Dash!!",
       "Rainbow Road - Mario Kart: Double Dash!!",
       //"Balloon Battle - Mario Kart: Double Dash!!",
       //D//"Winning Results - Mario Kart: Double Dash!!",
+      //F//"Battle / Time Trial Results - Mario Kart: Double Dash!!",
       "Staff Roll - Mario Kart: Double Dash!!",
       
       Mario Party 5 (2003, GameCube)
@@ -880,6 +919,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Pirate Dream - Mario Party 5",
       "Undersea Dream - Mario Party 5",
       //C//"Bowser Nightmare - Mario Party 5",
+      //F//"In Great Fear (Big Top Drop, Squared Away, etc) - Mario Party 5",
       "Everybody Party (Dinger Derby, Coney Island, etc) - Mario Party 5",
       "Bustling Noisily (Hotel Goomba, Pushy Penguins, etc) - Mario Party 5",
       
@@ -957,7 +997,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Riverside Station Platform - Paper Mario: The Thousand-Year Door (GameCube)",
       "Poshley Heights - Paper Mario: The Thousand-Year Door (GameCube)",
       //C//"Super Bowser Bros. ~ Castle - Paper Mario: The Thousand-Year Door (GameCube)",
-      "X-Naut Fortress - Paper Mario: The Thousand-Year Door (GameCube)",
+      "X Naut Fortress - Paper Mario: The Thousand-Year Door (GameCube)",
       "Battle ~ Shadow Queen - Paper Mario: The Thousand-Year Door (GameCube)",
       "Supportive Voices From Afar - Paper Mario: The Thousand-Year Door (GameCube)",
       "Final Battle ~ Shadow Queen - Paper Mario: The Thousand-Year Door (GameCube)",
@@ -1026,9 +1066,11 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"Title Screen - Donkey Kong Jungle Beat",
       //"Sky Garden - Donkey Kong Jungle Beat",
       //D//"Ice Warren - Donkey Kong Jungle Beat",
+      //F//"Cactus Mine - Donkey Kong Jungle Beat",
       //6//"Battle For Storm Hill - Donkey Kong Jungle Beat",
       //D//"Clock Tower - Donkey Kong Jungle Beat",
       //"Boss Hog - Donkey Kong Jungle Beat",
+      //F//"Staff Roll - Donkey Kong Jungle Beat",
       
       .7. Mario Party Advance (2005, GBA)
       
@@ -1077,7 +1119,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       "Main Menu - Mario Kart Arcade GP",
       "Mario Cup - Mario Kart Arcade GP",
-      "Pac-Man Cup - Mario Kart Arcade GP",
+      "Pac Man Cup - Mario Kart Arcade GP",
       
       Super Princess Peach (2005, DS)
       
@@ -1105,9 +1147,11 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       .. Donkey Kong Country 3 (2005, GBA)
       
+      //F//"Stilt Village - Donkey Kong Country 3 (GBA)",
       //"Frosty Frolics - Donkey Kong Country 3 (GBA)",
       //"Treetop Tumble - Donkey Kong Country 3 (GBA)",
       //"Water World - Donkey Kong Country 3 (GBA)",
+      //F//"Cascade Capers - Donkey Kong Country 3 (GBA)",
       //"Rockface Rumble - Donkey Kong Country 3 (GBA)",
       
       Mario Party 7 (2005, GameCube)
@@ -1126,13 +1170,13 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Title Screen - Mario Kart DS",
       "Main Menu - Mario Kart DS",
       "Options - Mario Kart DS",
-      "Figure 8 Circuit/Mario Circuit - Mario Kart DS",
+      "Figure 8 Circuit / Mario Circuit - Mario Kart DS",
       //"Yoshi Falls - Mario Kart DS",
       //9//"Cheep Cheep Beach - Mario Kart DS",
       "Luigi's Mansion - Mario Kart DS",
       "Desert Hills - Mario Kart DS",
       "Delfino Square - Mario Kart DS",
-      "Waluigi Pinball/Wario Stadium - Mario Kart DS",
+      "Waluigi Pinball / Wario Stadium - Mario Kart DS",
       "Shroom Ridge - Mario Kart DS",
       "DK Pass - Mario Kart DS",
       "Tick Tock Clock - Mario Kart DS",
@@ -1269,7 +1313,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"The Evil Count Bleck - Super Paper Mario",
       "Flipside - Super Paper Mario",
       "Lineland Road - Super Paper Mario",
-      //"An Unrivaled Battle (8-Bit Mega Star Power) - Super Paper Mario",
+      //"An Unrivaled Battle (8 Bit Mega Star Power) - Super Paper Mario",
       "Mount Lineland - Super Paper Mario",
       "Yold Ruins - Super Paper Mario",
       "Gloam Valley - Super Paper Mario",
@@ -1348,10 +1392,10 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "The Star Festival (Grand Finale Galaxy) - Super Mario Galaxy",
       //D//"Enter The Galaxy (Gateway Galaxy) - Super Mario Galaxy",
       "Egg Planet (Good Egg Galaxy) - Super Mario Galaxy",
-      "Honeyhive Galaxy/Gold Leaf Galaxy - Super Mario Galaxy",
+      "Honeyhive Galaxy / Gold Leaf Galaxy - Super Mario Galaxy",
       "Space Junk Road - Super Mario Galaxy",
-      "Battlerock Galaxy/Dreadnought Galaxy - Super Mario Galaxy",
-      "Beach Bowl Galaxy/Sea Slide Galaxy - Super Mario Galaxy",
+      "Battlerock Galaxy / Dreadnought Galaxy - Super Mario Galaxy",
+      "Beach Bowl Galaxy / Sea Slide Galaxy - Super Mario Galaxy",
       //D//"Enter Bowser Jr.! - Super Mario Galaxy",
       "Waltz Of The Boos (Ghostly Galaxy) - Super Mario Galaxy",
       "Buoy Base Galaxy - Super Mario Galaxy",
@@ -1384,8 +1428,8 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Ice Mountain (Freezeflame Galaxy) - Super Mario Galaxy",
       "Lava Path (Freezeflame Galaxy) - Super Mario Galaxy",
       "Dusty Dune Galaxy - Super Mario Galaxy",
-      "Heavy Metal Mecha-Bowser - Super Mario Galaxy",
-      "Deep Dark Galaxy/Bigmouth Galaxy - Super Mario Galaxy",
+      "Heavy Metal Mecha Bowser - Super Mario Galaxy",
+      "Deep Dark Galaxy / Bigmouth Galaxy - Super Mario Galaxy",
       "Sad Girl - Super Mario Galaxy",
       "Family - Super Mario Galaxy",
       
@@ -1414,7 +1458,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Mushroomy Kingdom (Underground) - Super Smash Bros. Brawl",
       "Underground Theme (Super Mario Land) - Super Smash Bros. Brawl",
       "Airship Theme (Super Mario Bros. 3) - Super Smash Bros. Brawl",
-      "Title/Ending (Super Mario World) - Super Smash Bros. Brawl",
+      "Title / Ending (Super Mario World) - Super Smash Bros. Brawl",
       //D//"Castle/Fortress Boss (Super Mario World/Super Mario Bros. 3) - Super Smash Bros. Brawl",
       "Main Theme (New Super Mario Bros.) - Super Smash Bros. Brawl",
       "Gritzy Desert (Mario & Luigi: Partners In Time) - Super Smash Bros. Brawl",
@@ -1444,7 +1488,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //D//"Opening - Mario Kart Wii",
       "Title Screen - Mario Kart Wii",
       "Main Menu - Mario Kart Wii",
-      "Luigi Circuit/Mario Circuit - Mario Kart Wii",
+      "Luigi Circuit / Mario Circuit - Mario Kart Wii",
       "Moo Moo Meadows - Mario Kart Wii",
       "Mushroom Gorge - Mario Kart Wii",
       "Toad's Factory - Mario Kart Wii",
@@ -1611,11 +1655,11 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Yoshi Star Galaxy - Super Mario Galaxy 2",
       "Worlds 1 & 2 - Super Mario Galaxy 2",
       "The Starship's Journey - Super Mario Galaxy 2",
-      "Spin-Dig Galaxy/Boulder Bowl Galaxy - Super Mario Galaxy 2",
+      "Spin Dig Galaxy / Boulder Bowl Galaxy - Super Mario Galaxy 2",
       //"Digga Leg - Super Mario Galaxy 2",
-      "Fluffy Bluff Galaxy/Cloudy Court Galaxy - Super Mario Galaxy 2",
-      "Flip Swap Galaxy/Flip Out Galaxy - Super Mario Galaxy 2",
-      "Rightside Down Galaxy/Upside Dizzy Galaxy - Super Mario Galaxy 2",
+      "Fluffy Bluff Galaxy / Cloudy Court Galaxy - Super Mario Galaxy 2",
+      "Flip Swap Galaxy / Flip Out Galaxy - Super Mario Galaxy 2",
+      "Rightside Down Galaxy / Upside Dizzy Galaxy - Super Mario Galaxy 2",
       "Tip Network - Super Mario Galaxy 2",
       "Puzzle Plank Galaxy - Super Mario Galaxy 2",
       "Wild Glide Galaxy - Super Mario Galaxy 2",
@@ -1625,18 +1669,18 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "World 3 - Super Mario Galaxy 2",
       //6//"Forest Friends (Tall Trunk Galaxy) - Super Mario Galaxy 2",
       //6//"Tall Trunk Galaxy: Slider (Super Mario 64) - Super Mario Galaxy 2",
-      "Haunty Halls Galaxy/Boo Moon Galaxy (Super Mario World ~ Ghost House) - Super Mario Galaxy 2",
+      "Haunty Halls Galaxy / Boo Moon Galaxy (Super Mario World ~ Ghost House) - Super Mario Galaxy 2",
       "Freezy Flake Galaxy - Super Mario Galaxy 2",
       //6//"Pipe Room - Super Mario Galaxy 2",
       //6//"Megahammer - Super Mario Galaxy 2",
       //6//"World 4 - Super Mario Galaxy 2",
-      "Flipsville Galaxy/Chompworks Galaxy - Super Mario Galaxy 2",
+      "Flipsville Galaxy / Chompworks Galaxy - Super Mario Galaxy 2",
       //D//"Glamdozer - Super Mario Galaxy 2",
       //9//"Beat Block Galaxy/Flash Black Galaxy - Super Mario Galaxy 2",
       "Starshine Beach Galaxy - Super Mario Galaxy 2",
       //6//"World 5 - Super Mario Galaxy 2",
-      "Space Storm Galaxy/Battle Belt Galaxy - Super Mario Galaxy 2",
-      "Slipsand Galaxy/Clockwork Ruins Galaxy - Super Mario Galaxy 2",
+      "Space Storm Galaxy / Battle Belt Galaxy - Super Mario Galaxy 2",
+      "Slipsand Galaxy / Clockwork Ruins Galaxy - Super Mario Galaxy 2",
       //9//"Squizzard - Super Mario Galaxy 2",
       "Bowser Jr's Fiery Flotilla - Super Mario Galaxy 2",
       "Starship Mario - Super Mario Galaxy 2",
@@ -1695,7 +1739,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Ground - Super Mario 3D Land",
       //9//"Koopa's Lava Castle (Worlds 1 & 5) - Super Mario 3D Land",
       //9//"World 2 - Super Mario 3D Land",
-      //6//"Rainbow Park - Super Mario 3D Land",
+      //6//"Rainbow Run - Super Mario 3D Land",
       //6//"World 3 - Super Mario 3D Land",
       "Desert Ruins - Super Mario 3D Land",
       "Beach - Super Mario 3D Land",
@@ -1730,6 +1774,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       ..Fortune Street (2011, Wii)
       
       //"Chance Card (Yoshi's Island ~ Athletic) - Fortune Street",
+      //F//"Starship Mario - Fortune Street",
       //"Peach's Castle (Super Mario RPG) - Fortune Street",
       //6//"Super Mario Bros. Theme - Fortune Street",
       //"Bowser's Castle (New Super Mario Bros.) - Fortune Street",
@@ -1739,16 +1784,16 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       "Title Screen - Mario Kart 7",
       //D//"Main Menu - Mario Kart 7",
-      "Toad Circuit/Mario Circuit - Mario Kart 7",
+      "Toad Circuit / Mario Circuit - Mario Kart 7",
       "Daisy Hills - Mario Kart 7",
       //"Cheep Cheep Lagoon/Cheep Cheep Cape - Mario Kart 7",
       "Shy Guy Bazaar - Mario Kart 7",
-      "Wuhu Loop/Maka Wuhu - Mario Kart 7",
+      "Wuhu Loop / Maka Wuhu - Mario Kart 7",
       //"Music Park/Melody Motorway - Mario Kart 7",
-      "Rock Rock Mountain/Alpine Pass - Mario Kart 7",
-      "Piranha Plant Slide/Piranha Plant Pipeway - Mario Kart 7",
+      "Rock Rock Mountain / Alpine Pass - Mario Kart 7",
+      "Piranha Plant Slide / Piranha Plant Pipeway - Mario Kart 7",
       //9//"Wario's Shipyard/Wario's Galleon - Mario Kart 7",
-      "Neo Bowser City/Koopa City - Mario Kart 7",
+      "Neo Bowser City / Koopa City - Mario Kart 7",
       //"DK Jungle - Mario Kart 7",
       "Rosalina's Ice World - Mario Kart 7",
       "Bowser's Castle - Mario Kart 7",
@@ -1823,16 +1868,17 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Superstar Road (World 9) - New Super Mario Bros. U",
       "Staff Roll - New Super Mario Bros. U",
       
-      Luigi's Mansion: Dark Moon (2013, 3DS)
+      Luigi's Mansion 2 (2013, 3DS)
       
-      //C//"Title Screen - Luigi's Mansion: Dark Moon",
-      "Gloomy Manor - Luigi's Mansion: Dark Moon",
-      "Evershade Valley - Luigi's Mansion: Dark Moon",
-      //6//"Haunted Towers - Luigi's Mansion: Dark Moon",
-      //C//"Old Clockworks - Luigi's Mansion: Dark Moon",
-      "Duel Scream Ringtone - Luigi's Mansion: Dark Moon",
-      "ScareScraper - Luigi's Mansion: Dark Moon",
-      //6//"Staff Roll - Luigi's Mansion: Dark Moon",
+      //C//"Title Screen - Luigi's Mansion 2",
+      "Gloomy Manor - Luigi's Mansion 2",
+      //F//"Catching Ghosts - Luigi's Mansion 2",
+      "Evershade Valley - Luigi's Mansion 2",
+      //6//"Haunted Towers - Luigi's Mansion 2",
+      //C//"Old Clockworks - Luigi's Mansion 2",
+      "Duel Scream Ringtone - Luigi's Mansion 2",
+      "ScareScraper - Luigi's Mansion 2",
+      //6//"Staff Roll - Luigi's Mansion 2",
       
       .D. Game & Wario (2013, Wii U)
       
@@ -1841,6 +1887,11 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //D//"Ashley (Stage 1) - Game & Wario",
       //D//"Sketch - Game & Wario",
       //D//"Fruit - Game & Wario",
+      
+      .F. Mario And Donkey Kong: Minis On The Move
+      
+      //F//"Mario's Main Event Theme 4 - Mario And Donkey Kong: Minis On The Move",
+      //F//"Create & Share - Mario And Donkey Kong: Minis On The Move",
       
       Mario & Luigi: Dream Team (2013, 3DS)
       
@@ -1915,10 +1966,10 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Shifty Boo Mansion - Super Mario 3D World",
       "Captain Toad Goes Forth - Super Mario 3D World",
       "World 3 (Snow) - Super Mario 3D World",
-      "Chain Link Charge (Athletic) - Super Mario 3D World",
+      "Chainlink Charge (Athletic) - Super Mario 3D World",
       "Hisstocrat - Super Mario 3D World",
       //6//"World 4 (Canyon) - Super Mario 3D World",
-      "Sprawling Savannah - Super Mario 3D World",
+      "Sprawling Savanna - Super Mario 3D World",
       //"Beep Block Skyway - Super Mario 3D World",
       //6//"Fuzzy Time Mine - Super Mario 3D World",
       "Sprixie Princess Theme (Stamp House) - Super Mario 3D World",
@@ -1926,7 +1977,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"Bowser's Highway Showdown - Super Mario 3D World",
       "World 5 (Beach) - Super Mario 3D World",
       "Double Cherry Pass - Super Mario 3D World",
-      "Puffprod Peaks/Footlight Lane/Super Galaxy - Super Mario 3D World",
+      "Puffprod Peaks / Footlight Lane - Super Mario 3D World",
       "The Bullet Bill Express - Super Mario 3D World",
       "The Great Tower - Super Mario 3D World",
       //7//"The Great Tower Showdown - Super Mario 3D World",
@@ -1936,22 +1987,22 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"World 6 (Sky) - Super Mario 3D World",
       "Snowball Park - Super Mario 3D World",
       "Hands On Hall - Super Mario 3D World",
-      //7//"Captain Toad Plays Peek-A-Boo - Super Mario 3D World",
-      "Pipeline Lagoon/Sunshine Seaside (Above Water) - Super Mario 3D World",
+      //7//"Captain Toad Plays Peek A Boo - Super Mario 3D World",
+      "Pipeline Lagoon / Sunshine Seaside (Above Water) - Super Mario 3D World",
       //D//"Pipeline Lagoon/Sunshine Seaside (Underwater) - Super Mario 3D World",
       //"A Boss Approaches - Super Mario 3D World",
-      //6//"World Castle - Super Mario 3D World",
+      //6//"World Castle (7) - Super Mario 3D World",
       "Bowser's Bullet Bill Brigade - Super Mario 3D World",
       "Piranha Creeper Creek - Super Mario 3D World",
-      //6//"Roulette House - Super Mario 3D World",
+      //6//"Lucky House - Super Mario 3D World",
       "Simmering Lava Lake - Super Mario 3D World",
       //9//"Bowser's Lava Lake Keep - Super Mario 3D World",
-      "World Bowser - Super Mario 3D World",
-      "Splash River (Super Mario 64 ~ Slider) - Super Mario 3D World",
-      //7//"Motley Boss Blob - Super Mario 3D World",
+      "World Bowser (8) - Super Mario 3D World",
+      "Plessie's Plunging Falls (Super Mario 64 ~ Slider) - Super Mario 3D World",
+      //7//"Motley Bossblob - Super Mario 3D World",
       "World Star - Super Mario 3D World",
       "Super Block Land (Super Mario 3D Land ~ Ground) - Super Mario 3D World",
-      "World Mushroom/Flower - Super Mario 3D World",
+      "World Mushroom / World Flower - Super Mario 3D World",
       //7//"Captain Toad's Fiery Finale - Super Mario 3D World",
       "Champion's Road (Super Mario Galaxy ~ Gusty Garden Galaxy) - Super Mario 3D World",
       
@@ -1979,9 +2030,11 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"Grassland Groove - Donkey Kong Country: Tropical Freeze",
       //D//"Scorch 'N' Torch - Donkey Kong Country: Tropical Freeze",
       //"Twilight Terror (Stickerbush Symphony Returns) - Donkey Kong Country: Tropical Freeze",
-      //"Fruit Factory - Donkey Kong Country: Tropical Freeze",
+      //F//"Amiss Abyss - Donkey Kong Country: Tropical Freeze",
+      //"Fruity Factory - Donkey Kong Country: Tropical Freeze",
       //"Jelly Jamboree - Donkey Kong Country: Tropical Freeze",
       //D//"Frosty Fruits - Donkey Kong Country: Tropical Freeze",
+      //F//"Punch Bowl (World 5 Boss) - Donkey Kong Country: Tropical Freeze",
       //D//"Seashore War - Donkey Kong Country: Tropical Freeze",
       //"Staff Roll - Donkey Kong Country: Tropical Freeze",
       //D//"Secret Seclusion (Donkey Kong Jr. Theme) - Donkey Kong Country: Tropical Freeze",
@@ -1992,6 +2045,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"Main Theme - Yoshi's New Island",
       //D//"Underground - Yoshi's New Island",
       //9//"Bouncy Beanstalk Walk - Yoshi's New Island",
+      //F//"Ski Lift Leap - Yoshi's New Island",
       //D//"Bandit Valley - Yoshi's New Island",
       
       .. Mario Golf: World Tour (2014, 3DS)
@@ -1999,7 +2053,8 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"Forest Course - Mario Golf World Tour",
       //"Sky Island (Super Mario Bros. 3 ~ Athletic) - Mario Golf World Tour",
       //"Peach Gardens - Mario Golf World Tour",
-      //"Rock-Candy Mines - Mario Golf World Tour",
+      //F//"Wiggler Park (Super Mario Galaxy ~ The Honeyhive) - Mario Golf World Tour",
+      //"Rock Candy Mines - Mario Golf World Tour",
       
       Mario Kart 8 (2014, Wii U)
       
@@ -2032,7 +2087,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "3DS DK Jungle - Mario Kart 8",
       "DS Wario Stadium - Mario Kart 8",
       "GCN Sherbet Land - Mario Kart 8",
-      "3DS Music Park/3DS Melody Motorway - Mario Kart 8",
+      "3DS Music Park / 3DS Melody Motorway - Mario Kart 8",
       "N64 Yoshi Valley - Mario Kart 8",
       "DS Tick Tock Clock - Mario Kart 8",
       //D//"3DS Piranha Plant Slide/3DS Piranha Plant Pipeway - Mario Kart 8",
@@ -2060,23 +2115,23 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //9//"Selection Screen (Online) - Mario Kart 8",
       "Staff Roll - Mario Kart 8",
       
-      Super Smash Bros. For Nintendo 3DS/Wii U (2014, Wii U)
+      Super Smash Bros. For Nintendo 3DS / Wii U (2014, Wii U)
       
-      "Super Mario World Medley - Super Smash Bros. For 3DS/Wii U",
+      "Super Mario World Medley - Super Smash Bros. For 3DS / Wii U",
       //D//"Fortress Boss (Super Mario World) - Super Smash Bros. For 3DS/Wii U",
       //9//"Main Theme (Super Mario 64) - Super Smash Bros. For 3DS/Wii U",
-      "Rosalina In The Observatory / Luma (Super Mario Galaxy) - Super Smash Bros. For 3DS/Wii U",
-      "Egg Planet (Good Egg Galaxy ~ Super Mario Galaxy) - Super Smash Bros. For 3DS/Wii U",
+      "Rosalina In The Observatory / Luma (Super Mario Galaxy) - Super Smash Bros. For 3DS / Wii U",
+      "Egg Planet (Good Egg Galaxy ~ Super Mario Galaxy) - Super Smash Bros. For 3DS / Wii U",
       //9//"Ground Theme (Super Mario 3D Land) - Super Smash Bros. For 3DS/Wii U",
-      "Try, Try Again (Mario & Luigi: Dream Team) - Super Smash Bros. For 3DS/Wii U",
-      "Blue Skies, White Clouds (Paper Mario: Sticker Star) - Super Smash Bros. For 3DS/Wii U",
+      "Try, Try Again (Mario & Luigi: Dream Team) - Super Smash Bros. For 3DS / Wii U",
+      "Blue Skies, White Clouds (Paper Mario: Sticker Star) - Super Smash Bros. For 3DS / Wii U",
       //D//"Rogueport (Paper Mario: The Thousand Year Door) - Super Smash Bros. For 3DS/Wii U",
       //9//"Title Theme (Super Mario Maker) - Super Smash Bros. For 3DS/Wii U",
       //"Wrecking Crew Medley - Super Smash Bros. For 3DS/Wii U",
-      "Mario Paint Medley - Super Smash Bros. For 3DS/Wii U",
-      "Rainbow Road Medley - Super Smash Bros. For 3DS/Wii U",
+      "Mario Paint Medley - Super Smash Bros. For 3DS / Wii U",
+      "Rainbow Road Medley - Super Smash Bros. For 3DS / Wii U",
       //D//"Circuit (Mario Kart 7) - Super Smash Bros. For 3DS/Wii U",
-      "Luigi's Mansion Series Medley - Super Smash Bros. For 3DS/Wii U",
+      "Luigi's Mansion Series Medley - Super Smash Bros. For 3DS / Wii U",
       //"DK Island Swing (Donkey Kong Country) - Super Smash Bros. For 3DS/Wii U",
       //"Gear Getaway (Donkey Kong Country Returns) - Super Smash Bros. For 3DS/Wii U",
       //"Flower Field / Opening Melody (Yoshi's Island) - Super Smash Bros. For 3DS/Wii U",
@@ -2085,12 +2140,13 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       Captain Toad: Treasure Tracker (2014, Wii U)
       
       //6//"Title Screen - Captain Toad: Treasure Tracker",
-      !"Plucky Pass Beginnings - Captain Toad: Treasure Tracker",
-      !"Walleye Tumble Temple (Ruins) - Captain Toad: Treasure Tracker",
-      !//6//"Touchstone Trouble (Space) - Captain Toad: Treasure Tracker",
-      !//6//"Mine Cart Tunnel Throwdown (Underground) - Captain Toad: Treasure Tracker",
-      !//6//"Piranha Creeper Cove - Captain Toad: Treasure Tracker",
-      !"Bizarre Doors Of Boo Mansion - Captain Toad: Treasure Tracker",
+      "Plucky Pass Beginnings - Captain Toad: Treasure Tracker",
+      "Walleye Tumble Temple (Ruins) - Captain Toad: Treasure Tracker",
+      //6//"Touchstone Trouble (Space) - Captain Toad: Treasure Tracker",
+      //6//"Mine Cart Tunnel Throwdown (Underground) - Captain Toad: Treasure Tracker",
+      //6//"Piranha Creeper Cove - Captain Toad: Treasure Tracker",
+      "Bizarre Doors Of Boo Mansion - Captain Toad: Treasure Tracker",
+      //F//"Razzle Dazzle Slider - Captain Toad: Treasure Tracker",
       //D//"Trick Track Hall - Captain Toad: Treasure Tracker",
       
       .C. Mario vs. Donkey Kong: Tipping Stars (2015, Wii U)
@@ -2119,15 +2175,18 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //D//"Across The Fluttering Dunes - Yoshi's Woolly World",
       //"A Little Light Snowfall - Yoshi's Woolly World",
       //"Fluffin' Puffin' Babysitting - Yoshi's Woolly World",
-      //"Knitty-Knotty Windmill - Yoshi's Woolly World",
-      //"Lava Scarves & Red-Hot Blarggs - Yoshi's Woolly World",
+      //"Knitty Knotty Windmill - Yoshi's Woolly World",
+      //"Lava Scarves & Red Hot Blarggs - Yoshi's Woolly World",
       //6//"Spooky Scraps! Don't Get Spooked! - Yoshi's Woolly World",
       //D//"Fluffy Snow, Here We Go! - Yoshi's Woolly World",
       //D//"Frozen Solid And Chilled - Yoshi's Woolly World",
       //6//"Up Shuttlethread Pass - Yoshi's Woolly World",
+      //F//"Vamoose The Lava Sluice! - Yoshi's Woolly World",
       //"Yoshi & Cookies - Yoshi's Woolly World",
       //6//"Bounceabout Woods - Yoshi's Woolly World",
+      //F//"Fort Course - Yoshi's Woolly World",
       //6//"Special Course - Yoshi's Woolly World",
+      //F//"Vs. Mega Baby Bowser - Yoshi's Woolly World",
       //D//"Staff Roll - Yoshi's Woolly World",
       
       Super Mario Maker (2015, Wii U)
@@ -2145,6 +2204,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
 
       .E. Mario Tennis: Ultra Smash (2015, Wii U)
 
+      //F//"Stadium Theme - Mario Tennis: Ultra Smash",
       //E//"Match Point - Mario Tennis: Ultra Smash",
 
       Mario & Luigi: Paper Jam (2015, 3DS)
@@ -2154,7 +2214,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Springtime Breeze - Mario & Luigi: Paper Jam",
       //C//"Uh Oh, Sand Flow! (Doop Doop Dunes) - Mario & Luigi: Paper Jam",
       //"Epic Story (Twinsy Tropics) - Mario & Luigi: Paper Jam",
-      "Mixed-Up Scramble (Battle) - Mario & Luigi: Paper Jam",
+      "Mixed Up Scramble (Battle) - Mario & Luigi: Paper Jam",
       "Big Bang! (Boss Battle) - Mario & Luigi: Paper Jam",
       //C//"Attack And Run! (Papercraft Battle) - Mario & Luigi: Paper Jam",
       "Forest Fairy Melody (Gloomy Woods) - Mario & Luigi: Paper Jam",
@@ -2206,6 +2266,8 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Prisma Museum - Paper Mario: Color Splash",
       "SMB3 Battle - Paper Mario: Color Splash",
       "Rainbow Road - Paper Mario: Color Splash",
+      //F//"ROYal Rumble - Paper Mario: Color Splash",
+      //F//"Blackout (Final Battle) - Paper Mario: Color Splash",
       //D//"Staff Roll - Paper Mario: Color Splash",
       
       .C. Mario Party: Star Rush (2016, 3DS)
@@ -2215,7 +2277,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //C//"Balloon Bash - Mario Party: Star Rush",
       //C//"Boo's Block Party - Mario Party: Star Rush",
       
-      Super Mario Run (2016, iOS/Android)
+      Super Mario Run (2016, iOS / Android)
       
       "Ground - Super Mario Run",
       "Underground - Super Mario Run",
@@ -2241,6 +2303,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       Mario + Rabbids Kingdom Battle (2017, Switch)
       
       "Two Worlds Collide - Mario + Rabbids Kingdom Battle",
+      //F//"Peach's Castle - Mario + Rabbids Kingdom Battle",
       "Sunny Side Up - Mario + Rabbids Kingdom Battle",
       "Hoppers! - Mario + Rabbids Kingdom Battle",
       "Mid Boss Mayhem - Mario + Rabbids Kingdom Battle",
@@ -2250,6 +2313,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "A Stroll In The Cemetary - Mario + Rabbids Kingdom Battle",
       //6//"The Phantom Of The Bwahpera, Act 1 - Mario + Rabbids Kingdom Battle",
       //7//"The Phantom Of The Bwahpera, Act 3 - Mario + Rabbids Kingdom Battle",
+      //F//"Bowser Begins - Mario + Rabbids Kingdom Battle",
       
       Mario & Luigi: Superstar Saga + Bowser's Minions (2017, 3DS)
       
@@ -2315,6 +2379,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       //"Title Screen - Mario Tennis Aces",
       //"Stadium Theme - Mario Tennis Aces",
+      //F//"Bowcien Battle (Super Mario 64 ~ Bowser's Theme / Bowser's Road) - Mario Tennis Aces",
       
       .D. Mario + Rabbids Kingdom Battle: Donkey Kong Adventure (2018, Switch)
 
@@ -2327,7 +2392,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //6//"Main Menu - WarioWare Gold",
       //D//"Drifting Away (Mega Microgame$!) - WarioWare Gold",
       //6//"Body Rock (D.I.Y.) - WarioWare Gold",
-      //"Work Those Muscles! (5-Volt Stage) - WarioWare Gold",
+      //"Work Those Muscles! (5 Volt Stage) - WarioWare Gold",
       //D//"18 x 13 - WarioWare Gold",
       //"Wario Deluxe (Final Stage) - WarioWare Gold",
       
@@ -2335,7 +2400,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       "Main Theme - Super Mario Party",
       "Party Plaza - Super Mario Party",
-      "Megafruit Paradise/Watermelon Walkabout - Super Mario Party",
+      "Megafruit Paradise / Watermelon Walkabout - Super Mario Party",
       //C//"Kamek's Tantalizing Tower/Tantalizing Tower Toys - Super Mario Party",
       "Around And Around (Sizzling Stakes, Tow The Line, etc) - Super Mario Party",
       //C//"Pleasantly Happy (Can Take Pancake, Go With The Flow) - Super Mario Party",
@@ -2373,6 +2438,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       //"Main Theme - Yoshi's Crafted World",
       //D//"A Teeny, Tiny Universe (Space) - Yoshi's Crafted World",
+      //F//"Beyond The Wild - Yoshi's Crafted World",
       //D//"Round And Round (Hidden Hills) - Yoshi's Crafted World",
       
       Super Mario Maker 2 (2019, Switch)
@@ -2389,11 +2455,11 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //9//"Yamamura's Dojo - Super Mario Maker 2",
       //D//"Peach's Castle - Super Mario Maker 2",
       
-      .D. Dr. Mario World (2019, iOS/Android)
+      .D. Dr. Mario World (2019, iOS / Android)
       
       //D//"Fever - Dr. Mario World",
       
-      Mario Kart Tour (2019, iOS/Android)
+      Mario Kart Tour (2019, iOS / Android)
       
       //D//"Main Menu - Mario Kart Tour",
       //D//"New York Minute - Mario Kart Tour",
@@ -2431,9 +2497,11 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //C//"E. Gadd's Laboratory - Luigi's Mansion 3",
       "Twisted Suites - Luigi's Mansion 3",
       "Boilerworks - Luigi's Mansion 3",
+      //F//"Super Suction - Luigi's Mansion 3",
       //C//"Paranormal Productions - Luigi's Mansion 3",
       //C//"Tomb Suites - Luigi's Mansion 3",
       //C//"DJ Phantasmagloria Battle - Luigi's Mansion 3",
+      //F//"Helen Gravely Battle - Luigi's Mansion 3",
       //C//"Staff Roll - Luigi's Mansion 3",
       
       Mario & Sonic At The Olympic Games Tokyo 2020 (2019, Switch)
@@ -2491,21 +2559,23 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       Bowser's Fury (2021, Switch)
       
       //"Title Screen - Bowser's Fury",
-      "Choose Your Adventure - Bowser's Fury",
+      "Choose An Adventure - Bowser's Fury",
       "Lake Lapcat - Bowser's Fury",
       "Scamper Shores - Bowser's Fury",
-      "Attack! Fury Bowser - Bowser's Fury",
+      //F//"Attack! Fury Bowser - Bowser's Fury",
       "Pounce Bounce Isle - Bowser's Fury",
       "Crisp Climb Castle - Bowser's Fury",
       "Fort Flaptrap - Bowser's Fury",
-      //"Showdown With Fury Bowser - Bowser's Fury",
-      "Plessie Ride! - Bowser's Fury",
+      //"Showdown: Giga Cat Mario Vs. Fury Bowser! - Bowser's Fury",
+      "Riding Plessie - Bowser's Fury",
       "Mount Magmeow - Bowser's Fury",
-      "Final Showdown With Fury Bowser - Bowser's Fury",
+      "Fury Bowser's Rampage - Bowser's Fury",
+      "A Fierce Battle: Giga Cat Mario Vs. Fury Bowser! - Bowser's Fury",
       "Staff Roll - Bowser's Fury",
       
       .. Mario Golf: Super Rush (2021, Switch)
       
+      //F//"Main Theme - Mario Golf: Super Rush",
       //"Bonny Greens - Mario Golf: Super Rush",
       //"Ridgerock Lake - Mario Golf: Super Rush",
       //"Wildweather Woods (Speed Golf) - Mario Golf: Super Rush",
@@ -2578,13 +2648,15 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //"Icy Battle Ballet - Mario + Rabbids: Sparks Of Hope",
       //"Warmth Amongst The Snow - Mario + Rabbids: Sparks Of Hope",
       //"Uphill Battle - Mario + Rabbids: Sparks Of Hope",
+      //F//"Yearning To Bloom - Mario + Rabbids: Sparks Of Hope",
       //"Fight Songs From The Flower Planet - Mario + Rabbids: Sparks Of Hope",
+      //F//"Desolate Beauty - Mario + Rabbids: Sparks Of Hope",
       //"For The Galaxy! (Final Boss) - Mario + Rabbids: Sparks Of Hope",
       
       .. Mario Kart 8 Deluxe Booster Course Pass Waves 4-6 (2023, Switch)
       
       //"Tour Amsterdam Drift (Wave 4) - MX8DX Booster Course Pass Waves 4-6",
-      "Wii DK Summit/Wii DK's Snowboard Cross (Wave 4) - MK8DX Booster Course Pass Waves 4-6",
+      "Wii DK Summit / Wii DK's Snowboard Cross (Wave 4) - MK8DX Booster Course Pass Waves 4-6",
       "Yoshi's Island (Wave 4) - MK8DX Booster Course Pass Waves 4-6",
       //6//"Results (Yoshi's Island) (Wave 4) - MK8DX Booster Course Pass Waves 4-6",
       "DS Mario Circuit (Wave 4) - MK8DX Booster Course Pass Waves 4-6",
@@ -2605,7 +2677,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //7//"Wii Rainbow Road (Wave 6) - MK8DX Booster Course Pass Waves 4-6",
       //7//"Staff Roll (Booster Course Pass) - MK8DX Booster Course Pass Waves 4-6",
       
-      .. The Super Mario Bros. Movie (2023, Film/TV)
+      .. The Super Mario Bros. Movie (2023, Film / TV)
       
       //7//"Press Start - The Super Mario Bros. Movie",
       //"Strange New World - The Super Mario Bros. Movie",
@@ -2685,6 +2757,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       //8//"Let's Try! (File Select) - Super Mario RPG (Switch)",
       //8//"Super Mario House - Super Mario RPG (Switch)",
+      //F//"Where To? (World Map) - Super Mario RPG (Switch)",
       //8//"Danger Abounds On The Journey (Mushroom Way) - Super Mario RPG (Switch)",
       //8//"Battling Monsters (Enemy Battle) - Super Mario RPG (Switch)",
       //8//"Hello, Happy Kingdom (Mushroom Kingdom) - Super Mario RPG (Switch)",
@@ -2698,10 +2771,12 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //8//"Rose Town - Super Mario RPG (Switch)”,
       //8//"Welcome To Yo'ster Isle - Super Mario RPG (Switch)",
       //C//"Moleville Mountain Rail - Super Mario RPG (Switch)",
+      //F//"This Is Booster Tower - Super Mario RPG (Switch)",
       //8//"The Bell Rings Out At Marrymore - Super Mario RPG (Switch)",
       //8//"Shopping At Seaside Town - Super Mario RPG (Switch)",
       //C//"Battling Culex - Super Mario RPG (Switch)",
       //8//"Let's Get Fluffy! (Nimbus Land) - Super Mario RPG (Switch)",
+      //F//"Battling Smithy - Super Mario RPG (Switch)",
       //8//"Farewell Geno - Super Mario RPG (Switch)",
       
       .9. Mario vs. Donkey Kong (2024, Switch)
@@ -2755,9 +2830,9 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //B//"Excess Express (Day) - Paper Mario: The Thousand-Year Door (Switch)",
       //B//"Detective Pennington's On The Case - Paper Mario: The Thousand-Year Door (Switch)",
       //B//"Battle ~ Chapter 6 - Paper Mario: The Thousand-Year Door (Switch)",
-      //B//"X-Naut Fortress ~ First Floor - Paper Mario: The Thousand-Year Door (Switch)",
+      //B//"X Naut Fortress ~ First Floor - Paper Mario: The Thousand-Year Door (Switch)",
       //B//"Battle ~ Shadow Queen - Paper Mario: The Thousand-Year Door (Switch)",
-      //B//"Final Battle - Paper Mario: The Thousand-Year Door (Switch)",
+      //B//"Final Battle ~ Shadow Queen - Paper Mario: The Thousand-Year Door (Switch)",
       //B//"Staff Roll - Paper Mario: The Thousand-Year Door (Switch)",
 
       .C. Super Mario Party Jamboree (2024, Switch)
@@ -2774,6 +2849,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //C//"Rosalina's Radical Race - Super Mario Party Jamboree",
       //C//"Keep Your Cool (Hammer It Home, Prime Cut, etc) - Super Mario Party Jamboree",
       //C//"Match 'Em Up (Twist And Sort, Cage Catch, etc) - Super Mario Party Jamboree",
+      //F//"Congrats! Now Let's Play Some More! - Super Mario Party Jamboree",
 
       .C. Mario & Luigi: Brothership (2024, Switch)
       
@@ -2815,35 +2891,46 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //E//"Acorn Heights - Mario Kart World",
       //E//"Rainbow Road - Mario Kart World",
       //E//"Staff Roll - Mario Kart World",
-      //E//"Title Screen ~ Day (Super Mario Kart) - Mario Kart World",
+      //E//"Title Screen ~ Fusion Ver. (Super Mario Kart) - Mario Kart World",
+      //E//"Staff Roll (Super Mario Kart) - Mario Kart World",
       //E//"Selection Screens (Mario Kart 64) - Mario Kart World",
       //E//"Rainbow Road (Mario Kart 64) - Mario Kart World",
       //E//"Baby Park (Mario Kart: Double Dash!!) - Mario Kart World",
       //E//"Sherbet Land (Mario Kart: Double Dash!!) - Mario Kart World",
       //E//"Rainbow Road (Mario Kart: Double Dash!!) - Mario Kart World",
+      //F//"Staff Roll (Mario Kart: Double Dash!!) - Mario Kart World",
       //E//"Delfino Square (Mario Kart DS) - Mario Kart World",
-      //E//"Wario Stadium / Waluigi Pinball ~ Night (Mario Kart DS) - Mario Kart World",
+      //E//"Waluigi Pinball ~ Funk Ver. (Mario Kart DS) - Mario Kart World",
+      //F//"Shroom Ridge (Mario Kart DS) - Mario Kart World",
       //E//"Rainbow Road (Mario Kart DS) - Mario Kart World",
+      //E//"Staff Roll (Mario Kart DS) - Mario Kart World",
       //E//"Maple Treeway (Mario Kart Wii) - Mario Kart World",
       //E//"Rainbow Road (Mario Kart Wii) - Mario Kart World",
       //E//"Thwomp Desert (Mario Kart Wii) - Mario Kart World",
-      //E//"Rainbow Road (Mario Kart 7) - Mario Kart World",
-      //E//"Sunshine Airport ~ Night (Mario Kart 8) - Mario Kart World",
-      //E//"Wild Woods (Mario Kart 8) - Mario Kart World",
-      //E//"Piranha Plant Pipeline (Mario Kart Tour) - Mario Kart World",
-      //E//"Main Theme (Mario Kart Live: Home Circuit) - Mario Kart World",
-      //E//"Staff Roll (Super Mario Kart) - Mario Kart World",
-      //E//"Staff Roll (Mario Kart DS) - Mario Kart World",
       //E//"Staff Roll A (Mario Kart Wii) - Mario Kart World",
+      //E//"Rainbow Road (Mario Kart 7) - Mario Kart World",
+      //F//"Staff Roll (Mario Kart 7) - Mario Kart World",
+      //E//"Sunshine Airport ~ Electro Ver. (Mario Kart 8) - Mario Kart World",
+      //E//"Wild Woods (Mario Kart 8) - Mario Kart World",
+      //F//"Merry Mountain (Mario Kart Tour) - Mario Kart World",
+      //E//"Piranha Plant Pipeline (Mario Kart Tour) - Mario Kart World",
+      //E//"Main Theme (Mario Kart Live: Home Circuit) - Mario Kart World",      
       //E//"Underwater (Super Mario Bros.) - Mario Kart World",
-      //E//"Map Screen Medley (Super Mario Bros. 3) - Mario Kart World",
+      //E//"Overworld Medley (Super Mario Bros. 3) - Mario Kart World",
+      //F//"Athletic (Super Mario Bros. 3) - Mario Kart World",
+      //F//"Underwater (Super Mario Bros. 3) - Mario Kart World",
       //E//"Easton Kingdom (Super Mario Land) - Mario Kart World",
+      //F//"Overworld Medley (Super Mario World) - Mario Kart World",
+      //F//"Ground ~ Ska Ver. (Super Mario World) - Mario Kart World",
       //E//"Athletic (Super Mario World) - Mario Kart World",
       //E//"Drawing Board 1 (Mario Paint) - Mario Kart World",
+      //F//"Main Theme (Super Mario Land 2: 6 Golden Coins - Mario Kart World",
       //E//"Rice Beach (Wario Land: Super Mario Land 3) - Mario Kart World",
       //E//"Opening Melody (Super Mario World 2: Yoshi's Island) - Mario Kart World",
+      //F//"Flower Field (Super Mario World 2: Yoshi's Island) - Mario Kart World",
       //E//"Baby Bowser Battle (Super Mario World 2: Yoshi's Island) - Mario Kart World",
       //E//"File Select (Super Mario 64) - Mario Kart World",
+      //F//"Piranha Plant's Lullaby (Super Mario 64) - Mario Kart World",
       //E//"Dire, Dire Docks (Super Mario 64) - Mario Kart World",
       //E//"Bowser's Road (Super Mario 64) - Mario Kart World",
       //E//"Staff Roll (Super Mario 64) - Mario Kart World",
@@ -2851,21 +2938,26 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //E//"Main Theme (Luigi's Mansion) - Mario Kart World",
       //E//"Secret Course ~ Sky & Sea (Super Mario Sunshine) - Mario Kart World",
       //E//"Drifting Away (WarioWare, Inc.: Mega Microgame$!) - Mario Kart World",
-      //E//"The Mario Drawing Song (Flipnote Studio) - Mario Kart World",
+      //F//"Castle (New Super Mario Bros.) - Mario Kart World",
       //E//"Rosalina In The Observatory (Super Mario Galaxy) - Mario Kart World",
       //E//"Space Junk Road (Super Mario Galaxy) - Mario Kart World",
       //E//"Buoy Base Galaxy (Super Mario Galaxy) - Mario Kart World",
+      //F//"Underwater (New Super Mario Bros. Wii) - Mario Kart World",
       //E//"Puzzle Plank Galaxy (Super Mario Galaxy 2) - Mario Kart World",
       //E//"Wild Glide Galaxy (Super Mario Galaxy 2) - Mario Kart World",
+      //E//"The Mario Drawing Song (Flipnote Studio) - Mario Kart World",
+      //F//"Double Cherry Pass (Super Mario 3D World) - Mario Kart World",
       //E//"Title Screen (Super Mario Maker) - Mario Kart World",
       //E//"Fossil Falls (Super Mario Odyssey) - Mario Kart World",
-      //E//"Plessie Ride! (Bowser's Fury) - Mario Kart World",
+      //E//"Riding Plessie (Bowser's Fury) - Mario Kart World",
 
       .E. Donkey Kong Bananza (2025, Switch 2)
       
       //E//"DK Artist (Simian Segue / Bonus Room Blitz) - Donkey Kong Bananza",
       //E//"Ingot Isle Cave In - Donkey Kong Bananza",
       //E//"Lagoon Layer - Donkey Kong Bananza",
+      //F//"Hilltop Layer: Fractone Village - Donkey Kong Bananza",
+      //F//"Canyon Layer - Donkey Kong Bananza",
       //E//"Canyon Layer: Banandium Refinery - Donkey Kong Bananza",
       //E//"Freezer Later: Cold Colt Crest - Donkey Kong Bananza",
       //E//"Forest Layer: Mossplume Marsh - Donkey Kong Bananza",
@@ -2878,19 +2970,56 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //E//"Kong Bananza - Donkey Kong Bananza",
       //E//"Zebra Bananza - Donkey Kong Bananza",
       //E//"Ostrich Bananza - Donkey Kong Bananza",
+      //F//"Elephant Bananza - Donkey Kong Bananza",
+      //F//"Snake Bananza - Donkey Kong Bananza",
       //E//"Poppy Kong Battle - Donkey Kong Bananza",
+      //F//"K. Rool, King Of Rot Battle - Donkey Kong Bananza",
       //E//"2D Challenge Course #1 (DK Island Swing) - Donkey Kong Bananza",
       //E//"2D Challenge Course #2 (Stickerbush Symphony) - Donkey Kong Bananza",
       //E//"2D Challenge Course #3 (Mine Cart Madness) - Donkey Kong Bananza",
       //E//"Breaking Through (Heart Of Gold) [Staff Roll] - Donkey Kong Bananza",
-
+      
+      .F. Jamboree TV (2025, Switch 2)
+      
+      //F//"Pop Your Color - Jamboree TV",
+      //F//"Bowser Beats - Jamboree TV",
+      
+      .F. DK Island + Emerald Rush (2025, Switch 2)
+      
+      //F//"DK Island (Daytime) - DK Island + Emerald Rush",
+      //F//"Emerald Rush #4 / Staff Roll - DK Island + Emerald Rush",
+      
       .E. Super Mario Galaxy + Super Mario Galaxy 2 For Nintendo Switch (2025, Switch)
 
       //E//"Good Night (Galaxy 1) - Super Mario Galaxy + Super Mario Galaxy 2 For Nintendo Switch (2025)",
       //E//"Special Someone (Galaxy 2) - Super Mario Galaxy + Super Mario Galaxy 2 For Nintendo Switch (2025)",
+      
+      .F. Mario Tennis Fever (2026, Switch 2)
+      
+      //F//"Forest Court - Mario Tennis Fever",
+      //F//"Academy Training Lesson - Mario Tennis Fever",
+      //F//"Vs. Bowser & King Scuttlebug - Mario Tennis Fever",
+      
+      .F. Meetup In Bellabel Park (2026, Switch 2)
+      
+      //F//"Ludwig's Showdown! - Meetup In Bellabel Park",
+      //F//"Attraction Central - Meetup In Bellabel Park",
+      //F//"Thrilling! VS Attractions - Meetup In Bellabel Park",
+      //F//"Hungry! Yoshi Attractions - Meetup In Bellabel Park",
+      //F//"Together! Co Op Attractions - Meetup In Bellabel Park",
+      //F//"Staff Roll - Meetup In Bellabel Park",
+      
+      .F. The Super Mario Galaxy Movie (2026, Film / TV)
+      
+      //F//"TBD - The Super Mario Galaxy Movie",
+      //F//"TBD - The Super Mario Galaxy Movie",
+      //F//"TBD - The Super Mario Galaxy Movie",
+      //F//"TBD - The Super Mario Galaxy Movie",
+      //F//"TBD - The Super Mario Galaxy Movie",
 
       .A. April Fools
       
       //2023MH2//"Super Mario Bros. (E3 2008 Performance) - Wii Music",
       //2024//"UHAHAHAHAHA. Nice of the princess to invite us over for a picnic ey, Luigi? I hope she made lotsa spaghetti! Luigi, look! It's from Bowser. Dear pesky plumbers, the koopalings and I have taken over the Mushroom Kingdom. The princess is now a permanent guest at one of my seven Koopa hotels. I dare you to find her if you can. We gotta find the princess! And YOU gotta help us. If you need instructions on how to get through the hotels, check out the enclosed instruction book. - Hotel Mario",
-      //2026//"Mama Luigi - Super Mario World (Animated Series)",
+      //2025// I forgor lol
+      //2026//"Sexy Luigi - Super Luigi Galaxy",

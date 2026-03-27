@@ -581,6 +581,9 @@ video {
 .bg-custom-negative {
     background-color: var(--color-negative)
 }
+.bg-custom-yellow {
+    background-color: var(--color-yellow)
+}
 .bg-custom-fg {
     background-color: var(--color-fg)
 }
@@ -710,6 +713,9 @@ video {
 .text-custom-negative {
     color: var(--color-negative)
 }
+.text-custom-yellow {
+    color: var(--color-yellow)
+}
 .text-custom-fg {
     color: var(--color-fg)
 }
@@ -819,6 +825,7 @@ a:active {
 :root {
     --color-positive: #1d7e05;
     --color-negative: #ff0000;
+    --color-yellow: #ffe100;
     --color-fg: #ffffff;
     --color-mg: #444;
     --color-bg: #121212;
