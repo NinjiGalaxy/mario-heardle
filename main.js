@@ -1464,7 +1464,7 @@
 "The Classroom - Mario Strikers Charged",//04-16-26
 "Title / Ending (Super Mario World) - Super Smash Bros. Brawl",//04-17-26
 //F//"Main Theme - Mario Golf: Super Rush",//04-18-26
-//F//"TBD - The Super Mario Galaxy Movie",//04-19-26
+//F//"Cool Motorcycle Guys - The Super Mario Galaxy Movie",//04-19-26
 "The Evil King Bowser (Final Battle) - Super Mario World (SNES)",//04-20-26
 //F//"This Is Booster Tower - Super Mario RPG (Switch)",//04-21-26
 "Thwomp Desert (Mario Kart Wii) - Mario Kart World",//04-22-26
@@ -2319,10 +2319,11 @@
 //F//"Hungry! Yoshi Attractions - Meetup In Bellabel Park",
 //F//"Together! Co Op Attractions - Meetup In Bellabel Park",
 //F//"Staff Roll - Meetup In Bellabel Park",
-//F//"TBD - The Super Mario Galaxy Movie",
-//F//"TBD - The Super Mario Galaxy Movie",
-//F//"TBD - The Super Mario Galaxy Movie",
-//F//"TBD - The Super Mario Galaxy Movie",
+//F//"Star Shower - The Super Mario Galaxy Movie",
+//F//"Taking Care Of The Kingdom Isn't Easy - The Super Mario Galaxy Movie",
+//F//"The Flight Deck - The Super Mario Galaxy Movie",
+//F//"Assault On Planet Bowser - The Super Mario Galaxy Movie",
+//F//"1up (Credits) - The Super Mario Galaxy Movie",
 
       //Soundcloud Link Pog
     ]),
@@ -8174,8 +8175,8 @@
             answer: "Main Theme - Mario Golf: Super Rush",
           },
           {
-            url: "https://soundcloud.com/yoshiheardle/galaxymovie/placeholder",
-            answer: "TBD - The Super Mario Galaxy Movie",
+            url: "https://soundcloud.com/briantyler/cool-motorcycle-guys",
+            answer: "Cool Motorcycle Guys - The Super Mario Galaxy Movie",
           },
           {
             url: "https://soundcloud.com/vincent-thompson-763471057/26-the-evil-king-koopa-bgm",
