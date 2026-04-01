@@ -1464,7 +1464,7 @@ let _metadata = createMetadata({
 "The Classroom - Mario Strikers Charged": [2007, "Wii", "Mario Strikers", "Mario Strikers Charged", "Sports"],
 "Title / Ending (Super Mario World) - Super Smash Bros. Brawl": [2008, "Wii", "Super Smash Bros.", "Super Smash Bros. Brawl", "Fighting"],
 //F//"Main Theme - Mario Golf: Super Rush": [2021, "Switch", "Mario Golf", "Mario Golf: Super Rush", "Sports"],
-//F//"TBD - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV"],
+//F//"Cool Motorcycle Guys - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV"],
 "The Evil King Bowser (Final Battle) - Super Mario World (SNES)": [1990, "SNES", "Super Mario", "Super Mario World", "2D Platformer"],
 //F//"This Is Booster Tower - Super Mario RPG (Switch)": [2023, "Switch", "Mario Misc", "Super Mario RPG (Switch)", "RPG"],
 "Thwomp Desert (Mario Kart Wii) - Mario Kart World": [2025, "Switch 2", "Mario Kart", "Mario Kart World", "Racing"],
@@ -2320,10 +2320,11 @@ let _metadata = createMetadata({
 //F//"Hungry! Yoshi Attractions - Meetup In Bellabel Park": [2026, "Switch 2", "Super Mario", "Meetup In Bellabel Park", "2D Platformer"],
 //F//"Together! Co Op Attractions - Meetup In Bellabel Park": [2026, "Switch 2", "Super Mario", "Meetup In Bellabel Park", "2D Platformer"],
 //F//"Staff Roll - Meetup In Bellabel Park": [2026, "Switch 2", "Super Mario", "Meetup In Bellabel Park", "2D Platformer"],
-//F//"TBD - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV"],
-//F//"TBD - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV"],
-//F//"TBD - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV"],
-//F//"TBD - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV"],
+//F//"Star Shower - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV"],
+//F//"Taking Care Of The Kingdom Isn't Easy - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV"],
+//F//"The Flight Deck - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV"],
+//F//"Assault On Planet Bowser - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV"],
+//F//"1up (Credits) - The Super Mario Galaxy Movie": [2026, "Film / TV", "Super Mario", "The Super Mario Galaxy Movie", "Film / TV"],
 })
 
 function createMetadata(mtd) {
