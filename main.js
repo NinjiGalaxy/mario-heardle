@@ -1446,7 +1446,7 @@
 "Fossil Falls (Super Mario Odyssey) - Mario Kart World",//03-29-26
 "Rock Candy Mines (World 6) - New Super Mario Bros. U",//03-30-26
 "Battle ~ Shadow Sirens - Paper Mario: The Thousand-Year Door (GameCube)",//03-31-26
-//2026//"Sexy Luigi - Super Luigi Galaxy",//04-01-26
+"Sexy Luigi - Super Luigi Galaxy",//04-01-26
 "Galaxy Colosseum / Galaxy Arena - Mario Kart Wii",//04-02-26
 "Flipside Arcade - Super Paper Mario",//04-03-26
 //F//"Attack Of The Koopa Bros. - Paper Mario (N64)",//04-04-26
