@@ -1446,7 +1446,7 @@ let _metadata = createMetadata({
 "Fossil Falls (Super Mario Odyssey) - Mario Kart World": [2025, "Switch 2", "Mario Kart", "Mario Kart World", "Racing"],
 "Rock Candy Mines (World 6) - New Super Mario Bros. U": [2012, "Wii U", "Super Mario", "New Super Mario Bros. U", "2D Platformer"],
 "Battle ~ Shadow Sirens - Paper Mario: The Thousand-Year Door (GameCube)": [2004, "GameCube", "Paper Mario", "Paper Mario: The Thousand-Year Door (GameCube)", "RPG"],
-//2026//"Sexy Luigi - Super Luigi Galaxy": [2016, "YouTube", "Super Luigi", "PeanutButterGamer", "Sexy Platformer"],
+"Sexy Luigi - Super Luigi Galaxy": [2016, "YouTube", "Super Luigi", "PeanutButterGamer", "Sexy Platformer"],
 "Galaxy Colosseum / Galaxy Arena - Mario Kart Wii": [2008, "Wii", "Mario Kart", "Mario Kart Wii", "Racing"],
 "Flipside Arcade - Super Paper Mario": [2007, "Wii", "Paper Mario", "Super Paper Mario", "2D Platformer"],
 //F//"Attack Of The Koopa Bros. - Paper Mario (N64)": [2000, "N64", "Paper Mario", "Paper Mario", "RPG"],
