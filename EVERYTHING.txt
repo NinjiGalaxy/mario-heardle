@@ -3011,12 +3011,13 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       .F. The Super Mario Galaxy Movie (2026, Film / TV)
       
-      //F//"TBD - The Super Mario Galaxy Movie",
-      //F//"TBD - The Super Mario Galaxy Movie",
-      //F//"TBD - The Super Mario Galaxy Movie",
-      //F//"TBD - The Super Mario Galaxy Movie",
-      //F//"TBD - The Super Mario Galaxy Movie",
-
+      //F//"Cool Motorcycle Guys - The Super Mario Galaxy Movie",
+      //F//"Star Shower - The Super Mario Galaxy Movie",
+      //F//"Taking Care Of The Kingdom Isn't Easy - The Super Mario Galaxy Movie",
+      //F//"The Flight Deck - The Super Mario Galaxy Movie",
+      //F//"Assault On Planet Bowser - The Super Mario Galaxy Movie",
+      //F//"1up (Credits) - The Super Mario Galaxy Movie",
+      
       .A. April Fools
       
       //2023MH2//"Super Mario Bros. (E3 2008 Performance) - Wii Music",
