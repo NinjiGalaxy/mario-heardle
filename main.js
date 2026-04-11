@@ -1675,7 +1675,6 @@
 //F//"Gusty Gulch Adventure - Paper Mario (N64)",
 "Princess In Distress - Paper Mario (N64)",
 "Crystal Palace Crawl - Paper Mario (N64)",//12-22
-//F//"Bowser's Rage - Paper Mario (N64)",
 "King Of The Koopas - Paper Mario (N64)",
 "Victory Parade (Staff Roll) - Paper Mario (N64)",
 "Mario And Peach - Paper Mario (N64)",//04-04
@@ -2309,6 +2308,7 @@
 "Breaking Through (Heart Of Gold) [Staff Roll] - Donkey Kong Bananza",
 //F//"Pop Your Color - Jamboree TV",
 //F//"Bowser Beats - Jamboree TV",
+//F//"Ground (Super Mario Bros.) - Hello, Mario! / Hello, Yoshi!",
 //F//"DK Island (Daytime) - DK Island + Emerald Rush",
 //F//"Emerald Rush #4 / Staff Roll - DK Island + Emerald Rush",
 "Special Someone (Galaxy 2) - Super Mario Galaxy + Super Mario Galaxy 2 For Nintendo Switch (2025)",
