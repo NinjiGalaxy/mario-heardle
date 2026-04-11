@@ -1449,21 +1449,21 @@
 "Sexy Luigi - Super Luigi Galaxy",//04-01-26
 "Galaxy Colosseum / Galaxy Arena - Mario Kart Wii",//04-02-26
 "Flipside Arcade - Super Paper Mario",//04-03-26
-//F//"Attack Of The Koopa Bros. - Paper Mario (N64)",//04-04-26
+"Attack Of The Koopa Bros. - Paper Mario (N64)",//04-04-26
 "Underground - Yoshi's New Island",//04-05-26
 "Radiance Layer: Hiss Hiss Oasis - Donkey Kong Bananza",//04-06-26
 "Piranha Plant's Lullaby - Super Mario 64",//04-07-26
-//F//"Sky - Mario & Wario",//04-08-26
+"Sky - Mario & Wario",//04-08-26
 "World Castle (7) - Super Mario 3D World",//04-09-26
 "Inside The Inverted Pyramid - Super Mario Odyssey",//04-10-26
 "Beanish People (Hoohoo Village) - Mario & Luigi: Superstar Saga + Bowser's Minions",//04-11-26
-//F//"Fort Course - Yoshi's Woolly World",//04-12-26
+"Fort Course - Yoshi's Woolly World",//04-12-26
 "Greenhouse - Game & Watch Gallery 3",//04-13-26
 "amiibo Party: Wario (Stonecarving City ~ Wario Land: Shake It!) - Mario Party 10",//04-14-26
 "There, There, Toad - Luigi's Mansion (GameCube)",//04-15-26
 "The Classroom - Mario Strikers Charged",//04-16-26
 "Title / Ending (Super Mario World) - Super Smash Bros. Brawl",//04-17-26
-//F//"Main Theme - Mario Golf: Super Rush",//04-18-26
+"Main Theme - Mario Golf: Super Rush",//04-18-26
 //F//"Cool Motorcycle Guys - The Super Mario Galaxy Movie",//04-19-26
 "The Evil King Bowser (Final Battle) - Super Mario World (SNES)",//04-20-26
 //F//"This Is Booster Tower - Super Mario RPG (Switch)",//04-21-26
