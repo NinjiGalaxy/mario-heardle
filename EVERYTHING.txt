@@ -679,7 +679,6 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //E//"Freeze! - Paper Mario (N64)",
       "Shooting Star Summit - Paper Mario (N64)",
       "Cloudy Climb - Paper Mario (N64)",
-      //F//"Bowser's Rage - Paper Mario (N64)",
       //"Wish Of The Princess - Paper Mario (N64)",
       //E//"King Of The Koopas - Paper Mario (N64)",
       //D//"Victory Parade (Staff Roll) - Paper Mario (N64)",
@@ -2983,6 +2982,10 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       //F//"Pop Your Color - Jamboree TV",
       //F//"Bowser Beats - Jamboree TV",
+
+      .F. Hello, Mario! / Hello, Yoshi! (2025, iOS / Android)
+      
+      //F//"Ground (Super Mario Bros.) - Hello, Mario! / Hello, Yoshi!",
       
       .F. DK Island + Emerald Rush (2025, Switch 2)
       
