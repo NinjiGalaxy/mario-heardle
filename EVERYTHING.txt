@@ -142,18 +142,18 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       "Battle - Super Mario Kart",
       "Staff Roll - Super Mario Kart",
       
-      Super Mario Land 2: 6 Golden Coins (1992, Game Boy)
+      Super Mario Land 2 - 6 Golden Coins (1992, Game Boy)
       
-      "File Select - Super Mario Land 2: 6 Golden Coins",
-      "Athletic - Super Mario Land 2: 6 Golden Coins",
-      "Roots Course (Tree Zone) - Super Mario Land 2: 6 Golden Coins",
-      //F//"Whale Course (Turtle Zone) - Super Mario Land 2: 6 Golden Coins",
-      "Manhole Course (Macro Zone) - Super Mario Land 2: 6 Golden Coins",
-      "Crane Course (Mario Zone) - Super Mario Land 2: 6 Golden Coins",
-      "Moon Course (Space Zone) - Super Mario Land 2: 6 Golden Coins",
-      "Star Course (Space Zone) - Super Mario Land 2: 6 Golden Coins",
-      "Wario's Castle - Super Mario Land 2: 6 Golden Coins",
-      "Staff Roll - Super Mario Land 2: 6 Golden Coins",
+      "File Select - Super Mario Land 2 - 6 Golden Coins",
+      "Athletic - Super Mario Land 2 - 6 Golden Coins",
+      "Roots Course (Tree Zone) - Super Mario Land 2 - 6 Golden Coins",
+      //F//"Whale Course (Turtle Zone) - Super Mario Land 2 - 6 Golden Coins",
+      "Manhole Course (Macro Zone) - Super Mario Land 2 - 6 Golden Coins",
+      "Crane Course (Mario Zone) - Super Mario Land 2 - 6 Golden Coins",
+      "Moon Course (Space Zone) - Super Mario Land 2 - 6 Golden Coins",
+      "Star Course (Space Zone) - Super Mario Land 2 - 6 Golden Coins",
+      "Wario's Castle - Super Mario Land 2 - 6 Golden Coins",
+      "Staff Roll - Super Mario Land 2 - 6 Golden Coins",
       
       .6. Yoshi's Cookie (1992, NES)
       
@@ -2923,7 +2923,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //F//"Ground ~ Ska Ver. (Super Mario World) - Mario Kart World",
       //E//"Athletic (Super Mario World) - Mario Kart World",
       //E//"Drawing Board 1 (Mario Paint) - Mario Kart World",
-      //F//"Main Theme (Super Mario Land 2: 6 Golden Coins - Mario Kart World",
+      //F//"Main Theme (Super Mario Land 2 - 6 Golden Coins) - Mario Kart World",
       //E//"Rice Beach (Wario Land: Super Mario Land 3) - Mario Kart World",
       //E//"Opening Melody (Super Mario World 2: Yoshi's Island) - Mario Kart World",
       //F//"Flower Field (Super Mario World 2: Yoshi's Island) - Mario Kart World",
