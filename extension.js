@@ -2309,7 +2309,7 @@ let _metadata = createMetadata({
 "Breaking Through (Heart Of Gold) [Staff Roll] - Donkey Kong Bananza": [2025, "Switch 2", "Donkey Kong (Other Platformers)", "Donkey Kong Bananza", "3D Platformer"],
 "Pop Your Color - Jamboree TV": [2025, "Switch 2", "Mario Party", "Jamboree TV", "Minigame Compilation"],
 "Bowser Beats - Jamboree TV": [2025, "Switch 2", "Mario Party", "Jamboree TV", "Minigame Compilation"],
-"Ground (Super Mario Bros.) - Hello, Mario! / Hello, Yoshi!": [2025, "iOS / Android", "Mario Misc", "Hello, Mario! / Hello, Yoshi!", "Other",
+"Ground (Super Mario Bros.) - Hello, Mario! / Hello, Yoshi!": [2025, "iOS / Android", "Mario Misc", "Hello, Mario! / Hello, Yoshi!", "Other"],
 "DK Island (Daytime) - DK Island + Emerald Rush": [2025, "Switch 2", "Donkey Kong (Other Platformers)", "DK Island + Emerald Rush", "3D Platformer"],
 "Emerald Rush #4 / Staff Roll - DK Island + Emerald Rush": [2025, "Switch 2", "Donkey Kong (Other Platformers)", "DK Island + Emerald Rush", "3D Platformer"],
 "Special Someone (Galaxy 2) - Super Mario Galaxy + Super Mario Galaxy 2 For Nintendo Switch (2025)": [2025, "Switch", "Super Mario", "Super Mario Galaxy + Super Mario Galaxy 2", "3D Platformer"],
