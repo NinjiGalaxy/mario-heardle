@@ -1537,6 +1537,16 @@
 "Bonus Challenge - Super Mario World 2: Yoshi's Island",//06-28-26
 "Academy Training Lesson - Mario Tennis Fever",//06-29-26
 "Chainlink Charge (Athletic) - Super Mario 3D World",//06-30-26
+"Ground - Super Mario Bros. 3 (NES)",//07-01-26
+"Assault On Planet Bowser - The Super Mario Galaxy Movie",//07-02-26
+"Spooky House A - Mario vs. Donkey Kong (GBA)",//07-03-26
+"Break Free (Lead The Way) - Super Mario Odyssey",//07-04-26
+"Valley Of Bowser - Super Mario World (SNES)",//07-05-26
+"Easton Kingdom (Super Mario Land) - Mario Kart World",//07-06-26
+"Boss Battle - Super Mario Sunshine",//07-07-26
+"Ghost House - Super Mario 3D Land",//07-08-26
+"Princess In Distress - Paper Mario (N64)",//07-09-26
+"Vamoose The Lava Sluice! - Yoshi's Woolly World",//07-10-26
 
 
 "Super Star (Invincible) - Super Mario Bros. (1985)",
@@ -1546,7 +1556,6 @@
 "Wind Commander (BGM 2) - Famicom Grand Prix II: 3D Hot Rally",
 "Ending - Super Mario Bros. 2 (NES)",//05-11
 "Grass Land (World 1) - Super Mario Bros. 3 (NES)",//09-18
-"Ground - Super Mario Bros. 3 (NES)",//12-31
 "Desert Land (World 2) - Super Mario Bros. 3 (NES)",
 "Underwater - Super Mario Bros. 3 (NES)",//12-06
 "Sky Land (World 5) - Super Mario Bros. 3 (NES)",
@@ -1556,7 +1565,6 @@
 "Yoshi's Island - Super Mario World (SNES)",//03-07
 "Athletic - Super Mario World (SNES)",//09-14
 "Forest Of Illusion - Super Mario World (SNES)",//02-13
-"Valley Of Bowser - Super Mario World (SNES)",
 "Special World - Super Mario World (SNES)",
 "Drawing Board 1 (Creative Exercise) - Mario Paint",//08-23
 "Drawing Board 2 (Monkey Song) - Mario Paint",//06-21
@@ -1673,7 +1681,6 @@
 "Staff Roll - Mario Tennis (N64)",
 "Koopa Village - Paper Mario (N64)",
 "Gusty Gulch Adventure - Paper Mario (N64)",
-"Princess In Distress - Paper Mario (N64)",
 "Crystal Palace Crawl - Paper Mario (N64)",//12-22
 "King Of The Koopas - Paper Mario (N64)",
 "Victory Parade (Staff Roll) - Paper Mario (N64)",
@@ -1706,7 +1713,6 @@
 "Pinna Beach - Super Mario Sunshine",
 "Proto Piranha - Super Mario Sunshine",
 "Mid Boss - Super Mario Sunshine",
-"Boss Battle - Super Mario Sunshine",
 "Staff Roll - Super Mario Sunshine",
 "Athletic - Super Mario Advance 3: Yoshi's Island",
 "100% Completion - Super Mario Advance 3: Yoshi's Island",
@@ -1743,7 +1749,6 @@
 "Going Home (Staff Roll) - Mario & Luigi: Superstar Saga (GBA)",
 "Professor E. Gadd (Luigi's Mansion ~ Main Theme) - Mario & Luigi: Superstar Saga (GBA)",
 "Fire Mountain A - Mario vs. Donkey Kong (GBA)",
-"Spooky House A - Mario vs. Donkey Kong (GBA)",
 "Stickerbush Symphony - Donkey Kong Country 2 (GBA)",
 "Kannon's Klanking (Mining Melancholy) - Donkey Kong Country 2 (GBA)",
 "An Awfully Long Time Ago... - Paper Mario: The Thousand-Year Door (GameCube)",//07-25
@@ -1933,7 +1938,6 @@
 "Underwater - Super Mario 3D Land",
 "Snowball Park - Super Mario 3D Land",//09-19
 "World 4 - Super Mario 3D Land",//01-04
-"Ghost House - Super Mario 3D Land",
 "World 6 - Super Mario 3D Land",
 "Beep Block Beat (Three In A Row) - Super Mario 3D Land",
 "The Final Battle - Super Mario 3D Land",
@@ -2045,7 +2049,6 @@
 "Title Screen - Yoshi's Woolly World",
 "Lava Scarves & Red Hot Blarggs - Yoshi's Woolly World",
 "Frozen Solid And Chilled - Yoshi's Woolly World",
-"Vamoose The Lava Sluice! - Yoshi's Woolly World",
 "Vs. Mega Baby Bowser - Yoshi's Woolly World",
 "Staff Roll - Yoshi's Woolly World",
 "Title Screen - Super Mario Maker",//03-31
@@ -2095,7 +2098,6 @@
 "Shiveria Town (Snow Kingdom) - Super Mario Odyssey",//03-17
 "Bowser's Castle (Bowser's Kingdom) - Super Mario Odyssey",//10-29
 "Underground Moon Caverns (Moon Kingdom) - Super Mario Odyssey",
-"Break Free (Lead The Way) - Super Mario Odyssey",//10-12
 "Staff Roll - Super Mario Odyssey",
 "Run, Jump, Throw! 2 - Super Mario Odyssey",//10-28
 "Battling Bowser (Nimbus Arena) - Super Mario Odyssey",
@@ -2262,7 +2264,6 @@
 "Underwater (Super Mario Bros.) - Mario Kart World",
 "Athletic (Super Mario Bros. 3) - Mario Kart World",
 "Underwater (Super Mario Bros. 3) - Mario Kart World",
-"Easton Kingdom (Super Mario Land) - Mario Kart World",
 "Overworld Medley (Super Mario World) - Mario Kart World",
 "Ground ~ Ska Ver. (Super Mario World) - Mario Kart World",
 "Athletic (Super Mario World) - Mario Kart World",
@@ -2322,7 +2323,6 @@
 "Star Shower - The Super Mario Galaxy Movie",
 "Taking Care Of The Kingdom Isn't Easy - The Super Mario Galaxy Movie",
 "The Flight Deck - The Super Mario Galaxy Movie",
-"Assault On Planet Bowser - The Super Mario Galaxy Movie",
 "1up (Credits) - The Super Mario Galaxy Movie",
 
       //Soundcloud Link Pog
@@ -8467,44 +8467,44 @@
             answer: "Chainlink Charge (Athletic) - Super Mario 3D World",
           },
           {
-            url: "https://soundcloud.com/vgmplanet/song",
-            answer: "Song - Game",
+            url: "https://soundcloud.com/simplepro/above-ground-overworld-wood-super-mario-bros-3",
+            answer: "Ground - Super Mario Bros. 3 (NES)",
           },
           {
-            url: "https://soundcloud.com/vgmplanet/song",
-            answer: "Song - Game",
+            url: "https://soundcloud.com/briantyler/assault-on-planet-bowser",
+            answer: "Assault On Planet Bowser - The Super Mario Galaxy Movie",
           },
           {
-            url: "https://soundcloud.com/vgmplanet/song",
-            answer: "Song - Game",
+            url: "https://soundcloud.com/picross-all-stars/spooky-house-a",
+            answer: "Spooky House A - Mario vs. Donkey Kong (GBA)",
           },
           {
-            url: "https://soundcloud.com/vgmplanet/song",
-            answer: "Song - Game",
+            url: "https://soundcloud.com/infiniteshadowx766/311-break-free-lead-the-way-20",
+            answer: "Break Free (Lead The Way) - Super Mario Odyssey",
           },
           {
-            url: "https://soundcloud.com/vgmplanet/song",
-            answer: "Song - Game",
+            url: "https://soundcloud.com/vincent-thompson-763471057/8-map-6-koopa-castle",
+            answer: "Valley Of Bowser - Super Mario World (SNES)",
           },
           {
-            url: "https://soundcloud.com/vgmplanet/song",
-            answer: "Song - Game",
+            url: "https://soundcloud.com/loststray2/easton-kingdom-underground-super-mario-land-mario-kart-world-ost-48",
+            answer: "Easton Kingdom (Super Mario Land) - Mario Kart World",
           },
           {
-            url: "https://soundcloud.com/vgmplanet/song",
-            answer: "Song - Game",
+            url: "https://soundcloud.com/gabriel12cfg/vs-boss",
+            answer: "Boss Battle - Super Mario Sunshine",
           },
           {
-            url: "https://soundcloud.com/vgmplanet/song",
-            answer: "Song - Game",
+            url: "https://soundcloud.com/christian-estevez-817287781/ghost-house-super-mario-3d",
+            answer: "Ghost House - Super Mario 3D Land",
           },
           {
-            url: "https://soundcloud.com/vgmplanet/song",
-            answer: "Song - Game",
+            url: "https://soundcloud.com/civ-nohp/princess-in-distress-paper-mario-2000",
+            answer: "Princess In Distress - Paper Mario (N64)",
           },
           {
-            url: "https://soundcloud.com/vgmplanet/song",
-            answer: "Song - Game",
+            url: "https://soundcloud.com/woolly-world-ost/vamoose-the-lava-sluice",
+            answer: "Vamoose The Lava Sluice! - Yoshi's Woolly World",
           },
           {
             url: "https://soundcloud.com/vgmplanet/song",
