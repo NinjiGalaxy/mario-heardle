@@ -1,4 +1,4 @@
-This is a text document for internal use. It lists all the songs in Mario Heardle in order, in the format Mario Heardle uses them in. Some songs are tagged to indicate which update they were added in. If you want to spoil yourself on what's being added in future updates, this is the text file for you! (Hint: look out for when songs start popping up with the tag "//F//")
+This is a text document for internal use. It lists all the songs in Mario Heardle in order, in the format Mario Heardle uses them in. Some songs are tagged to indicate which update they were added in. If you want to spoil yourself on what's being added in future updates, this is the text file for you! (Hint: look out for when songs start popping up with the tag "//G//")
 
       Super Mario Bros. (1985, NES)
       
@@ -117,7 +117,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       .9. Yoshi (1991, NES)
       
       //9//"Title Screen - Yoshi (NES)",
-      //9//"Music C (Starman) - Yoshi (NES)",
+      //9//"Star BGM - Yoshi (NES)",
       
       Mario Paint (1992, SNES)
       
@@ -277,10 +277,10 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       .D. Mario's Tennis (1995, Virtual Boy)
       
-      //F//"Warning Screen - Mario's Tennis (Virtual Boy)",
-      //D//"Singles Match 1 - Mario's Tennis (Virtual Boy)",
-      //F//"Tournament Doubles 1 - Mario's Tennis (Virtual Boy)",
-      //D//"Results - Mario's Tennis (Virtual Boy)",
+      //F//"Game Startup - Mario's Tennis (Virtual Boy)",
+      //D//"Singles 1 - Mario's Tennis (Virtual Boy)",
+      //F//"Doubles Tournament 1 - Mario's Tennis (Virtual Boy)",
+      //D//"Match Results - Mario's Tennis (Virtual Boy)",
       
       .. Super Mario World 2: Yoshi's Island (1995, SNES)
       
@@ -312,16 +312,16 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       Mario Clash (1995, Virtual Boy)
       
       "Title Screen - Mario Clash",
-      //D//"Pipes (Level 1) - Mario Clash",
-      //F//"Catch The Coins! (Bonus Chance) - Mario Clash",
-      //F//"Ice (Level 8) - Mario Clash",
-      //D//"Ghost (Level 13) - Mario Clash",
+      //D//"Stage BGM 1 (Pipes) - Mario Clash",
+      //F//"Bonus Chance (Bonus Chance) - Mario Clash",
+      //F//"Stage BGM 3 (Ice) - Mario Clash",
+      //D//"Stage BGM 5 (Ghost) - Mario Clash",
       
       .. Virtual Boy Wario Land (1995, Virtual Boy)
       
-      //"Level Theme 1 - Virtual Boy Wario Land",
-      //"Level Theme 3 (Underwater) - Virtual Boy Wario Land",
-      //F//"Level Theme 4 - Virtual Boy Wario Land",
+      //"Stage BGM 1 - Virtual Boy Wario Land",
+      //"Stage BGM 3 (Underwater) - Virtual Boy Wario Land",
+      //F//"Stage BGM 4 (Woods) - Virtual Boy Wario Land",
       //F//"Staff Roll - Virtual Boy Wario Land",
       
       .. Donkey Kong Country 2: Diddy's Kong Quest (1995, SNES)
@@ -2377,8 +2377,8 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       .. Mario Tennis Aces (2018, Switch)
       
       //"Title Screen - Mario Tennis Aces",
-      //"Stadium Theme - Mario Tennis Aces",
-      //F//"Bowcien Battle (Super Mario 64 ~ Bowser's Theme / Bowser's Road) - Mario Tennis Aces",
+      //"Marina Stadium - Mario Tennis Aces",
+      //F//"Final Battle (Bowcien) (Super Mario 64 ~ Bowser's Theme / Bowser's Road) - Mario Tennis Aces",
       
       .D. Mario + Rabbids Kingdom Battle: Donkey Kong Adventure (2018, Switch)
 
@@ -2872,7 +2872,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       .E. Mario Kart World (2025, Switch 2)
       
       //E//"Title Screen - Mario Kart World",
-      //E//"Main Menu - Mario Kart World",
+      //E//"Course Select - Mario Kart World",
       //E//"Mario Bros. Circuit - Mario Kart World",
       //E//"Crown City - Mario Kart World",
       //E//"Whistlestop Summit - Mario Kart World",
@@ -2892,7 +2892,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //E//"Staff Roll - Mario Kart World",
       //E//"Title Screen ~ Fusion Ver. (Super Mario Kart) - Mario Kart World",
       //E//"Staff Roll (Super Mario Kart) - Mario Kart World",
-      //E//"Selection Screens (Mario Kart 64) - Mario Kart World",
+      //E//"Character Select (Mario Kart 64) - Mario Kart World",
       //E//"Rainbow Road (Mario Kart 64) - Mario Kart World",
       //E//"Baby Park (Mario Kart: Double Dash!!) - Mario Kart World",
       //E//"Sherbet Land (Mario Kart: Double Dash!!) - Mario Kart World",
@@ -2913,7 +2913,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //E//"Wild Woods (Mario Kart 8) - Mario Kart World",
       //F//"Merry Mountain (Mario Kart Tour) - Mario Kart World",
       //E//"Piranha Plant Pipeline (Mario Kart Tour) - Mario Kart World",
-      //E//"Main Theme (Mario Kart Live: Home Circuit) - Mario Kart World",      
+      //E//"Title Screen (Mario Kart Live: Home Circuit) - Mario Kart World",      
       //E//"Underwater (Super Mario Bros.) - Mario Kart World",
       //E//"Overworld Medley (Super Mario Bros. 3) - Mario Kart World",
       //F//"Athletic (Super Mario Bros. 3) - Mario Kart World",
@@ -2924,9 +2924,9 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //E//"Athletic (Super Mario World) - Mario Kart World",
       //E//"Drawing Board 1 (Mario Paint) - Mario Kart World",
       //F//"Main Theme (Super Mario Land 2 - 6 Golden Coins) - Mario Kart World",
-      //E//"Rice Beach (Wario Land: Super Mario Land 3) - Mario Kart World",
+      //E//"Main Theme (Wario Land: Super Mario Land 3) - Mario Kart World",
       //E//"Opening Melody (Super Mario World 2: Yoshi's Island) - Mario Kart World",
-      //F//"Flower Field (Super Mario World 2: Yoshi's Island) - Mario Kart World",
+      //F//"Flower Field ~ Ska Ver. (Super Mario World 2: Yoshi's Island) - Mario Kart World",
       //E//"Baby Bowser Battle (Super Mario World 2: Yoshi's Island) - Mario Kart World",
       //E//"File Select (Super Mario 64) - Mario Kart World",
       //F//"Piranha Plant's Lullaby (Super Mario 64) - Mario Kart World",
@@ -2944,7 +2944,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //F//"Underwater (New Super Mario Bros. Wii) - Mario Kart World",
       //E//"Puzzle Plank Galaxy (Super Mario Galaxy 2) - Mario Kart World",
       //E//"Wild Glide Galaxy (Super Mario Galaxy 2) - Mario Kart World",
-      //E//"The Mario Drawing Song (Flipnote Studio) - Mario Kart World",
+      //E//"Mario Drawing Song (Flipnote Studio) - Mario Kart World",
       //F//"Double Cherry Pass (Super Mario 3D World) - Mario Kart World",
       //E//"Title Screen (Super Mario Maker) - Mario Kart World",
       //E//"Fossil Falls (Super Mario Odyssey) - Mario Kart World",
@@ -2972,7 +2972,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       //F//"Elephant Bananza - Donkey Kong Bananza",
       //F//"Snake Bananza - Donkey Kong Bananza",
       //E//"Poppy Kong Battle - Donkey Kong Bananza",
-      //F//"K. Rool, King Of Rot Battle - Donkey Kong Bananza",
+      //F//"King K. Rool Battle - Donkey Kong Bananza",
       //E//"2D Challenge Course #1 (DK Island Swing) - Donkey Kong Bananza",
       //E//"2D Challenge Course #2 (Stickerbush Symphony) - Donkey Kong Bananza",
       //E//"2D Challenge Course #3 (Mine Cart Madness) - Donkey Kong Bananza",

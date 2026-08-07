@@ -827,7 +827,7 @@
 "Form Explanation - WarioWare: Move It!",//07-18-24
 "Turtle Bridge - Game & Watch Gallery 3",//07-19-24
 "Kongo Jungle - Super Smash Bros. (N64)",//07-20-24
-"Level Theme 3 (Underwater) - Virtual Boy Wario Land",//07-21-24
+"Stage BGM 3 (Underwater) - Virtual Boy Wario Land",//07-21-24
 "A Powerful Enemy Emerges (Boss Battle) - Super Paper Mario",//07-22-24
 "Merry Go Round - Super Mario 64",//07-23-24
 "Super Mario House - Super Mario RPG (Switch)",//07-24-24
@@ -1199,7 +1199,7 @@
 "Winning Results - Mario Kart 64",//07-25-25
 "Mario Stadium - Mario Hoops 3-On-3",//07-26-25
 "Main Menu - Mario Kart Arcade GP 2",//07-27-25
-"Singles Match 1 - Mario's Tennis (Virtual Boy)",//07-28-25
+"Singles 1 - Mario's Tennis (Virtual Boy)",//07-28-25
 "Fever - Dr. Mario (NES)",//07-29-25
 "Title Screen - Yoshi Topsy-Turvy",//07-30-25
 "Athletics: 100m - Mario & Sonic At The Olympic Games (2007)",//07-31-25
@@ -1292,7 +1292,7 @@
 "Clock Tower - Donkey Kong Jungle Beat",//10-26-25
 "Kong Bananza - Donkey Kong Bananza",//10-27-25
 "Body Rock (D.I.Y.) - WarioWare Gold",//10-28-25
-"Ghost (Level 13) - Mario Clash",//10-29-25
+"Stage BGM 5 (Ghost) - Mario Clash",//10-29-25
 "Chatting With A Ghost - Luigi's Mansion (GameCube)",//10-30-25
 "Boo Cinema - Mario Kart World",//10-31-25
 "Peach's Birthday Cake [Mario Party 1] - Mario Party Superstars",//11-01-25
@@ -1424,7 +1424,7 @@
 "Tough Guy Alert! (Boss Battle) - Mario & Luigi: Bowser's Inside Story (DS)",//03-07-26
 "N64 Choco Mountain - Mario Kart World",//03-08-26
 "The Great Tower - Super Mario 3D World",//03-09-26
-"Music C (Starman) - Yoshi (NES)",//03-10-26
+"Star BGM - Yoshi (NES)",//03-10-26
 "Mega Rocky Wrench Wreckers - Super Mario Party Jamboree",//03-11-26
 "Eddy River - Paper Mario: The Origami King",//03-12-26
 "Title Screen - Super Mario Strikers",//03-13-26
@@ -1476,13 +1476,13 @@
 "Options - Mario Kart DS",//04-28-26
 "Fever - Dr. Mario World",//04-29-26
 "Petey Piranha Battle - Mario Pinball Land",//04-30-26
-"Catch The Coins! (Bonus Chance) - Mario Clash",//05-01-26
+"Bonus Chance (Bonus Chance) - Mario Clash",//05-01-26
 "The Sharkbones Of Allsand Island - Mario & Luigi: Brothership",//05-02-26
 "Waluigi Stadium / Wario Colosseum - Mario Kart: Double Dash!!",//05-03-26
 "Here We Go! (Battle As Bros.) - Mario & Luigi: Bowser's Inside Story (DS)",//05-04-26
 "Moonview Highway - Mario Kart Wii",//05-05-26
 "Create & Share - Mario And Donkey Kong: Minis On The Move",//05-06-26
-"Warning Screen - Mario's Tennis (Virtual Boy)",//05-07-26
+"Game Startup - Mario's Tennis (Virtual Boy)",//05-07-26
 "Subspace - Super Mario Bros. 2 (NES)",//05-08-26
 "Enchanting Echo Of The Deep (Mermaid Peach) - Princess Peach: Showtime!",//05-09-26
 "Magma Mine - Mario Party 9",//05-10-26
@@ -1601,7 +1601,7 @@
 "Vs. Mega Baby Bowser - Yoshi's Woolly World",//08-31-26
 "Rainbow Road (Mario Kart: Double Dash!!) - Mario Kart World",//09-01-26
 "Grandpa And The Upbeat Tadpoles (Tadpole Pond) - Super Mario RPG (Switch)",//09-02-26
-"Level Theme 1 - Virtual Boy Wario Land",//09-03-26
+"Stage BGM 1 - Virtual Boy Wario Land",//09-03-26
 "A Bittersweet Music Box - Paper Mario: The Thousand-Year Door (GameCube)",//09-04-26
 "Main Menu - Mario Super Sluggers",//09-05-26
 "Battle - Super Mario Kart",//09-06-26
@@ -1662,17 +1662,17 @@
 "Round Game - Wario's Woods (SNES)",
 "Star Picross - Mario's Picross",
 "Aquatic Ambiance - Donkey Kong Land",
-"Tournament Doubles 1 - Mario's Tennis (Virtual Boy)",
-"Results - Mario's Tennis (Virtual Boy)",
+"Doubles Tournament 1 - Mario's Tennis (Virtual Boy)",
+"Match Results - Mario's Tennis (Virtual Boy)",
 "Flower Field - Super Mario World 2: Yoshi's Island",
 "Big Boss - Super Mario World 2: Yoshi's Island",
 "Powerful Mario - Super Mario World 2: Yoshi's Island",
 "Ending - Super Mario World 2: Yoshi's Island",
 "Wario BGM 2 - Mario's Super Picross",//02-15
 "Staff Roll - Mario's Super Picross",
-"Pipes (Level 1) - Mario Clash",
-"Ice (Level 8) - Mario Clash",
-"Level Theme 4 - Virtual Boy Wario Land",
+"Stage BGM 1 (Pipes) - Mario Clash",
+"Stage BGM 3 (Ice) - Mario Clash",
+"Stage BGM 4 (Woods) - Virtual Boy Wario Land",
 "Staff Roll - Virtual Boy Wario Land",
 "Disco Train - Donkey Kong Country 2: Diddy's Kong Quest",
 "Crocodile Cacophony - Donkey Kong Country 2: Diddy's Kong Quest",
@@ -2121,8 +2121,8 @@
 "Race - Super Mario Odyssey",
 "RC Car Challenge (Super Mario Kart ~ Mario Circuit) - Super Mario Odyssey",
 "Main Menu - Mario Party: The Top 100",
-"Stadium Theme - Mario Tennis Aces",
-"Bowcien Battle (Super Mario 64 ~ Bowser's Theme / Bowser's Road) - Mario Tennis Aces",
+"Marina Stadium - Mario Tennis Aces",
+"Final Battle (Bowcien) (Super Mario 64 ~ Bowser's Theme / Bowser's Road) - Mario Tennis Aces",
 "Jungle Joust (DK Island Swing) - Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",
 "Wario Deluxe (Final Stage) - WarioWare Gold",
 "Megafruit Paradise / Watermelon Walkabout - Super Mario Party",//05-08
@@ -2234,7 +2234,7 @@
 "Reclusa World - Mario & Luigi: Brothership",
 "The Final Phase - Mario & Luigi: Brothership",
 "The World Is Connected! (Staff Roll) - Mario & Luigi: Brothership",
-"Main Menu - Mario Kart World",
+"Course Select - Mario Kart World",
 "Mario Bros. Circuit - Mario Kart World",
 "Crown City - Mario Kart World",
 "Whistlestop Summit - Mario Kart World",
@@ -2246,7 +2246,7 @@
 "Rainbow Road - Mario Kart World",
 "Staff Roll - Mario Kart World",
 "Staff Roll (Super Mario Kart) - Mario Kart World",
-"Selection Screens (Mario Kart 64) - Mario Kart World",
+"Character Select (Mario Kart 64) - Mario Kart World",
 "Rainbow Road (Mario Kart 64) - Mario Kart World",
 "Baby Park (Mario Kart: Double Dash!!) - Mario Kart World",
 "Sherbet Land (Mario Kart: Double Dash!!) - Mario Kart World",
@@ -2262,16 +2262,16 @@
 "Staff Roll (Mario Kart 7) - Mario Kart World",
 "Wild Woods (Mario Kart 8) - Mario Kart World",
 "Merry Mountain (Mario Kart Tour) - Mario Kart World",
-"Main Theme (Mario Kart Live: Home Circuit) - Mario Kart World",
+"Title Screen (Mario Kart Live: Home Circuit) - Mario Kart World",
 "Underwater (Super Mario Bros.) - Mario Kart World",
 "Athletic (Super Mario Bros. 3) - Mario Kart World",
 "Underwater (Super Mario Bros. 3) - Mario Kart World",
 "Overworld Medley (Super Mario World) - Mario Kart World",
 "Ground ~ Ska Ver. (Super Mario World) - Mario Kart World",
 "Athletic (Super Mario World) - Mario Kart World",
-"Rice Beach (Wario Land: Super Mario Land 3) - Mario Kart World",
+"Main Theme (Wario Land: Super Mario Land 3) - Mario Kart World",
 "Opening Melody (Super Mario World 2: Yoshi's Island) - Mario Kart World",
-"Flower Field (Super Mario World 2: Yoshi's Island) - Mario Kart World",
+"Flower Field ~ Ska Ver. (Super Mario World 2: Yoshi's Island) - Mario Kart World",
 "Baby Bowser Battle (Super Mario World 2: Yoshi's Island) - Mario Kart World",
 "Piranha Plant's Lullaby (Super Mario 64) - Mario Kart World",
 "Dire, Dire Docks (Super Mario 64) - Mario Kart World",
@@ -2286,7 +2286,7 @@
 "Space Junk Road (Super Mario Galaxy) - Mario Kart World",
 "Underwater (New Super Mario Bros. Wii) - Mario Kart World",
 "Puzzle Plank Galaxy (Super Mario Galaxy 2) - Mario Kart World",
-"The Mario Drawing Song (Flipnote Studio) - Mario Kart World",
+"Mario Drawing Song (Flipnote Studio) - Mario Kart World",
 "Double Cherry Pass (Super Mario 3D World) - Mario Kart World",
 "Title Screen (Super Mario Maker) - Mario Kart World",
 "Riding Plessie (Bowser's Fury) - Mario Kart World",
@@ -2303,7 +2303,7 @@
 "Elephant Bananza - Donkey Kong Bananza",
 "Snake Bananza - Donkey Kong Bananza",
 "Poppy Kong Battle - Donkey Kong Bananza",
-"K. Rool, King Of Rot Battle - Donkey Kong Bananza",
+"King K. Rool Battle - Donkey Kong Bananza",
 "2D Challenge Course #1 (DK Island Swing) - Donkey Kong Bananza",
 "2D Challenge Course #2 (Stickerbush Symphony) - Donkey Kong Bananza",
 "2D Challenge Course #3 (Mine Cart Madness) - Donkey Kong Bananza",
@@ -5628,7 +5628,7 @@
           },
           {
             url: "https://soundcloud.com/vbwario/19-level-theme-3",
-            answer: "Level Theme 3 (Underwater) - Virtual Boy Wario Land",
+            answer: "Stage BGM 3 (Underwater) - Virtual Boy Wario Land",
           },
           {
             url: "https://soundcloud.com/super-paper-camek/a-powerful-enemy-emerges-boss-battle-super-paper-mario-2007",
@@ -7116,7 +7116,7 @@
           },
           {
             url: "https://soundcloud.com/vbwario/singles-1",
-            answer: "Singles Match 1 - Mario's Tennis (Virtual Boy)",
+            answer: "Singles 1 - Mario's Tennis (Virtual Boy)",
           },
           {
             url: "https://soundcloud.com/user-227502204-594364584/fever",
@@ -7488,7 +7488,7 @@
           },
           {
             url: "https://soundcloud.com/vbwario/ghost-l13",
-            answer: "Ghost (Level 13) - Mario Clash",
+            answer: "Stage BGM 5 (Ghost) - Mario Clash",
           },
           {
             url: "https://soundcloud.com/vgmhoarder/talking-with-ghosts-luigis-mansion",
@@ -8016,7 +8016,7 @@
           },
           {
             url: "https://soundcloud.com/yoshiheardle/starman-music-c",
-            answer: "Music C (Starman) - Yoshi (NES)",
+            answer: "Star BGM - Yoshi (NES)",
           },
           {
             url: "https://soundcloud.com/smpjamboree/mega-rocky-wrench-wreckers-1",
@@ -8224,7 +8224,7 @@
           },
           {
             url: "https://soundcloud.com/vbwario/catch-the-coins",
-            answer: "Catch The Coins! (Bonus Chance) - Mario Clash",
+            answer: "Bonus Chance (Bonus Chance) - Mario Clash",
           },
           {
             url: "https://soundcloud.com/silly-person-52110284/58-allsand-island",
@@ -8248,7 +8248,7 @@
           },
           {
             url: "https://soundcloud.com/vbwario/warning-screen",
-            answer: "Warning Screen - Mario's Tennis (Virtual Boy)",
+            answer: "Game Startup - Mario's Tennis (Virtual Boy)",
           },
           {
             url: "https://soundcloud.com/6nintendo/sub-space",
@@ -8724,7 +8724,7 @@
           },
           {
             url: "https://soundcloud.com/vbwario/07-level-theme-1",
-            answer: "Level Theme 1 - Virtual Boy Wario Land",
+            answer: "Stage BGM 1 - Virtual Boy Wario Land",
           },
           {
             url: "https://soundcloud.com/papergirl3/sadness-and-happiness-paper",
