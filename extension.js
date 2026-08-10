@@ -1476,7 +1476,7 @@ let _metadata = createMetadata({
 "Options - Mario Kart DS": [2005, "DS", "Mario Kart", "Mario Kart DS", "Racing"],
 "Fever - Dr. Mario World": [2019, "iOS / Android", "Dr. Mario", "Dr. Mario World", "Puzzle"],
 "Petey Piranha Battle - Mario Pinball Land": [2004, "GBA", "Mario Misc", "Mario Pinball Land", "Other"],
-"Bonus Chance (Bonus Chance) - Mario Clash": [1995, "Virtual Boy", "Mario Misc", "Mario Clash", "Puzzle"],
+"Bonus Chance - Mario Clash": [1995, "Virtual Boy", "Mario Misc", "Mario Clash", "Puzzle"],
 "The Sharkbones Of Allsand Island - Mario & Luigi: Brothership": [2024, "Switch", "Mario & Luigi", "Mario & Luigi: Brothership", "RPG"],
 "Waluigi Stadium / Wario Colosseum - Mario Kart: Double Dash!!": [2003, "GameCube", "Mario Kart", "Mario Kart Double Dash!!", "Racing"],
 "Here We Go! (Battle As Bros.) - Mario & Luigi: Bowser's Inside Story (DS)": [2009, "DS", "Mario & Luigi", "Mario & Luigi: Bowser's Inside Story", "RPG"],
