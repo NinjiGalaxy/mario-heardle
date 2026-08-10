@@ -313,7 +313,7 @@ This is a text document for internal use. It lists all the songs in Mario Heardl
       
       "Title Screen - Mario Clash",
       //D//"Stage BGM 1 (Pipes) - Mario Clash",
-      //F//"Bonus Chance (Bonus Chance) - Mario Clash",
+      //F//"Bonus Chance - Mario Clash",
       //F//"Stage BGM 3 (Ice) - Mario Clash",
       //D//"Stage BGM 5 (Ghost) - Mario Clash",
       
