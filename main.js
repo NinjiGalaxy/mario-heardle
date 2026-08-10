@@ -1476,7 +1476,7 @@
 "Options - Mario Kart DS",//04-28-26
 "Fever - Dr. Mario World",//04-29-26
 "Petey Piranha Battle - Mario Pinball Land",//04-30-26
-"Bonus Chance (Bonus Chance) - Mario Clash",//05-01-26
+"Bonus Chance - Mario Clash",//05-01-26
 "The Sharkbones Of Allsand Island - Mario & Luigi: Brothership",//05-02-26
 "Waluigi Stadium / Wario Colosseum - Mario Kart: Double Dash!!",//05-03-26
 "Here We Go! (Battle As Bros.) - Mario & Luigi: Bowser's Inside Story (DS)",//05-04-26
@@ -8224,7 +8224,7 @@
           },
           {
             url: "https://soundcloud.com/vbwario/catch-the-coins",
-            answer: "Bonus Chance (Bonus Chance) - Mario Clash",
+            answer: "Bonus Chance - Mario Clash",
           },
           {
             url: "https://soundcloud.com/silly-person-52110284/58-allsand-island",
